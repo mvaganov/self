@@ -47,6 +47,7 @@ Key: (```p```) Part-time, (```F```) Full-time
 *September 2014 to present*
 
 Elite Computer Science education for youth in the Silicon Valley
+<!--- optional line -->
 * Regular clientele of kids between age 7 and 17
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Project Management
@@ -54,6 +55,7 @@ Elite Computer Science education for youth in the Silicon Valley
 #### Self Employed Programmer, Entrepreneur
 *December 2012 to present*
 
+<!--- optional line -->
 Voluntarily left full-time job to pursue other ambitions
 * Stealth Startup, working on project codenamed "Impetus" 
   - Game + Project Management Software using Unity3D and C#
@@ -66,15 +68,9 @@ Voluntarily left full-time job to pursue other ambitions
 #### Professor at DeVry University (Silicon Valley Campuses)
 *March 2006 to present*
 
-Professor of Games and Simulation Programming (GSP)
+Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4)
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team)
-* Faculty guide for game development clubs since March 2006
-* Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
-* Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
-* Extra-curricular game programming workshops for students
-* Mostly on-campus classes, with experience teaching online classes as well
-* Advised Dean while implementing new game development curriculum
 * Personal teaching style emphasizes:
   - Show them running code. Running Code Is Truth.
   - Leading by example (good code, honest testing, and honest communication)
@@ -87,6 +83,17 @@ Professor of Games and Simulation Programming (GSP)
   - Agile and agile (small-a) development, favoring the small-a
   - Joy-of-discovery and character-building-pain-of-debugging are important
 
+<!--- optional list -->
+* Faculty guide for game development clubs since March 2006
+* Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
+* Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
+* Extra-curricular game programming workshops for students
+* Mostly on-campus classes, with experience teaching online classes as well
+* Advised Dean while implementing new game development curriculum
+
+<!--- optional list, replace with 
+Full list of DeVry courses taught at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+-->
 DeVry Courses Taught:
 * GSP110/GSP111 - Introduction to the game development process
   - Overview of games industry history & culture
@@ -165,6 +172,9 @@ Developer responsible for end-to-end network-aware mobile application developmen
 * Created AML, an HTML-like scripting language used to describe UI and network-aware UI traversal for phones
 * Created build tools, runtime engine (including container-based UI system), and on-the-fly server-side Java-based compiler for AML, a custom UI engine for mobile
 
+<!--- optional list, replace with 
+Full list of LimeLife shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+-->
 LimeLife Mobile Titles List: 
 * Hallmark Smiles + Styles - J2ME/BREW - Lead Developer - Web-aware browser that used scripting engine to display network distributed UI. Built and designed from the ground up in both J2ME and BREW, including multi-platform HTML-like scripting language and compiler, container-based UI system, and platform abstraction code (including multi-lingual network protocol abstraction), which was integrated into main LimeLife porting framework (ALE).
 * Urban Chica - J2ME/BREW - Lead Developer - A re-skinned application built in parallel and accomplished within *hours* of final builds of Hallmark Smiles + Styles. No source code alterations needed, only script modifications.
@@ -192,10 +202,14 @@ Very productive first 6 months of professional software development work
 * Prototyped a functional BREW UI engine. 
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
+<!--- optional list -->
 Porting Experience With The Following Phones (not all phones listed):
 * BREW - Audiovox (CDM 8910, CDM 8940, CDM 8600, CDM 8900), Kyocera (KX1, KX2, KX444, SE47), LG (VX4400, VX4500, VX4600, VX4700, VX6000, VX6100, VX7000, VX8000, VX8100, VX8500, VX10000), Motorola (V65, V260, V265, T720, C343, V710, V262, E815, V3, K1), Samsung (N330, A610, A790, A650, U740).
 * J2ME - MIDP-1.0 and MIDP-2.0 (Sony Ericssons, LG, Samsung, Motorola V series, Nokias, ...)
 
+<!--- optional list, replace with 
+Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+-->
 Infospace Mobile / Atlas Mobile Titles List:
 * Tetris Tournament For Prizes - BREW - Porting Engineer - Tetris with a "For Prizes" component. One build worked on every handset tested. This portability was implemented above and beyond spec and enumerated work items (drawing and UI resized, had multiple handset specific bugfixes that were benign on all other devices).
 * Prize21 For Prizes - BREW - Porting Engineer - Fast paced puzzle game.  Experimented with procedural drawing with some great results. One build worked on every handset tested (as Tetris Tournament).
@@ -211,7 +225,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
-
+<!--- optional list -->
 * Tutored hundreds of students, primarily in algebra, and computer science
 * Trained and mentored new tutors, and wrote training documentation
 * CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
@@ -222,6 +236,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 *September 2006 to 2010*
 
 Masters of Project Management
+<!--- optional list -->
 * Part time classes
 * Practice with business and management concepts including:
   - Work Breakdown Structures, Gantt, Decision trees, RACI
@@ -232,6 +247,7 @@ Masters of Project Management
 *July 2001 to October 2004*
 
 BS of Computer Information Systems
+<!--- optional list -->
 * Graduated GPA 3.76 (Deans List)
 * Special Honors
   - Summa Cum Laude
@@ -244,33 +260,28 @@ BS of Computer Information Systems
 * Clubs: Chess Club member, Game Development Club President
 * Staff at ACM programming competition hosted at DeVry
 
+## Other
+
 #### Volunteering Teaching
 
-##### Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
-* Assisted a "Global Citizens" class, where students research world issues
-
-##### Coder Dojo Silicon Valley (Sep. 2013 to present)
-* Teaching Computer Science to kids 10+
-* Scratch, Python, Web Development, Unity3D
-
-##### Guest Lecturer, Makerere University, Kampala, Uganda (Oct. & Nov. 2012)
-* Professional Game Programming with C++
-* 230+ students (under-graduate and graduate)
-
-##### Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012)
-* Game Programming with Unity3D
-* 30+ students (high-school and under-graduate)
-
-##### Guest Lecturer, Victoria University, Kampala, Uganda (November 2012)
-* Introductory C++
-* ~20 students (under-graduate)
-
-##### Introductory Game Programming with C/C++ (late 2011, 2012)
-* Included a Unity3D tutorial
-* Neighborhood volunteer: 4 students (middle-school and adult), in late 2011
-* River of Life Church: ~20 students (middle-school) in mid-to-late 2012
-
-## Other
+* Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
+  - Assisted a "Global Citizens" class, where students research world issues
+* Coder Dojo Silicon Valley (Sep. 2013 to present)
+  - Teaching Computer Science to kids 10+
+  - Scratch, Python, Web Development, Unity3D
+* Guest Lecturer, Makerere University, Kampala, Uganda (Oct. & Nov. 2012)
+  - Professional Game Programming with C++
+  - 230+ students (under-graduate and graduate)
+* Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012)
+  - Game Programming with Unity3D
+  - 30+ students (high-school and under-graduate)
+* Guest Lecturer, Victoria University, Kampala, Uganda (November 2012)
+  - Introductory C++
+  - ~20 students (under-graduate)
+* Introductory Game Programming with C/C++ (late 2011, 2012)
+  - Included a Unity3D tutorial
+  - Neighborhood volunteer: 4 students (middle-school and adult), in late 2011
+  - River of Life Church: ~20 students (middle-school) in mid-to-late 2012
 
 #### Hobbies
 * Rock climbing
