@@ -262,8 +262,8 @@ BS of Computer Information Systems
 
 ## Other
 
+<!--- optional list -->
 #### Volunteering Teaching
-
 * Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
   - Assisted a "Global Citizens" class, where students research world issues
 * Coder Dojo Silicon Valley (Sep. 2013 to present)
@@ -285,7 +285,7 @@ BS of Computer Information Systems
 
 #### Hobbies
 * Rock climbing
-* Volunteer Teaching (including international work, see above)
+* Volunteer Teaching
 * Game Jams and Hackathons (sample works at codegiraffe.com)
 
 #### Personal Programming Axioms
