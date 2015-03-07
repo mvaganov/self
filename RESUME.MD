@@ -8,13 +8,6 @@ http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 
 ## Skills
 
-### Programming Languages
-* C#, C/C++, and Java (highly proficient, well over 10,000 hours)
-
-### Communication Skills
-* English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
-* 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
-
 ### Software Development Skills
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
@@ -29,6 +22,10 @@ http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 * Web Development: Node.js, Heroku, Apache Tomcat, proprietary systems
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
+
+### Communication Skills
+* English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
+* 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
 
 ## Employment History
 
@@ -46,7 +43,7 @@ Key: (```p```) Part-time, (```F```) Full-time
 
 ### Empoyment Details
 
-#### theCoderSchool, Coad Coach
+#### theCoderSchool, Code Coach
 *September 2014 to present*
 
 Elite Computer Science education for youth in the Silicon Valley
