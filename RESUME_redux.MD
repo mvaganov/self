@@ -1,8 +1,9 @@
 **note**: This is an abriged resume. A more detailed version is available at https://github.com/mvaganov/self/blob/master/RESUME.MD
-## Michael Vaganov (michael.vaganov@gmail.com)
+# Michael Vaganov (michael.vaganov@gmail.com)
 
 Computer Programmer with Games and Education experience.
 
+## Skills
 ### Software Development Skills
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
@@ -23,8 +24,7 @@ Computer Programmer with Games and Education experience.
 * 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
 
 ## Employment History
-
-### Employment / Education Timeline
+### Employment + Education Timeline
 ```
                2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
 Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------
@@ -37,7 +37,6 @@ Impetus(stealth startup)```------``````------``````------``````------``````-----
 Key: (```p```) Part-time, (```F```) Full-time
 
 ### Empoyment Details
-
 #### theCoderSchool, Code Coach
 *September 2014 to present*
 
@@ -59,10 +58,9 @@ Elite Computer Science education for youth in the Silicon Valley
 #### Professor at DeVry University (Silicon Valley Campuses)
 *March 2006 to present*
 
-Professor of Games and Simulation Programming (GSP)
+Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4)
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team)
-* Faculty guide for game development clubs since March 2006
 * Personal teaching style emphasizes:
   - Show them running code. Running Code Is Truth.
   - Leading by example (good code, honest testing, and honest communication)
@@ -75,7 +73,7 @@ Professor of Games and Simulation Programming (GSP)
   - Agile and agile (small-a) development, favoring the small-a
   - Joy-of-discovery and character-building-pain-of-debugging are important
 
-List of DeVry courses taught available at https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of DeVry courses taught at: https://github.com/mvaganov/self/blob/master/RESUME.MD
 
 #### Software Engineer at LimeLife
 *November 2006 to April 2008*
@@ -93,7 +91,7 @@ Developer responsible for end-to-end network-aware mobile application developmen
 * Created AML, an HTML-like scripting language used to describe UI and network-aware UI traversal for phones
 * Created build tools, runtime engine (including container-based UI system), and on-the-fly server-side Java-based compiler for AML, a custom UI engine for mobile
 
-List of LimeLife Mobile shipped titles at https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of LimeLife shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
 
 #### Software Engineer at Infospace Mobile Games
 *December 2004 to November 2006*
@@ -115,13 +113,12 @@ Very productive first 6 months of professional software development work
 * Prototyped a functional BREW UI engine. 
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
-List of Infospace Mobile / Atlas Mobile shipped titles at https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
 
 ## Education
-
 #### Keller Graduate School of Management
 *September 2006 to 2010*
 
@@ -133,7 +130,6 @@ Masters of Project Management
 BS of Computer Information Systems
 
 ## Other
-
 #### Hobbies
 * Rock climbing
 * Volunteer Teaching
@@ -165,3 +161,4 @@ BS of Computer Information Systems
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
 * Do not fear complexity; simplify.
+* http://codegiraffe.com/quotes.txt
