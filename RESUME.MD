@@ -1,13 +1,15 @@
+<!--- optional if removing optional text, save result in another file and include:
+**note**: This is an abriged resume. A more detailed version is available at https://github.com/mvaganov/self/blob/master/RESUME.MD
+-->
 # Michael Vaganov (michael.vaganov@gmail.com)
 
 Computer Programmer with Games and Education experience.
 
+<!--- optional -->
 ## Portfolio
-
 http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 
 ## Skills
-
 ### Software Development Skills
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
@@ -28,8 +30,7 @@ http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 * 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
 
 ## Employment History
-
-### Employment/Education Timeline
+### Employment + Education Timeline
 ```
                2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
 Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------
@@ -42,7 +43,6 @@ Impetus(stealth startup)```------``````------``````------``````------``````-----
 Key: (```p```) Part-time, (```F```) Full-time
 
 ### Empoyment Details
-
 #### theCoderSchool, Code Coach
 *September 2014 to present*
 
@@ -231,7 +231,6 @@ Infospace Mobile / Atlas Mobile Titles List:
 * CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
 
 ## Education
-
 #### Keller Graduate School of Management
 *September 2006 to 2010*
 
@@ -261,7 +260,6 @@ BS of Computer Information Systems
 * Staff at ACM programming competition hosted at DeVry
 
 ## Other
-
 <!--- optional list -->
 #### Volunteering Teaching
 * Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
