@@ -1,10 +1,11 @@
-**note**: This is an abriged resume. A more detailed version is available at https://github.com/mvaganov/self/blob/master/RESUME.MD
-# Michael Vaganov (michael.vaganov@gmail.com)
-
+More details at https://github.com/mvaganov/self/blob/master/RESUME.MD
+## Michael Vaganov (michael.vaganov@gmail.com)
 Computer Programmer and Educator.
 
-## Skills
-### Software Development Skills
+**portfolio**
+codegiraffe.com
+
+**Software Development Skills**
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
 * Server side: client/server serialization, database, web tools
@@ -19,13 +20,11 @@ Computer Programmer and Educator.
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
 
-### Communication Skills
+**Communication Skills**
 * English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
 * 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
 
-## Employment History
-### Employment + Education Timeline
-Truncated to 10 years, best viewed in monospace font
+**Employment Timeline**
 ```
                 2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
 Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
