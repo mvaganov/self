@@ -2,7 +2,9 @@ More details at https://github.com/mvaganov/self/blob/master/RESUME.md
 ## Michael Vaganov (michael.vaganov@gmail.com)
 Computer Programmer and Educator.
 
-**portfolio**: http://www.codegiraffe.com
+**Portfolio**
+
+http://www.codegiraffe.com
 
 **Software Development Skills**
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
