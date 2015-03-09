@@ -1,7 +1,7 @@
 **note**: This is an abriged resume. A more detailed version is available at https://github.com/mvaganov/self/blob/master/RESUME.MD
 # Michael Vaganov (michael.vaganov@gmail.com)
 
-Computer Programmer with Games and Education experience.
+Computer Programmer and Educator.
 
 ## Skills
 ### Software Development Skills
