@@ -3,7 +3,7 @@
 -->
 # Michael Vaganov (michael.vaganov@gmail.com)
 
-Computer Programmer with Games and Education experience.
+Computer Programmer and Educator.
 
 <!--- optional -->
 ## Portfolio
