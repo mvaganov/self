@@ -23,7 +23,8 @@ http://www.codegiraffe.com
 
 **Communication Skills**
 * English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
-* 10+ years as educator: tutor and University Professor (taught age 7 to 40+)
+* **10+ years as educator**: tutor and University Professor (taught age 7 to 40+)
+* "Digital Native": computers at age 12, programming C++ at age 14
 
 **Employment Timeline**
 ```
