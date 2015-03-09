@@ -43,7 +43,7 @@ Impetus(stealth startup)```------``````------``````------``````------``````-----
 Key: (```p```) Part-time, (```F```) Full-time
 
 ### Empoyment Details
-#### theCoderSchool, Code Coach
+#### Code Coach at theCoderSchool 
 *September 2014 to present*
 
 Elite Computer Science education for youth in the Silicon Valley
