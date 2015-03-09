@@ -28,12 +28,12 @@ Computer Programmer with Games and Education experience.
 Truncated to 10 years, best viewed in monospace font
 ```
                 2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
-Student         ````xxx-----````xxxxxxxxxxx```------``````------``````------
+Student........ ````xxx-----````xxxxxxxxxxx```------``````------``````------
 Teaching @DeVry `xxxxxxxxxxxxx################################xxxx`xxx------
 Atlas/Infospace #####`------``````------``````------``````------``````------
-LimeLife        `````FFFFFFFFF````------``````------``````------``````------
-Other Teaching  ``````------``````------``````---xxx``xxxx---xxxxxxxxxxx----
-Impetus(stealth startup) ---``````------``````------`````xxxxx#xxxxxxxxx----
+LimeLife....... `````FFFFFFFFF````------``````------``````------``````------
+Other Teaching. ``````------``````------``````---xxx``xxxx---xxxxxxxxxxx----
+Impetus........ ``````------``````------``````------`````xxxxx#xxxxxxxxx----
 ```
 Key: (```x```) Part-time, (```#```) Full-time
 
