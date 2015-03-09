@@ -26,15 +26,15 @@ Computer Programmer with Games and Education experience.
 ## Employment History
 ### Employment + Education Timeline
 ```
-               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
-Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------
-Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
-Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------
-LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------
-Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppp----
-Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFppppppppp----
+                2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
+Student         ------````xxx-----````xxxxxxxxxxx```------``````------``````------
+Teaching @DeVry ------`xxxxxxxxxxxxx################################xxxx`xxx------
+Atlas/Infospace ###########`------``````------``````------``````------``````------
+LimeLife        ------`````FFFFFFFFF````------``````------``````------``````------
+Other Teaching  ------``````------``````------``````---xxx``xxxx---xxxxxxxxxxx----
+Impetus(stealth startup) ```------``````------``````------`````xxxxx#xxxxxxxxx----
 ```
-Key: (```p```) Part-time, (```F```) Full-time
+Key: (```x```) Part-time, (```#```) Full-time
 
 ### Empoyment Details
 #### theCoderSchool, Code Coach
