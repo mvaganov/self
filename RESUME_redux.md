@@ -28,13 +28,13 @@ Computer Programmer with Games and Education experience.
 Truncated to 10 years, best viewed in monospace font
 ```
                 2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
-Teaching @DeVry |xxxxxxxxxxxxx################################xxxx xxx|     
-Atlas/Infospace ##### |     |     |     |     |     |     |     |     |     
-LimeLife        |    #########    |     |     |     |     |     |     |     
-Other Teaching  |     |     |     |     |     |  xxx| xxxx|  xxxxxxxxxxx    
-Impetus         |     |     |     |     |     |     |    xxxxx#xxxxxxxxx    
+Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
+Atlas/Infospace FFFFF`------``````------``````------``````------``````------
+LimeLife        `````FFFFFFFFF````------``````------``````------``````------
+Other Teaching  ``````------``````------``````---ppp``pppp---ppppppppppp----
+Impetus(stealth startup) ---``````------``````------`````pppppFppppppppp----
 ```
-Key: (```*```) Part-time, (```#```) Full-time
+Key: (```p```) Part-time, (```F```) Full-time
 
 ### Empoyment Details
 #### theCoderSchool, Code Coach
