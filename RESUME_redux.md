@@ -118,6 +118,8 @@ Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.c
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
 
+CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+
 ## Education
 #### Keller Graduate School of Management
 *September 2006 to 2010*
