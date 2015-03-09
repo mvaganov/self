@@ -1,9 +1,8 @@
-More details at https://github.com/mvaganov/self/blob/master/RESUME.MD
+More details at https://github.com/mvaganov/self/blob/master/RESUME.md
 ## Michael Vaganov (michael.vaganov@gmail.com)
 Computer Programmer and Educator.
 
-**portfolio**
-codegiraffe.com
+**portfolio**: http://www.codegiraffe.com
 
 **Software Development Skills**
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
@@ -72,7 +71,7 @@ Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bac
   - Agile and agile (small-a) development, favoring the small-a
   - Joy-of-discovery and character-building-pain-of-debugging are important
 
-Full list of DeVry courses taught at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of DeVry courses taught at: https://github.com/mvaganov/self/blob/master/RESUME.md
 
 #### Software Engineer at LimeLife
 *November 2006 to April 2008*
@@ -90,7 +89,7 @@ Developer responsible for end-to-end network-aware mobile application developmen
 * Created AML, an HTML-like scripting language used to describe UI and network-aware UI traversal for phones
 * Created build tools, runtime engine (including container-based UI system), and on-the-fly server-side Java-based compiler for AML, a custom UI engine for mobile
 
-Full list of LimeLife shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of LimeLife shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.md
 
 #### Software Engineer at Infospace Mobile Games
 *December 2004 to November 2006*
@@ -112,7 +111,7 @@ Very productive first 6 months of professional software development work
 * Prototyped a functional BREW UI engine. 
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
-Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
+Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.md
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
