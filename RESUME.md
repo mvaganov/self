@@ -11,6 +11,7 @@ Computer Programmer and Educator.
 
 <!--- #ifndef redux -->
 ## Skills
+
 <!--- #endif -->
 ### Software Development Skills
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
@@ -33,6 +34,7 @@ Computer Programmer and Educator.
 * "Digital Native": stated using computers at age 10, programming C++ at age 14
 
 ## Employment History
+
 <!--- #ifdef redux -->
 <!--- ### Employment Timeline -->
 <!--- ``` -->
@@ -57,24 +59,27 @@ Other Teaching ------``````------``````------``````------``````------``````---pp
 Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFppppppppp----
 ```
 Key: (```p```) Part-time, (```F```) Full-time
+
 <!--- #endif -->
 
 ### Empoyment Details
 #### Code Coach at theCoderSchool 
 *September 2014 to present*
 
-Elite Computer Science education for youth in the Silicon Valley
+Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
+
 <!--- #ifndef redux -->
-* Regular clientele of kids between age 7 and 17
-<!--- #endif -->
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Project Management
+
+<!--- #endif -->
 
 #### Self Employed Programmer, Entrepreneur
 *December 2012 to present*
 
 <!--- #ifndef redux -->
 Voluntarily left full-time job to pursue other ambitions
+
 <!--- #endif -->
 * Stealth Startup, working on project codenamed "Impetus" 
   - Game + Project Management Software using Unity3D and C#
@@ -109,6 +114,7 @@ Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bac
 * Extra-curricular game programming workshops for students
 * Mostly on-campus classes, with experience teaching online classes as well
 * Advised Dean while implementing new game development curriculum
+
 <!--- #endif -->
 
 <!--- #ifndef redux -->
@@ -173,6 +179,7 @@ DeVry Courses Taught:
 * Game Programming with Unity3D and Blender (outreach class)
   - Extra-curricular High-school level course
   - Tutorial: making simple games with Unity3D, C#, and Blender
+
 <!--- #endif -->
 <!--- #ifdef redux -->
 <!--- Full list of DeVry courses taught at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
@@ -201,6 +208,7 @@ LimeLife Mobile Titles List:
 * Top Chef, the Mobile Game - J2ME/BREW - Framework Engineer - Designed and built composite Sprite engine. Also acted as Animator and technical artist.
 * Rachel Ray: Recipes on the Run - J2ME/BREW - Porting Engineer - Network aware application used to find and share licensed Rachel Ray recipes. Utilized FLIRT, a LimeLife proprietary scripting and UI layout technology
 * InStyle - BREW/J2ME - Porting Engineer - Network aware application used to distribute InStyle magazine content, based on FLIRT, the same technology used to build Rachel Ray.
+
 <!--- #endif -->
 <!--- #ifdef redux -->
 <!--- Full list of LimeLife shipped titles at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
@@ -230,8 +238,8 @@ Very productive first 6 months of professional software development work
 Porting Experience With The Following Phones (not all phones listed):
 * BREW - Audiovox (CDM 8910, CDM 8940, CDM 8600, CDM 8900), Kyocera (KX1, KX2, KX444, SE47), LG (VX4400, VX4500, VX4600, VX4700, VX6000, VX6100, VX7000, VX8000, VX8100, VX8500, VX10000), Motorola (V65, V260, V265, T720, C343, V710, V262, E815, V3, K1), Samsung (N330, A610, A790, A650, U740).
 * J2ME - MIDP-1.0 and MIDP-2.0 (Sony Ericssons, LG, Samsung, Motorola V series, Nokias, ...)
-<!--- #endif -->
 
+<!--- #endif -->
 <!--- #ifndef redux -->
 Infospace Mobile / Atlas Mobile Titles List:
 * Tetris Tournament For Prizes - BREW - Porting Engineer - Tetris with a "For Prizes" component. One build worked on every handset tested. This portability was implemented above and beyond spec and enumerated work items (drawing and UI resized, had multiple handset specific bugfixes that were benign on all other devices).
@@ -245,6 +253,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Hotties - J2ME - Lead Developer - Massively Multiplayer phone blogging + Hot or Not game. Developed, from scratch, a scriptable UI and logic engine for J2ME (including a new scripting language and script compiler) as a "shippable prototype". Optimized and increased the functionality of a proprietary client/server protocol. Wrote Java Bean server components that interacted with the client on Tomcat servlets. Trained 2 engineers on how to use the scripting language (one server side, and one client side). Created server logic and compiler tools to automatically generate script files to be streamed to handsets with dynamic content and UI.
 * Survivor Island Mobile - J2ME - Developer - Wrote a J2ME network-aware resource-loading API and zip-decoder, including resource manager to enable the phone client to grab compressed game resources from the web, using HTTP, and cache data (based on phone RMS capability). "For Prizes" Integration. Optimized and debugged.
 * TestT4P - J2ME - Lead Developer - Robust J2ME "For Prizes" testing application. J2ME application's binary had near universal portability: from the Nokia 6010 (tiny screen, only 2 direction buttons), to the top-of-the-line (of the day) Samsungs and Sony Ericsons. Written as an instructional tool to teach new-hire developers and QA team how to test and port "For Prizes" games, and how to write J2ME code (built with straight forward design and good J2ME design principles). Became central testing point for a programming test to upgraded QA to porting engineers.
+
 <!--- #endif -->
 <!--- #ifdef redux -->
 <!--- Full list of Infospace Mobile / Atlas Mobile shipped titles at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
@@ -252,10 +261,12 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
-* CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+
 <!--- #ifndef redux -->
 * Tutored hundreds of students, primarily in algebra, and computer science
 * Trained and mentored new tutors, and wrote training documentation
+
 <!--- #endif -->
 
 ## Education
@@ -263,18 +274,21 @@ Infospace Mobile / Atlas Mobile Titles List:
 *September 2006 to 2010*
 
 Masters of Project Management
+
 <!--- #ifndef redux -->
 * Part time classes
 * Practice with business and management concepts including:
   - Work Breakdown Structures, Gantt, Decision trees, RACI
   - Risk Management, Quantitative Decision Making, 6 Sigma 
   - Agile, Marketing Analysis, Budgeting, Leadership
+
 <!--- #endif -->
 
 #### DeVry University
 *July 2001 to October 2004*
 
 BS of Computer Information Systems
+
 <!--- #ifndef redux -->
 * Graduated GPA 3.76 (Deans List)
 * Special Honors
@@ -287,6 +301,7 @@ BS of Computer Information Systems
 * DeVry Advocate (volunteer program organized by student services)
 * Clubs: Chess Club member, Game Development Club President
 * Staff at ACM programming competition hosted at DeVry
+
 <!--- #endif -->
 
 ## Other
