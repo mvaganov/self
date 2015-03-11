@@ -34,16 +34,16 @@ Computer Programmer and Educator.
 
 ## Employment History
 <!--- #ifdef redux -->
-### Employment Timeline
-```
-                2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
-Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
-Atlas/Infospace FFFFF`------``````------``````------``````------``````------
-LimeLife        `````FFFFFFFFF````------``````------``````------``````------
-Other Teaching  ``````------``````------``````---ppp``pppp---ppppppppppp----
-Impetus(stealth startup) ---``````------``````------`````pppppFppppppppp----
-```
-Key: (```p```) Part-time, (```F```) Full-time
+<!--- ### Employment Timeline -->
+<!--- ``` -->
+<!---                 2006  2007  2008  2009  2010  2011  2012  2013  2014  2015 -->
+<!--- Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------ -->
+<!--- Atlas/Infospace FFFFF`------``````------``````------``````------``````------ -->
+<!--- LimeLife        `````FFFFFFFFF````------``````------``````------``````------ -->
+<!--- Other Teaching  ``````------``````------``````---ppp``pppp---ppppppppppp---- -->
+<!--- Impetus(stealth startup) ---``````------``````------`````pppppFppppppppp---- -->
+<!--- ``` -->
+<!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
