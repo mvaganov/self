@@ -12,7 +12,7 @@ var markdownpdf = require("markdown-pdf")
   , fs = require('fs')
   , mvaganov = require("./mvaganov")
   
-function preprocessFile(filename, outputfilename) {
+function doTheThing(filename, outputfilename) {
 	fs.readFile(filename, 'utf8', function (err,data) {
 		if (err) {
 			return console.log(err);
@@ -152,27 +152,5 @@ function preprocessFile(filename, outputfilename) {
 	
 }
 
-preprocessFile(resumeFilename, intermediateFile)
-
-// pass new file into md->pdf converter
-
-/*  
-function preProcessMd () {
-  // Split the input stream by lines
-  var splitter = split()
-  
-  console.log("-->"+typeof(splitter))
-  var debugOutput = mvaganov.toJSONWithFuncs(splitter)
-  debugOutput = debugOutput.replaceAll("\\n", "\n");
-  console.log(debugOutput)
-  
-  // Replace occurences of "foo" with "bar"
-  var replacer = through(function (data) {
-    this.queue(data.replace(/\<\!\-\-\-*\-\-\>/g, "") + "\n")
-  })
-
-  splitter.pipe(replacer)
-  return duplexer(splitter, replacer)
-}
-*/
+doTheThing(resumeFilename, intermediateFile)
 
