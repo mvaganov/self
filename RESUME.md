@@ -306,7 +306,20 @@ BS of Computer Information Systems
 
 ## Other
 #### Volunteering Teaching
-* Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
+
+<!--- #ifndef redux -->
+<!--- * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014) -->
+<!--- * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013) -->
+<!--- * Coder Dojo Silicon Valley (Sep. 2013 to present) -->
+<!--- * Guest Lecturer, Makerere University, Kampala, Uganda (Oct. & Nov. 2012) -->
+<!--- * Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012) -->
+<!--- * Guest Lecturer, Victoria University, Kampala, Uganda (November 2012) -->
+<!--- * Introductory Game Programming with C/C++ (late 2011, 2012) -->
+<!--- #endif -->
+<!--- #ifndef redux -->
+* Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
+  - Co-lead "Computer Animation", students learned programming with Scratch
+* Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013)
   - Assisted a "Global Citizens" class, where students research world issues
 * Coder Dojo Silicon Valley (Sep. 2013 to present)
   - Teaching Computer Science to kids 10+
@@ -324,6 +337,8 @@ BS of Computer Information Systems
   - Included a Unity3D tutorial
   - Neighborhood volunteer: 4 students (middle-school and adult), in late 2011
   - River of Life Church: about 20 students (middle-school) in mid-to-late 2012
+
+<!--- #endif -->
 
 #### Hobbies
 * Rock climbing
