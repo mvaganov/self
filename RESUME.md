@@ -6,24 +6,24 @@
 Computer Programmer and Educator.
 
 ## Portfolio
-`http://www.codegiraffe.com/portfolio`	(diagrams & running code samples!)
+http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 
 <!--- #ifndef redux -->
 ## Skills
 
 <!--- #endif -->
 ### Software Development Skills
-* Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
+* Multi-platform: Unity3D, C/C++, Java, custom cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
 * Server side: client/server serialization, database, web tools
 * Rapid Prototyping: Unity3D, Command-line, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
-* Simulations: 2D and 3D math, real-time systems (single/multi threaded)
+* Simulations: 2D and 3D math, real-time systems (single / multi threaded)
 * Data Structures: custom implementations for cache/memory/stability
-* Scripting: JavaScript, LUA, SQL, proprietary languages + compilers + VMs
+* Scripting: JavaScript, LUA, SQL, custom languages + compilers + VMs
 * Command-line: cmd in Windows, terminal in Linux/Unix, batch/bash
 * Source Control: Git, SVN
-* Web Development: Node.js, Heroku, Apache Tomcat, proprietary systems
+* Web Development: Node.js, Heroku, Apache Tomcat, custom systems
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
 
@@ -71,17 +71,13 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
 
 <!--- #ifndef redux -->
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
-* Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Project Management
+* Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 
 <!--- #endif -->
 
 #### Self Employed Programmer, Entrepreneur
 *December 2012 to present*
 
-<!--- #ifndef redux -->
-Voluntarily left full-time job to pursue other ambitions
-
-<!--- #endif -->
 * Stealth Startup, working on project codenamed "Impetus" 
   - Game + Project Management Software using Unity3D and C#
   - 3D model generation system for data visualization
@@ -113,7 +109,7 @@ Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bac
 * Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
 * Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
 * Extra-curricular game programming workshops for students
-* Mostly on-campus classes, with experience teaching online classes as well
+* Taught on-campus classes in Fremont and San Jose, and online classes
 * Advised Dean while implementing new game development curriculum
 
 <!--- #endif -->
@@ -172,7 +168,7 @@ DeVry Courses Taught:
 * Online Teaching Experience
   - Equivalents of on-campus courses: GSP115, GSP125, GSP295, GSP360, GSP490
   - Threaded discussions, video conferencing, and YouTube
-  - Mandated course content, using eCollege, supplemented with custom content.
+  - Mandated course content, using eCollege, supplemented with custom content
 * GSP1337 - Extra-curricular volunteer game development courses
   - Un-scheduled, done during vacation, content in response to student needs
   - Usually focusing on networked game programming in C/C++ with WinSock
@@ -355,7 +351,7 @@ BS of Computer Information Systems
 * The best code will survive long after a programmer leaves it.
 * Single Point of Truth: One complexity, One bug, One change.
 * Code explicit functionality rather than side effects, and /** document it */
-* Comments are good, code that describes itself is better
+* Comments are good, code that describes itself is better.
 * Think about optimization now, but do the actual optimization later.
 * Just Prototype (and expect not to be given another shot at it).
 * Program with a purpose: Understand the end-goal as soon as possible.
@@ -367,7 +363,7 @@ BS of Computer Information Systems
   - Robustness: stability with a wide range of input (no bugs)
   - Resource Use: resources used conservatively (Big-O, memory, threads, ...)
   - Everything Else: elegance/robust-unit-tests/optimal-efficiency/...
-* The Unix way feels right (`http://www.faqs.org/docs/artu/ch01s06.html`)
+* The Unix way feels right (http://www.faqs.org/docs/artu/ch01s06.html)
 
 #### Other Credo
 * Persistence (iteration) is disproportionately important to success.
@@ -376,4 +372,4 @@ BS of Computer Information Systems
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
 * Do not fear complexity; simplify.
-* `http://codegiraffe.com/quotes.txt`
+* http://codegiraffe.com/quotes.txt
