@@ -1,4 +1,3 @@
-<!--- #define redux -->
 <!--- #ifdef redux -->
 <!--- Detailed resume at `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
 <!--- #endif -->

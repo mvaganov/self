@@ -1,8 +1,3 @@
-var resumeFilename = "resume.md"
-var intermediateFile = resumeFilename+"_";
-var resumeOutput = "resume.pdf"
-
-
 //console.log("Converting resume to pdf...");
 
 var markdownpdf = require("markdown-pdf")
@@ -12,13 +7,16 @@ var markdownpdf = require("markdown-pdf")
   , fs = require('fs')
   , mvaganov = require("./mvaganov")
   
-function doTheThing(filename, outputfilename) {
+function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
+	
 	fs.readFile(filename, 'utf8', function (err,data) {
 		if (err) {
 			return console.log(err);
 		}
+		if(definesTable == null) {
+			definesTable = {}
+		}
 		var filteredOutput = "";
-		var defines = {};
 		var cursor = -1, end, lastGoodIndex = 0;
 		var commentStart = "<!---";
 		var commentEnd = "-->"
@@ -54,16 +52,16 @@ function doTheThing(filename, outputfilename) {
 						tokens[i] = tokens[i].trim();
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
-//								console.log("defined \""+tokens[i]+"\"");
-								defines[tokens[i]] = true;
+								console.log("defined \""+tokens[i]+"\"");
+								definesTable[tokens[i]] = true;
 								variableDefined = tokens[i];
 							} else {
 								// store the value of the variable
-								defines[variableDefined] = ""
+								definesTable[variableDefined] = ""
 								for(var a = i; a < tokens.length; ++a) {
-									defines[variableDefined] += tokens[a];
+									definesTable[variableDefined] += tokens[a];
 								}
-//								console.log("\""+variableDefined+"\" = "+defines[variableDefined]);
+								console.log("\""+variableDefined+"\" = "+definesTable[variableDefined]);
 								break;
 							}
 						}
@@ -76,13 +74,14 @@ function doTheThing(filename, outputfilename) {
 					// for conditional code, find the variable that acts as the condition
 					var startIndex = macroIndex + macros[macroChoice].length;
 					var defineVar = subSection.substr(startIndex, subSection.length-startIndex)
+					var tokens = defineVar.split(" ");
 					var variableDefined = null;
 					for(var i = 0; i < tokens.length; ++i) {
 						tokens[i] = tokens[i].trim();
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
-								defines[tokens[i]] = true;
 								variableDefined = tokens[i];
+	console.log("testing "+variableDefined+" \""+definesTable[variableDefined]+"\"")
 								break;
 							}
 						}
@@ -90,11 +89,11 @@ function doTheThing(filename, outputfilename) {
 					// evaluate the condition based on the condition type, and prepare to use it after the non-comment text is finished processing
 					nextActiveMacro = macroChoice;
 					if(macroChoice == 1) {
-						nextpreprocessInclude = defines[variableDefined] != null;
+						nextpreprocessInclude = definesTable[variableDefined] != null;
 					} else if(macroChoice == 2) {
-						nextpreprocessInclude = defines[variableDefined] == null;
+						nextpreprocessInclude = definesTable[variableDefined] == null;
 					}
-//					console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
+					console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
 					break;
 				// #endif
 				case 3:
@@ -105,7 +104,7 @@ function doTheThing(filename, outputfilename) {
 				// anything in comments should be included based on the activeMacro and preprocessInclude variable
 				default:
 //					console.log(activeMacro+" "+preprocessInclude);
-					if(activeMacro == 1 || activeMacro == 2 && preprocessInclude == true) {
+					if((activeMacro == 1 || activeMacro == 2) && preprocessInclude == true) {
 //						console.log("//+ \""+subSection+"\"");
 						filteredOutput += subSection.trim()
 					} else {
@@ -118,7 +117,7 @@ function doTheThing(filename, outputfilename) {
 				if(shownAddition.length > 10) {
 					shownAddition = shownAddition.substr(0,10)+"...";
 				}
-				if((activeMacro != 1 && activeMacro != 2) || preprocessInclude) {
+				if((activeMacro != 1 && activeMacro != 2) || preprocessInclude == true) {
 //					console.log("+ \""+shownAddition+"\"");
 					filteredOutput += dataToAdd
 				} else {
@@ -138,19 +137,27 @@ function doTheThing(filename, outputfilename) {
 		} while(found >= 0);
 //		console.log(filteredOutput);
 
+		intermediateFile = outputfilename+"_";
+		console.log("creating "+intermediateFile);
 		fs.writeFile(intermediateFile, filteredOutput, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
-				console.log(intermediateFile+" was created");
 				markdownpdf() // {preProcessMd: preProcessMd} )
-				  .from(intermediateFile)
-				  .to(resumeOutput, function () { console.log("Done") })
+					.from(intermediateFile)
+					.to(outputfilename, function () { 
+						console.log("Done"); 
+						if(finishedCallback)
+							finishedCallback()
+					})
 			}
 		}); 
 	});
 	
 }
 
-doTheThing(resumeFilename, intermediateFile)
-
+doTheThing("RESUME.md", "resume.pdf", {}
+//	, function(){
+//		new doTheThing("RESUME.md", "resume_redux.pdf", {redux:true})
+//	}
+)
