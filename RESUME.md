@@ -1,20 +1,22 @@
-<!--- optional if removing optional text, save result in another file and include:
-**note**: This is an abriged resume. A more detailed version is available at https://github.com/mvaganov/self/blob/master/RESUME.MD
--->
-# Michael Vaganov (michael.vaganov@gmail.com)
+<!--- #define redux -->
+<!--- #ifdef redux -->
+<!--- Detailed resume at `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
+<!--- #endif -->
+# Michael Vaganov (`michael.vaganov@gmail.com`)
 
 Computer Programmer and Educator.
 
-<!--- optional -->
 ## Portfolio
-http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
+`http://www.codegiraffe.com/portfolio`	(diagrams & running code samples!)
 
+<!--- #ifndef redux -->
 ## Skills
+<!--- #endif -->
 ### Software Development Skills
 * Multi-platform: Unity3D, C/C++, Java, proprietary cross-platform frameworks
 * Client side: User Interface, multi-skew builds, device debugging
 * Server side: client/server serialization, database, web tools
-* Rapid Prototyping: Unity3D, PowerPoint, Excel, Pen+Paper+Dice
+* Rapid Prototyping: Unity3D, Command-line, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single/multi threaded)
 * Data Structures: custom implementations for cache/memory/stability
@@ -28,9 +30,22 @@ http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
 ### Communication Skills
 * English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
 * **10+ years as educator**: tutor and University Professor (taught age 7 to 40+)
-* "Digital Native": computers at age 10, programming C++ at age 14
+* "Digital Native": stated using computers at age 10, programming C++ at age 14
 
 ## Employment History
+<!--- #ifdef redux -->
+### Employment Timeline
+```
+                2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
+Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
+Atlas/Infospace FFFFF`------``````------``````------``````------``````------
+LimeLife        `````FFFFFFFFF````------``````------``````------``````------
+Other Teaching  ``````------``````------``````---ppp``pppp---ppppppppppp----
+Impetus(stealth startup) ---``````------``````------`````pppppFppppppppp----
+```
+Key: (```p```) Part-time, (```F```) Full-time
+<!--- #endif -->
+<!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
                2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
@@ -42,22 +57,25 @@ Other Teaching ------``````------``````------``````------``````------``````---pp
 Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFppppppppp----
 ```
 Key: (```p```) Part-time, (```F```) Full-time
+<!--- #endif -->
 
 ### Empoyment Details
 #### Code Coach at theCoderSchool 
 *September 2014 to present*
 
 Elite Computer Science education for youth in the Silicon Valley
-<!--- optional line -->
+<!--- #ifndef redux -->
 * Regular clientele of kids between age 7 and 17
+<!--- #endif -->
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Project Management
 
 #### Self Employed Programmer, Entrepreneur
 *December 2012 to present*
 
-<!--- optional line -->
+<!--- #ifndef redux -->
 Voluntarily left full-time job to pursue other ambitions
+<!--- #endif -->
 * Stealth Startup, working on project codenamed "Impetus" 
   - Game + Project Management Software using Unity3D and C#
   - 3D model generation system for data visualization
@@ -84,17 +102,16 @@ Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bac
   - Agile and agile (small-a) development, favoring the small-a
   - Joy-of-discovery and character-building-pain-of-debugging are important
 
-<!--- optional list -->
+<!--- #ifndef redux -->
 * Faculty guide for game development clubs since March 2006
 * Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
 * Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
 * Extra-curricular game programming workshops for students
 * Mostly on-campus classes, with experience teaching online classes as well
 * Advised Dean while implementing new game development curriculum
+<!--- #endif -->
 
-<!--- optional list, replace with 
-Full list of DeVry courses taught at: https://github.com/mvaganov/self/blob/master/RESUME.MD
--->
+<!--- #ifndef redux -->
 DeVry Courses Taught:
 * GSP110/GSP111 - Introduction to the game development process
   - Overview of games industry history & culture
@@ -156,6 +173,10 @@ DeVry Courses Taught:
 * Game Programming with Unity3D and Blender (outreach class)
   - Extra-curricular High-school level course
   - Tutorial: making simple games with Unity3D, C#, and Blender
+<!--- #endif -->
+<!--- #ifdef redux -->
+<!--- Full list of DeVry courses taught at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
+<!--- #endif -->
 
 #### Software Engineer at LimeLife
 *November 2006 to April 2008*
@@ -173,15 +194,17 @@ Developer responsible for end-to-end network-aware mobile application developmen
 * Created AML, an HTML-like scripting language used to describe UI and network-aware UI traversal for phones
 * Created build tools, runtime engine (including container-based UI system), and on-the-fly server-side Java-based compiler for AML, a custom UI engine for mobile
 
-<!--- optional list, replace with 
-Full list of LimeLife shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
--->
+<!--- #ifndef redux -->
 LimeLife Mobile Titles List: 
 * Hallmark Smiles + Styles - J2ME/BREW - Lead Developer - Web-aware browser that used scripting engine to display network distributed UI. Built and designed from the ground up in both J2ME and BREW, including multi-platform HTML-like scripting language and compiler, container-based UI system, and platform abstraction code (including multi-lingual network protocol abstraction), which was integrated into main LimeLife porting framework (ALE).
 * Urban Chica - J2ME/BREW - Lead Developer - A re-skinned application built in parallel and accomplished within *hours* of final builds of Hallmark Smiles + Styles. No source code alterations needed, only script modifications.
 * Top Chef, the Mobile Game - J2ME/BREW - Framework Engineer - Designed and built composite Sprite engine. Also acted as Animator and technical artist.
 * Rachel Ray: Recipes on the Run - J2ME/BREW - Porting Engineer - Network aware application used to find and share licensed Rachel Ray recipes. Utilized FLIRT, a LimeLife proprietary scripting and UI layout technology
 * InStyle - BREW/J2ME - Porting Engineer - Network aware application used to distribute InStyle magazine content, based on FLIRT, the same technology used to build Rachel Ray.
+<!--- #endif -->
+<!--- #ifdef redux -->
+<!--- Full list of LimeLife shipped titles at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
+<!--- #endif -->
 
 #### Software Engineer at Infospace Mobile Games
 *December 2004 to November 2006*
@@ -203,14 +226,13 @@ Very productive first 6 months of professional software development work
 * Prototyped a functional BREW UI engine. 
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
-<!--- optional list -->
+<!--- #ifndef redux -->
 Porting Experience With The Following Phones (not all phones listed):
 * BREW - Audiovox (CDM 8910, CDM 8940, CDM 8600, CDM 8900), Kyocera (KX1, KX2, KX444, SE47), LG (VX4400, VX4500, VX4600, VX4700, VX6000, VX6100, VX7000, VX8000, VX8100, VX8500, VX10000), Motorola (V65, V260, V265, T720, C343, V710, V262, E815, V3, K1), Samsung (N330, A610, A790, A650, U740).
 * J2ME - MIDP-1.0 and MIDP-2.0 (Sony Ericssons, LG, Samsung, Motorola V series, Nokias, ...)
+<!--- #endif -->
 
-<!--- optional list, replace with 
-Full list of Infospace Mobile / Atlas Mobile shipped titles at: https://github.com/mvaganov/self/blob/master/RESUME.MD
--->
+<!--- #ifndef redux -->
 Infospace Mobile / Atlas Mobile Titles List:
 * Tetris Tournament For Prizes - BREW - Porting Engineer - Tetris with a "For Prizes" component. One build worked on every handset tested. This portability was implemented above and beyond spec and enumerated work items (drawing and UI resized, had multiple handset specific bugfixes that were benign on all other devices).
 * Prize21 For Prizes - BREW - Porting Engineer - Fast paced puzzle game.  Experimented with procedural drawing with some great results. One build worked on every handset tested (as Tetris Tournament).
@@ -223,31 +245,37 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Hotties - J2ME - Lead Developer - Massively Multiplayer phone blogging + Hot or Not game. Developed, from scratch, a scriptable UI and logic engine for J2ME (including a new scripting language and script compiler) as a "shippable prototype". Optimized and increased the functionality of a proprietary client/server protocol. Wrote Java Bean server components that interacted with the client on Tomcat servlets. Trained 2 engineers on how to use the scripting language (one server side, and one client side). Created server logic and compiler tools to automatically generate script files to be streamed to handsets with dynamic content and UI.
 * Survivor Island Mobile - J2ME - Developer - Wrote a J2ME network-aware resource-loading API and zip-decoder, including resource manager to enable the phone client to grab compressed game resources from the web, using HTTP, and cache data (based on phone RMS capability). "For Prizes" Integration. Optimized and debugged.
 * TestT4P - J2ME - Lead Developer - Robust J2ME "For Prizes" testing application. J2ME application's binary had near universal portability: from the Nokia 6010 (tiny screen, only 2 direction buttons), to the top-of-the-line (of the day) Samsungs and Sony Ericsons. Written as an instructional tool to teach new-hire developers and QA team how to test and port "For Prizes" games, and how to write J2ME code (built with straight forward design and good J2ME design principles). Became central testing point for a programming test to upgraded QA to porting engineers.
+<!--- #endif -->
+<!--- #ifdef redux -->
+<!--- Full list of Infospace Mobile / Atlas Mobile shipped titles at: `https://github.com/mvaganov/self/blob/master/RESUME.md` -->
+<!--- #endif -->
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
-<!--- optional list -->
+* CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+<!--- #ifndef redux -->
 * Tutored hundreds of students, primarily in algebra, and computer science
 * Trained and mentored new tutors, and wrote training documentation
-* CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+<!--- #endif -->
 
 ## Education
 #### Keller Graduate School of Management
 *September 2006 to 2010*
 
 Masters of Project Management
-<!--- optional list -->
+<!--- #ifndef redux -->
 * Part time classes
 * Practice with business and management concepts including:
   - Work Breakdown Structures, Gantt, Decision trees, RACI
   - Risk Management, Quantitative Decision Making, 6 Sigma 
   - Agile, Marketing Analysis, Budgeting, Leadership
+<!--- #endif -->
 
 #### DeVry University
 *July 2001 to October 2004*
 
 BS of Computer Information Systems
-<!--- optional list -->
+<!--- #ifndef redux -->
 * Graduated GPA 3.76 (Deans List)
 * Special Honors
   - Summa Cum Laude
@@ -259,9 +287,9 @@ BS of Computer Information Systems
 * DeVry Advocate (volunteer program organized by student services)
 * Clubs: Chess Club member, Game Development Club President
 * Staff at ACM programming competition hosted at DeVry
+<!--- #endif -->
 
 ## Other
-<!--- optional list -->
 #### Volunteering Teaching
 * Citizen Schools, Robert McNair Jr. High, (Oct. 2013)
   - Assisted a "Global Citizens" class, where students research world issues
@@ -270,22 +298,22 @@ BS of Computer Information Systems
   - Scratch, Python, Web Development, Unity3D
 * Guest Lecturer, Makerere University, Kampala, Uganda (Oct. & Nov. 2012)
   - Professional Game Programming with C++
-  - 230+ students (under-graduate and graduate)
+  - about 250 students (under-graduate and graduate)
 * Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012)
   - Game Programming with Unity3D
   - 30+ students (high-school and under-graduate)
 * Guest Lecturer, Victoria University, Kampala, Uganda (November 2012)
   - Introductory C++
-  - ~20 students (under-graduate)
+  - about 20 students (under-graduate)
 * Introductory Game Programming with C/C++ (late 2011, 2012)
   - Included a Unity3D tutorial
   - Neighborhood volunteer: 4 students (middle-school and adult), in late 2011
-  - River of Life Church: ~20 students (middle-school) in mid-to-late 2012
+  - River of Life Church: about 20 students (middle-school) in mid-to-late 2012
 
 #### Hobbies
 * Rock climbing
 * Volunteer Teaching
-* Game Jams and Hackathons (sample works at codegiraffe.com)
+* Game Jams and Hackathons (sample works at `codegiraffe.com`)
 
 #### Personal Programming Axioms
 * The best programmer writes the most Readable code. Speed is for the compiler.
@@ -313,4 +341,4 @@ BS of Computer Information Systems
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
 * Do not fear complexity; simplify.
-* http://codegiraffe.com/quotes.txt
+* `http://codegiraffe.com/quotes.txt`
