@@ -260,6 +260,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
+
 CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
 
 <!--- #ifndef redux -->
