@@ -347,7 +347,7 @@ BS of Computer Information Systems
   - Robustness: stability with a wide range of input (no bugs)
   - Resource Use: resources used conservatively (Big-O, memory, threads, ...)
   - Everything Else: elegance/robust-unit-tests/optimal-efficiency/...
-* The Unix way feels right (http://www.faqs.org/docs/artu/ch01s06.html)
+* The Unix way feels right (`http://www.faqs.org/docs/artu/ch01s06.html`)
 
 #### Other Credo
 * Persistence (iteration) is disproportionately important to success.
