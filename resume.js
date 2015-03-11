@@ -157,7 +157,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 }
 
 doTheThing("RESUME.md", "resume.pdf", {}
-//	, function(){
-//		new doTheThing("RESUME.md", "resume_redux.pdf", {redux:true})
-//	}
+	, function(){
+		new doTheThing("RESUME.md", "resume_redux.pdf", {redux:true})
+	}
 )
