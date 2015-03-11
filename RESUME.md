@@ -32,8 +32,10 @@ Computer Programmer and Educator.
 * **10+ years as educator**: tutor and University Professor (taught age 7 to 40+)
 * "Digital Native": stated using computers at age 10, programming C++ at age 14
 
+<!--- #ifndef redux -->
 ## Employment History
 
+<!--- #endif -->
 <!--- #ifdef redux -->
 <!--- ### Employment Timeline -->
 <!--- ``` -->
@@ -304,7 +306,10 @@ BS of Computer Information Systems
 
 <!--- #endif -->
 
+<!--- #ifndef redux -->
 ## Other
+
+<!--- #endif -->
 #### Volunteering Teaching
 
 <!--- #ifndef redux -->
