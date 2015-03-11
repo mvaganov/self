@@ -52,7 +52,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 						tokens[i] = tokens[i].trim();
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
-								console.log("defined \""+tokens[i]+"\"");
+//								console.log("defined \""+tokens[i]+"\"");
 								definesTable[tokens[i]] = true;
 								variableDefined = tokens[i];
 							} else {
@@ -61,7 +61,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 								for(var a = i; a < tokens.length; ++a) {
 									definesTable[variableDefined] += tokens[a];
 								}
-								console.log("\""+variableDefined+"\" = "+definesTable[variableDefined]);
+//								console.log("\""+variableDefined+"\" = "+definesTable[variableDefined]);
 								break;
 							}
 						}
@@ -81,7 +81,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
 								variableDefined = tokens[i];
-	console.log("testing "+variableDefined+" \""+definesTable[variableDefined]+"\"")
+//	console.log("testing "+variableDefined+" \""+definesTable[variableDefined]+"\"")
 								break;
 							}
 						}
@@ -93,7 +93,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 					} else if(macroChoice == 2) {
 						nextpreprocessInclude = definesTable[variableDefined] == null;
 					}
-					console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
+//					console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
 					break;
 				// #endif
 				case 3:
@@ -138,7 +138,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 //		console.log(filteredOutput);
 
 		intermediateFile = outputfilename+"_";
-		console.log("creating "+intermediateFile);
+//		console.log("creating "+intermediateFile);
 		fs.writeFile(intermediateFile, filteredOutput, function(err) {
 			if(err) {
 				console.log(err);
