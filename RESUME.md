@@ -308,7 +308,7 @@ BS of Computer Information Systems
 <!--- #endif -->
 #### Volunteering Teaching
 
-<!--- #ifndef redux -->
+<!--- #ifdef redux -->
 <!--- * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014) -->
 <!--- * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013) -->
 <!--- * Coder Dojo Silicon Valley (Sep. 2013 to present) -->
@@ -317,6 +317,7 @@ BS of Computer Information Systems
 <!--- * Guest Lecturer, Victoria University, Kampala, Uganda (November 2012) -->
 <!--- * Introductory Game Programming with C/C++ (late 2011, 2012) -->
 <!--- #endif -->
+
 <!--- #ifndef redux -->
 * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
