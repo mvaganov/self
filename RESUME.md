@@ -63,7 +63,7 @@ Key: (```p```) Part-time, (```F```) Full-time
 
 <!--- #endif -->
 
-### Empoyment Details
+### Employment Details
 #### Code Coach at theCoderSchool 
 *September 2014 to present*
 
