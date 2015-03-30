@@ -354,8 +354,8 @@ BS of Computer Information Systems
 * Code explicit functionality rather than side effects, and /** document it */
 * Comments are good, code that describes itself is better.
 * Think about optimization now, but do the actual optimization later.
-* Just Prototype (and expect not to be given another shot at it).
-* Program with a purpose: Understand the end-goal as soon as possible.
+* Just Prototype. But don't expect another shot at it.
+* Without clear goals you are wasting people's time.
 * Refactor sooner rather than later; clean code grows into powerful code.
 * Disciplined, results oriented software development is always in style.
 * How most production code should be judged (in order):
