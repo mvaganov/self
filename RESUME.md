@@ -6,7 +6,7 @@
 Computer Programmer and Educator.
 
 ## Portfolio
-http://www.codegiraffe.com/portfolio	(diagrams & running code samples!)
+http://www.codegiraffe.com/portfolio	(projects and code samples)
 
 <!--- #ifndef redux -->
 ## Skills
