@@ -43,8 +43,8 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------ -->
 <!--- Atlas/Infospace FFFFF`------``````------``````------``````------``````------ -->
 <!--- LimeLife        `````FFFFFFFFF````------``````------``````------``````------ -->
-<!--- Other Teaching  ``````------``````------``````---ppp``pppp---ppppppppppp---- -->
-<!--- Impetus(stealth startup) ---``````------``````------`````pppppFppppppppp---- -->
+<!--- Other Teaching  ``````------``````------``````---ppp``pppp---pppppppppppp--- -->
+<!--- Impetus(stealth startup) ---``````------``````------`````pppppFpppppppppp--- -->
 <!--- ``` -->
 <!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
@@ -56,8 +56,8 @@ Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```-----
 Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
 Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------
 LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------
-Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppp----
-Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFppppppppp----
+Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---pppppppppppp---
+Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp---
 ```
 Key: (```p```) Part-time, (```F```) Full-time
 
