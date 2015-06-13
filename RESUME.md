@@ -87,7 +87,7 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
 * Developed high-level curriculum strategy for DeVry's national GSP program
 
 #### Professor at DeVry University (Silicon Valley Campuses)
-*March 2006 to present*
+*March 2006 to December 2014*
 
 Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4)
