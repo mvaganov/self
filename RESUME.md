@@ -13,9 +13,9 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 
 <!--- #endif -->
 ### Software Development Skills
-* Multi-platform: Unity3D, C/C++, Java, custom cross-platform frameworks
+* Languages: C and C++, C#, Java, JavaScript, Python
 * Client side: User Interface, multi-skew builds, device debugging
-* Server side: client/server serialization, database, web tools
+* Server side: raw data serialization, SQL, Node.js, Heroku, Apache Tomcat
 * Rapid Prototyping: Unity3D, Command-line, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -23,7 +23,6 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 * Scripting: JavaScript, LUA, SQL, custom languages + compilers + VMs
 * Command-line: cmd in Windows, terminal in Linux/Unix, batch/bash
 * Source Control: Git, SVN
-* Web Development: Node.js, Heroku, Apache Tomcat, custom systems
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
 
