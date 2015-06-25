@@ -20,7 +20,7 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
 * Data Structures: custom implementations for cache/memory/stability
-* Scripting: JavaScript, LUA, SQL, custom languages + compilers + VMs
+* Scripting integration: LUA, SQL, custom languages + compilers + VMs
 * Command-line: cmd in Windows, terminal in Linux/Unix, batch/bash
 * Source Control: Git, SVN
 * Build systems: batch, Apache Ant, make
@@ -70,7 +70,7 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
 
 <!--- #ifndef redux -->
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
-* Subjects: Unity3D, C/C++, Java, Blender, 2D and 3D math, Game Design, Project Management
+* Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 
 <!--- #endif -->
 
@@ -104,12 +104,12 @@ Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bac
   - Joy-of-discovery and character-building-pain-of-debugging are important
 
 <!--- #ifndef redux -->
-* Faculty guide for game development clubs since March 2006
+* Faculty guide and mentor for game development clubs
 * Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
 * Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
 * Extra-curricular game programming workshops for students
 * Taught on-campus classes in Fremont and San Jose, and online classes
-* Advised Dean while implementing new game development curriculum
+* Advised local and national Deans while implementing new curricula
 
 <!--- #endif -->
 
@@ -157,7 +157,7 @@ DeVry Courses Taught:
   - Game software components (Memory management, Graphics, Scripting, ...)
   - Practical game implementation from scratch, in C/C++
   - Design patterns and architecture in Java
-  - Code Optimization in C/C++
+  - Code Optimization in C and C++
   - Software Development Philosophy
 * GSP490/GSP494/GSP497 - Senior Project Course
   - Final course in the GSP curriculum
