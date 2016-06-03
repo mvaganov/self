@@ -14,15 +14,14 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- #endif -->
 ### Software Development Skills
 * Languages: C and C++, C#, Java, JavaScript, Python
-* Client side: User Interface, multi-skew builds, device debugging
-* Server side: raw data serialization, SQL, Node.js, Heroku, Apache Tomcat
-* Rapid Prototyping: Unity3D, Command-line, PowerPoint, Excel, Pen+Paper+Dice
+* Client side: UI/UX, multi-platform builds, device debugging
+* Server side: raw data serialization, Postgres SQL, Node.js, Heroku
+* Rapid Prototyping: Unity3D, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
-* Data Structures: custom implementations for cache/memory/stability
+* Data Structures: custom implementations for cache/memory/fragmentation
 * Scripting integration: LUA, SQL, custom languages + compilers + VMs
-* Command-line: cmd in Windows, terminal in Linux/Unix, batch/bash
-* Source Control: Git, SVN
+* Dev tools: Command-line (cmd, terminal, batch/bash), Git
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
 
@@ -38,33 +37,47 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- #ifdef redux -->
 <!--- ### Employment Timeline -->
 <!--- ``` -->
-<!---                 2006  2007  2008  2009  2010  2011  2012  2013  2014  2015 -->
-<!--- Teaching @DeVry `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------ -->
-<!--- Atlas/Infospace FFFFF`------``````------``````------``````------``````------ -->
-<!--- LimeLife        `````FFFFFFFFF````------``````------``````------``````------ -->
-<!--- Other Teaching  ``````------``````------``````---ppp``pppp---pppppppppppp--- -->
-<!--- Impetus(stealth startup) ---``````------``````------`````pppppFpppppppppp--- -->
+<!---                 2007  2008  2009  2010  2011  2012  2013  2014  2015  2016 -->
+<!--- Teaching @DeVry ppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------`````` -->
+<!--- LimeLife        FFFFFFFF````------``````------``````------``````------`````` -->
+<!--- Sacred Heart Prep-----``````------``````------``````------``````----FFFFF``` -->
+<!--- Other Teaching  ------``````------``````---ppp``pppp---ppppppppppppp--`pp``` -->
+<!--- Impetus(stealth startup)````------``````------`````pppppFpppppppppp--pp`p``` -->
 <!--- ``` -->
 <!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
-               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015
-Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------
-Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------
-Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------
-LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------
-Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---pppppppppppp---
-Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp---
+               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016
+Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------``````
+Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````
+Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````
+LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````
+Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFF```
+Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppppp--`pp```
+Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp--pp`p```
 ```
 Key: (```p```) Part-time, (```F```) Full-time
 
 <!--- #endif -->
 
 ### Employment Details
+
+#### Computer Science Teacher at Sacred Heart Prep
+*August 2015 to present*
+
+Faculty member at an elite and exclusive private school
+
+<!--- #ifndef redux -->
+* Taught basics of computer science, with a curriculum resembling an easy-A art class
+* Prepared young minds for the terrifying wonders that computers are bringing to mankind
+* Wrote evaluation software to improve assessment of students
+
+<!--- #endif -->
+
 #### Code Coach at theCoderSchool 
-*September 2014 to present*
+*September 2014 to August 2015*
 
 Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
 
