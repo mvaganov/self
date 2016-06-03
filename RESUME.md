@@ -3,7 +3,7 @@
 <!--- #endif -->
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 
-Computer Programmer and Educator.
+Software Craftsman and Educator.
 
 ## Portfolio
 http://www.codegiraffe.com/portfolio	(projects and code samples)
