@@ -3,7 +3,7 @@
 <!--- #endif -->
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 
-Software Craftsman and Educator.
+Educator, Software Craftsman
 
 ## Portfolio
 http://www.codegiraffe.com/portfolio	(projects and code samples)
@@ -27,7 +27,7 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 
 ### Communication Skills
 * English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
-* **10+ years as educator**: tutor and University Professor (taught age 7 to 40+)
+* **10+ years as educator**: tutor, teacher, University Professor (for ages 7 to 40+)
 * "Digital Native": started using computers at age 10, programming C++ at age 14
 
 <!--- #ifndef redux -->
@@ -70,7 +70,7 @@ Key: (```p```) Part-time, (```F```) Full-time
 Faculty member at an elite and exclusive private school
 
 <!--- #ifndef redux -->
-* Taught basics of computer science, with a curriculum resembling an easy-A art class
+* Taught basics of computer science, with a curriculum resembling an art class
 * Prepared young minds for the terrifying wonders that computers are bringing to mankind
 * Wrote evaluation software to improve assessment of students
 
