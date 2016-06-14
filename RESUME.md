@@ -318,7 +318,7 @@ BS of Computer Information Systems
 ## Other
 
 <!--- #endif -->
-#### Volunteering Teaching
+#### Volunteer Teaching
 
 <!--- #ifdef redux -->
 <!--- * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014) -->
