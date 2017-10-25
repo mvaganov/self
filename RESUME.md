@@ -45,8 +45,8 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!---                 2009  2010  2011  2012  2013  2014  2015  2016  2017  2018 -->
 <!--- Teaching @DeVry FFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------`````` -->
 <!--- Sacred Heart Prep-----``````------``````------``````----FFFFFFFFFFFFFF`````` -->
-<!--- Other Teaching  ------``````---ppp``pppp---ppppppppppppp--`ppppppppppp`````` -->
-<!--- Impetus(stealth startup)````------`````pppppFpppppppppp--pp`p``p-pp---`````` -->
+<!--- Other Teaching  ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvv`````` -->
+<!--- Impetus(stealth startup)```v-----v`````vvvvvFpppppppppp--vv`v``v-vv---`````` -->
 <!--- ``` -->
 <!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
@@ -59,10 +59,10 @@ Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFF
 Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````------``````
 LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````------``````
 Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFFFFFFFFFFF``````
-Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppppp--`ppppppppppp``````
-Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp--pp`p``p-pp---``````
+Other Teaching ------``````------``````------``````------``````------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvv``````
+Impetus(stealth startup)```------``````------```v``------`````v-----v`````v-----v`````vvvvvFpppppppppp--vv`v``v-vv---``````
 ```
-Key: (```p```) Part-time, (```F```) Full-time
+Key: (```F```) Full-time, (```p```) Part-time, (```v```) Volunteer
 
 <!--- #endif -->
 
