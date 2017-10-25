@@ -37,26 +37,25 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- #ifdef redux -->
 <!--- ### Employment Timeline -->
 <!--- ``` -->
-<!---                 2007  2008  2009  2010  2011  2012  2013  2014  2015  2016 -->
-<!--- Teaching @DeVry ppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------`````` -->
-<!--- LimeLife        FFFFFFFF````------``````------``````------``````------`````` -->
-<!--- Sacred Heart Prep-----``````------``````------``````------``````----FFFFF``` -->
-<!--- Other Teaching  ------``````------``````---ppp``pppp---ppppppppppppp--`pp``` -->
-<!--- Impetus(stealth startup)````------``````------`````pppppFpppppppppp--pp`p``` -->
+<!---                 2009  2010  2011  2012  2013  2014  2015  2016  2017  2018 -->
+<!--- Teaching @DeVry FFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------`````` -->
+<!--- Sacred Heart Prep-----``````------``````------``````----FFFFFFFFFFFFFF`````` -->
+<!--- Other Teaching  ------``````---ppp``pppp---ppppppppppppp--`ppppppppppp`````` -->
+<!--- Impetus(stealth startup)````------`````pppppFpppppppppp--pp`p``p-pp---`````` -->
 <!--- ``` -->
 <!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
-               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016
-Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------``````
-Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````
-Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````
-LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````
-Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFF```
-Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppppp--`pp```
-Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp--pp`p```
+               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018
+Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------``````------``````
+Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````
+Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````------``````
+LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````------``````
+Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFFFFFFFFFFF``````
+Other Teaching ------``````------``````------``````------``````------``````---ppp``pppp---ppppppppppppp--`ppppppppppp``````
+Impetus(stealth startup)```------``````------``````------``````------``````------`````pppppFpppppppppp--pp`p``p-pp---``````
 ```
 Key: (```p```) Part-time, (```F```) Full-time
 
@@ -88,7 +87,7 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
 <!--- #endif -->
 
 #### Self Employed Programmer, Entrepreneur
-*December 2012 to present*
+*December 2012 to 2015*
 
 * Stealth Startup, working on project codenamed "Impetus" 
   - Game + Project Management Software using Unity3D and C#
@@ -321,6 +320,7 @@ BS of Computer Information Systems
 #### Volunteer Teaching
 
 <!--- #ifdef redux -->
+<!--- * Unityversity (Aug. 2016 to Present) -->
 <!--- * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014) -->
 <!--- * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013) -->
 <!--- * Coder Dojo Silicon Valley (Sep. 2013 to present) -->
@@ -331,6 +331,8 @@ BS of Computer Information Systems
 <!--- #endif -->
 
 <!--- #ifndef redux -->
+* Unityversity (Aug. 2016 to Present)
+  - Co-lead Unityversity classes teaching Unity3D and game development
 * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
 * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013)
@@ -366,9 +368,9 @@ BS of Computer Information Systems
 * Code explicit functionality rather than side effects, and /** document it */
 * Comments are good, code that describes itself is better.
 * Think about optimization now, but do the actual optimization later.
-* Just Prototype. But don't expect another shot at it.
+* Just Prototype. And don't expect another shot at it.
 * Without clear goals you are wasting people's time.
-* Refactor sooner rather than later; clean code grows into powerful code.
+* Refactor, Sooner rather than later; clean code grows into powerful code.
 * Disciplined, results oriented software development is always in style.
 * How most production code should be judged (in order):
   - Functionality: intended results are produced (with constraints in mind)
@@ -381,7 +383,7 @@ BS of Computer Information Systems
 #### Other Credo
 * Persistence (iteration) is disproportionately important to success.
 * Rules are for people who don't know any better; Rules are important, but understanding sets you free.
-* Luck is where Preparation meets Opportunity.
+* Luck is where preparation meets random opportunity.
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
 * Do not fear complexity; simplify.
