@@ -13,9 +13,12 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 
 <!--- #endif -->
 ### Software Development Skills
-* Languages: C and C++, C#, Java, JavaScript, Python
-* Client side: UI/UX, multi-platform builds, device debugging
-* Server side: raw data serialization, Postgres SQL, Node.js, Heroku
+* **10+ years Programming**: student, hobbyist, game programmer, consultant
+* Languages: C, C++, C# (for Unity), Java, JavaScript, Python
+* Client side: UI/UX, multi-platform development, device debugging
+* Server side: custom servers with C and C++, Postgres SQL, Node.js, Heroku
+
+<!--- #ifndef redux -->
 * Rapid Prototyping: Unity3D, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -25,9 +28,11 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 * Build systems: batch, Apache Ant, make
 * Mobile: Old Mobile (J2ME, BREW) and New Mobile (Android, Unity3D)
 
+<!--- #endif -->
+
 ### Communication Skills
 * English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
-* **10+ years as educator**: tutor, teacher, University Professor (for ages 7 to 40+)
+* **10+ years as educator**: ages 7 to 40+. tutoring, undergrad, high-school
 * "Digital Native": started using computers at age 10, programming C++ at age 14
 
 <!--- #ifndef redux -->
@@ -69,9 +74,9 @@ Key: (```p```) Part-time, (```F```) Full-time
 Faculty member at an elite and exclusive private school
 
 <!--- #ifndef redux -->
-* Taught basics of computer science, with a curriculum resembling an art class
+* Taught computer science, with a curriculum designed for accessibility
 * Prepared young minds for the terrifying wonders that computers are bringing to mankind
-* Wrote evaluation software to improve assessment of students
+* Wrote software used by school
 
 <!--- #endif -->
 
@@ -331,7 +336,7 @@ BS of Computer Information Systems
 <!--- #endif -->
 
 <!--- #ifndef redux -->
-* Unityversity (Aug. 2016 to Present)
+* Unityversity (Sep. 2016 to Present)
   - Co-lead Unityversity classes teaching Unity3D and game development
 * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
