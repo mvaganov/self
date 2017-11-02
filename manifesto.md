@@ -15,15 +15,15 @@ which are especially beneficial for young people. A student of software developm
 * **rapid-prototyping** - that writing and testing software is cheap, even when it fails, and thinking about the results of lots of quickly-done-and-*incorrect* solutions is a great way to get to the *correct*-solution.
 * **resilience to complexity** - that even incomprehensible systems can be understood one small piece at a time.
 * **fail-fast** - the pholosophy of engineering: it is good to fail a process the moment something is incorrect, so it will be fixed, and the process can be perfect sooner.
-* patience with unintuitive truth - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
-* faith in science - that forming a hypothesis and testing it to validate understanding is a profoundly effective tool for developing human knowledge.
-* intrinsic reward from success - that solving-a-problem is satisfying and encouraging, in a way that is proportional to difficulty.
-* new limits of personal mental ability - solving software problems requires development of mental tools not utilized in many other fields of study.
-* the value of deep understanding - that a-strong-understanding-of-the-problem alone is almost enough to solve it.
-* metacognition - that to-create-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
-* metacognitive awareness - that mental ability is determined by mental state, and managing mental state (with food, sleep, addressing emotional issues, ...) is a foundation for success in problem solving.
-* confidence as a computer user - that practice with computers alone make someone better with computers in the future.
-* fearlessness of computers - a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
+* **patience with unintuitive truth** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
+* **faith in science** - that forming a hypothesis and testing it to validate understanding is a profoundly effective tool for developing human knowledge.
+* **intrinsic reward from success** - that solving-a-problem is satisfying and encouraging, in a way that is proportional to difficulty.
+* **new limits of personal mental ability** - solving software problems requires development of mental tools not utilized in many other fields of study.
+* **the value of deep understanding** - that a-strong-understanding-of-the-problem alone is almost enough to solve it.
+* **metacognition** - that to-create-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
+* **metacognitive awareness** - that mental ability is determined by mental state, and managing mental state (with food, sleep, addressing emotional issues, ...) is a foundation for success in problem solving.
+* **confidence as a computer user** - that practice with computers alone make someone better with computers in the future.
+* **fearlessness of computers** - a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
 
 I'm teaching kids technology. It's existentially-satisfying, and I can't stop.
 
