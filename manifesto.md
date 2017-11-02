@@ -4,7 +4,7 @@ In preparation for dramatically-powerful-computer-technology-in-the-near-future,
 
 ### Why "Teach Software Development" in the Short Term?
 
-<a href="http://www.codegiraffe.com/singularity.png">The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology is coming.</a> There are many resources online that explain this, <a href="https://en.wikipedia.org/wiki/Technological_singularity">Wikipedia</a> is an excellent starting-point for the un-initiated.
+[The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology is coming.](http://www.codegiraffe.com/singularity.png) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
 
 Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools does-a-lot to keep those tools from being used unwisely. So, more computer-experts will do-a-lot to keep powerful computer technology from being used unwisely.
 
@@ -31,7 +31,7 @@ As computer-technology improves, many (possibly most) people won't be able to fi
 
 Computer tools will even be used for tasks that computers can't do well, like things that human-bodies are almost uniquely good at, things that involve human touch, direct human-to-human interaction, handling human emotions, witnessing the human condition, etc. Humans who know how to use computers to multiply their own effort doing these tasks will be employable.
 
-###So what about everyone who is not a computer wizard?
+### So what about everyone who is not a computer wizard?
 
 **"Impetus AR"** - a real-time re-education tool that will turn a population of disenfranchised meat-bags into a productive, organized work force. Imagine an Augmented Reality (AR) system that points a person toward productive actions that benefit the causes they are aligned with. The system identifies tasks, directs users to tools and resources, educates users on proper use of tools and resources, and logs the completion of their tasks. Step-by-step-instruction, along with tool and resource information will be fed to the AR system by "Impetus Jobs".
 
