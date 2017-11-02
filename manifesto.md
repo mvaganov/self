@@ -8,22 +8,21 @@ In preparation for dramatically-powerful-computer-technology-in-the-near-future,
 
 Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools does-a-lot to keep those tools from being used unwisely. So, more computer-experts will do-a-lot to keep powerful computer technology from being used unwisely.
 
-### Practicing software development encourages important habits of mind,
-which are especially beneficial for young people. A student of software development learns ...
+### A student of software development learns ...
 * **attention to detail** - that instructions and information can be misunderstood, and being exact results in consistent performance.
-* **humility and grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
+* **grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
 * **rapid-prototyping** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution.
-* **resilience to complexity** - that even incomprehensible systems can be understood one small piece at a time.
-* **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner.
-* **patience with unintuitive truth** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
+* **anything can be understood** - that even incomprehensible systems can be understood one small piece at a time.
+* **patience with unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
+* **the habit of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem.
+* **new limits for personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study.
+* **to think-about-thinking (metacognition)** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
 * **faith in science** - that forming a hypothesis and testing it to validate understanding is a profoundly effective tool for developing human knowledge.
-* **intrinsic reward from success** - that solving-a-problem is satisfying and encouraging, in a way that is proportional to its difficulty.
-* **new limits of personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study.
-* **the value of deep understanding** - that a-strong-understanding-of-the-problem alone is almost enough to solve it.
-* **metacognition** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
-* **metacognitive awareness** - that mental ability is determined by mental state, and managing mental state (with food, sleep, addressing emotional issues, ...) is a foundation for success in problem solving.
+* **metacognitive awareness** - that ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving.
 * **confidence as a computer user** - that practice with computers alone makes someone better with computers.
 * **fearlessness of computers** - that a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
+* **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner.
+* **understanding is power** - that understanding-a-problem all by itself is almost enough to solve it.
 
 I'm teaching kids technology. It's existentially-satisfying, and I can't stop.
 
