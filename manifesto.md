@@ -11,15 +11,15 @@ Regardless of your opinion on the technological-singularity, the fact that power
 ### A student of software development learns ...
 * **attention to detail** - that instructions and information can be misunderstood, and being exact results in consistent performance.
 * **grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
-* **rapid-prototyping** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution.
+* **to quickly test things out (rapid-prototyping)** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution.
 * **anything can be understood** - that even incomprehensible systems can be understood one small piece at a time.
-* **patience with unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
-* **the habit of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem.
+* **understanding of unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
+* **stronger habits of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem.
 * **new limits for personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study.
-* **to think-about-thinking (metacognition)** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
-* **faith in science** - that forming a hypothesis and testing it to validate understanding is a profoundly effective tool for developing human knowledge.
-* **metacognitive awareness** - that ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving.
 * **confidence as a computer user** - that practice with computers alone makes someone better with computers.
+* **to think-about-thinking (metacognition)** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
+* **faith in science** - that hypothesis testing is an effective tool for developing human knowledge.
+* **metacognitive awareness** - that ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving.
 * **fearlessness of computers** - that a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
 * **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner.
 * **understanding is power** - that understanding-a-problem all by itself is almost enough to solve it.
