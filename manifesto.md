@@ -12,8 +12,9 @@ Regardless of your opinion on the technological-singularity, the fact that power
 which are especially beneficial for young people. A student of software development learns ...
 * **attention to detail** - that instructions and information can be misunderstood, and exact detail results in consistent performance.
 * **humility and grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
-* **rapid-prototyping** - that writing and testing software is cheap, even when it fails, and thinking about the results of lots of quickly-done incorrect solutions is a great way to get to the correct solution.
+* **rapid-prototyping** - that writing and testing software is cheap, even when it fails, and thinking about the results of lots of quickly-done-and-*incorrect* solutions is a great way to get to the *correct*-solution.
 * **resilience to complexity** - that even incomprehensible systems can be understood one small piece at a time.
+* **fail-fast** - the pholosophy of engineering: it is good to fail a process the moment something is incorrect, so it will be fixed, and the process can be perfect sooner.
 * patience with unintuitive truth - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
 * faith in science - that forming a hypothesis and testing it to validate understanding is a profoundly effective tool for developing human knowledge.
 * intrinsic reward from success - that solving-a-problem is satisfying and encouraging, in a way that is proportional to difficulty.
