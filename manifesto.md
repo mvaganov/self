@@ -51,7 +51,7 @@ Impetus Jobs is a natural evolution of Impetus Project: integrate social-media a
 
 Impetus AR will need cheap AR hardware, mature machine-vision software technology, and significant amounts of dynamic tutorial content for which there are currently (as of Oct 2017) no models.
 
-Current foci for Galactus (essentially a public TODO list):
+### Current foci for Galactus (essentially a public TODO list):
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
   * in development in Unity3D
 * spreadsheet UI
