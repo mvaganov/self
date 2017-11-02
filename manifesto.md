@@ -1,14 +1,14 @@
-#Mr. V's Manifesto, Oct 2017
+# Mr. V's Manifesto, Oct 2017
 
 In preparation for dramatically-powerful-computer-technology-in-the-near-future, my short-term goal is to teach software development. My long-term goal is to write software to help mankind organize itself better. More specifically, I want to teach young adults how to participate in large projects, to develop tools that solve problems enabling dysfunctional governance, and to create AI that identifies ways to improve logistical efficiency in human tasks while accounting for human goals. I have a succession of specific software products in mind for this.
 
-###Why "Teach Software Development" in the Short Term?
+### Why "Teach Software Development" in the Short Term?
 
 <a href="http://www.codegiraffe.com/singularity.png">The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology is coming.</a> There are many resources online that explain this, <a href="https://en.wikipedia.org/wiki/Technological_singularity">Wikipedia</a> is an excellent starting-point for the un-initiated.
 
 Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools does-a-lot to keep those tools from being used unwisely. So, more computer-experts will do-a-lot to keep powerful computer technology from being used unwisely.
 
-###Practicing software development encourages important habits of mind,
+### Practicing software development encourages important habits of mind,
 which are especially beneficial for young people. A student of software development learns ...
 * confidence as a computer user - that practice with computers alone make someone better with computers in the future.
 * attention to detail - that instructions and information can be misunderstood, and exact detail results in consistent performance.
@@ -25,7 +25,7 @@ which are especially beneficial for young people. A student of software developm
 
 I'm teaching kids technology. It's existentially-satisfying, and I can't stop.
 
-###Prophecy of the Future
+### Prophecy of the Future
 
 As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but most-likely better, and almost certainly far more cheaply. Humans will have computer assisted jobs, taking advantage of hardware-and-software to multiply effectiveness, using communication and embeded logic to integrate logistics, reduce waste, educate on-the-fly, track quality/progess of workers, and more. The humans who are working have work output similar to hundreds or thousands of humans working without computers.
 
