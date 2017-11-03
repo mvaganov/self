@@ -13,7 +13,7 @@ Regardless of your opinion on the technological-singularity, the fact that power
 * **grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
 * **to quickly test things out (rapid-prototyping)** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution.
 * **anything can be understood** - that even incomprehensible systems can be understood one small piece at a time.
-* **understanding of unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
+* **to understanding unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
 * **stronger habits of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem.
 * **new limits for personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study.
 * **confidence as a computer user** - that practice with computers alone makes someone better with computers.
