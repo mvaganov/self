@@ -1,6 +1,6 @@
 # Mr. V's Manifesto
 
-In preparation for dramatically-powerful-computer-technology-in-the-near-future, my short-term goal is to teach software development. My long-term goal is to help develop software to get mankind organize itself better. More specifically, I want to teach young adults how to participate in large projects, to that enable functional governance, and to create AI that identifies ways to improve logistical efficiency in human tasks while accounting for human goals. I have a succession of specific software products in mind for this.
+In preparation for dramatically-powerful-computer-technology-in-the-near-future, my short-term goal is to teach software development. My long-term goal is to help develop software to get mankind organize itself better. More specifically, I want to teach young adults how to participate in large projects, to have transparent tools for functional governance, and to create benevolent AI, that identifies tasks that humans can accomplish to achieve human goals. I have a succession of specific software products in mind for this.
 
 ### Why "Teach Software Development" in the Short Term?
 
