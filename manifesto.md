@@ -56,28 +56,28 @@ Impetus AR will need cheap AR hardware, mature machine-vision software technolog
 
 ### Current foci for Galactus (essentially a public TODO list):
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
-  * in development in Unity3D
+  * in development in Unity3D. finding a good 3D-voronoi library would help a lot.
 * spreadsheet UI
-  * in development in Unity3D, with functional scripting engine
+  * in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
 * Instant Runoff Voting tools (multiplayer decision making, AI)
-  * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app
+  * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app. It's too much of my own code to give to someone else.
 * dynamic stat system
-  * using common scripting system also used by spreadsheet UI, may not scale well to thousands of objects. generate C# objects?
+  * using common scripting system also used by spreadsheet UI, may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
 * General AI (state-machines, steering behaviors)
-  * should find a good API someone else wrote and add 3D math code to it
+  * should find a good API someone else wrote and add 3D math code to it. would be nice to find someone who is a pro at this.
 * movement/control modes (space fly, FPS/3rd-Person, ground-fly)
-  * need to stabalize code, add support for animations for fully-customizable models
+  * need to stabalize code, add support for animations for fully-customizable models. would be nice to find a pro at this too.
 * artifact building
-  * agent can build roads, barriers, caches, monuments
+  * agent can build roads, barriers, caches, monuments. need to fully spec this out in a design doc.
 * VR controls
-  * more experimentation required, need to integrate into movement/control UI
+  * more experimentation required, need to integrate into movement/control UI. need to bone-up on VR UI standards, or find an expert.
 * scripting system
   * need to make imperative code more java-script like.
 * Project & Task system
-  * use the scripted JSON-like datastructures as the base
+  * use the scripted JSON-like datastructures as the base. Already have examples of this working.
 * Personnel & Resource system
-  * requires spreadsheet UI, scripts, and stat/trait system for personnel to inform AI simulation
+  * requires spreadsheet UI, scripts, and stat/trait system for personnel to inform AI simulation. The RankedVote visual will help show resource/personnel usage.
 * Project Management Visualizations (WBS, GANTT, burndown)
-  * refresh and import old code
+  * refresh and import old code.
 * Customization UI
-  * need to find and implement color picker, sprite loader/picker, simple model generator and basic texture mapper
+  * need to find and implement color picker, sprite loader/picker, simple model generator and basic texture mapper.
