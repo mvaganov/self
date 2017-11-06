@@ -1,10 +1,10 @@
 # Mr. V's Manifesto
 
-In preparation for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png), my short-term goal is to teach software development. My long-term goal is to help develop software to get mankind to organize itself better. More specifically, I want to teach young adults how to participate in large projects, to have transparent tools for functional governance, and to create benevolent AI, that identifies tasks that humans can accomplish to achieve human goals. I have a succession of specific software products in mind for this.
+In preparation for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png), my short-term goal is to teach software development. My long-term goal is to help develop software to get mankind to organize itself better. More specifically, I want to teach young adults how to participate in large projects, to have transparent tools for functional governance, and to create benevolent AI that identifies tasks that humans can accomplish to achieve human goals. I have a succession of specific software projects in mind for this.
 
 ### Why "Teach Software Development" in the Short Term?
 
-[The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology is coming.](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
+[The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology](https://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/) [is coming.](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
 
 Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools does-a-lot to keep those tools from being used unwisely. So, more computer-experts will do-a-lot to keep powerful computer technology from being used unwisely.
 
