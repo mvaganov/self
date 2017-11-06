@@ -4,7 +4,7 @@ In preparation for [dramatically-powerful-computer-technology-in-the-near-future
 
 ### Why "Teach Software Development" in the Short Term?
 
-[The "Technological Singularity" / achievement-of-super-intelligence-through-computer-technology](https://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/) [is coming.](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
+[The "Technological Singularity"](https://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/) [ / achievement-of-super-intelligence-through-computer-technology](http://www.kurzweilai.net/blog) [is coming.](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
 
 Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools does-a-lot to keep those tools from being used unwisely. So, more computer-experts will do-a-lot to keep powerful computer technology from being used unwisely.
 
