@@ -58,7 +58,7 @@ Impetus AR will need cheap AR hardware, mature machine-vision software technolog
 (This is essentially a public TODO list)
 
 ### Teaching
-* CS2
+* CS2 - *A Computer Science Montage*
   * grading, analysis, adding content to fill gaps, streamlining
 * Teaching Virtual Reality development
   * documenting Unity tutorials
