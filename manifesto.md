@@ -24,11 +24,11 @@ I also want to teach software development because I believe it creates better 21
 * **metacognitive awareness** - that ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving.
 * **fearlessness of computers** - that a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
 * **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner.
-* **understanding is power** - that understanding-a-problem all by itself is almost enough to solve it.
+* **understanding is power** - that understanding-a-problem, all by itself, is almost enough to solve it.
 
 I'm teaching technology to young people. It's existentially-satisfying, and I can't stop.
 
-### Prophecy of the Future
+## Prophecy of the Future
 
 As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but better in many ways, almost certainly more cheaply. Humans will have computer-assisted jobs, taking advantage of hardware and software to multiply job effectiveness, using communication and embeded logic to duplicate effort, integrate logistics, reduce waste, educate on-the-fly, track quality/progess of workers, and more. The humans who are working have work output similar to hundreds or thousands of humans working without computers.
 
@@ -54,7 +54,18 @@ Impetus Jobs is a natural evolution of Impetus Project: integrate social-media a
 
 Impetus AR will need cheap AR hardware, mature machine-vision software technology, and significant amounts of dynamic tutorial content for which there are currently (as of Oct 2017) no models.
 
-### Current foci for Galactus (essentially a public TODO list):
+## Specific Short-term Goals
+(This is essentially a public TODO list)
+
+### Teaching
+* CS2
+  * grading, analysis, adding content to fill gaps, streamlining
+* Teaching Virtual Reality development
+  * documenting Unity tutorials
+  * practice problems for C#, similar to the *montage* from CS2
+  * Nonstandard Assets - a complimentary API to Unity providing common useful tools.
+
+### My Dragon (Galactus Phase)
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
   * in development in Unity3D. finding a good 3D-voronoi library would help a lot.
 * spreadsheet UI
