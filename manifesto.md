@@ -11,14 +11,14 @@ Regardless of your opinion on the technological-singularity, the fact that power
 I also want to teach software development because I believe it creates better 21st-century people.
 
 ### A student of software development learns ...
-* **attention to detail** - that instructions and information can be misunderstood, and being exact results in consistent performance.
-* **grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made.
-* **to quickly test things out (rapid-prototyping)** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution.
-* **anything can be understood** - that even incomprehensible systems can be understood one small piece at a time.
-* **to understanding unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable.
-* **stronger habits of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem.
-* **new limits for personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study.
-* **confidence as a computer user** - that practice with computers alone makes someone better with computers.
+* **attention to detail** - that instructions and information can be misunderstood, and being exact results in consistent performance. Working with syntax errors easily teaches this. C.S. students often notice their grammar and spelling habits changing from this exposure, even from just a few weeks of practice.
+* **grit** - to accept error and imperfection as a natural part of learning, and to forgive-oneself quickly, so that progress can be made. Practicing anything improves grit, but practicing a task that constantly identifies that you are wrong, in cryptic-but-eventually-understantable ways, does it especially well.
+* **to quickly test things out (rapid-prototyping)** - that writing and testing software is cheap, even when it fails. Having results from lots of quickly-done-and-*incorrect* solutions is a great guide toward a *correct*-solution. Lab-based Computer Science assignments teach this way, and encourages this behavior by having students create lots of new pieces of code from scratch.
+* **anything can be understood** - that even incomprehensible systems can be understood one small piece at a time. This realization is one that creeps up on a person, and it comes once enough previously-incomprehensible-systems become comfortably unterstood.
+* **to understanding unintuitive ideas** - that software works in ways that are not always easy to understand, but are still true, and eventually understandable. Comfort with unintuitive ideas acts as a defense against a variety of cognative biases, like stereotyping, and the-band-wagon effect.
+* **stronger habits of problem solving** - that solving-a-problem is satisfying and encouraging, and anyone is capable of solving a problem. The world needs more problem solvers, and computer programming is all about how to solve problems with a computer.
+* **new limits for personal mental ability** - solving software problems requires development of mental tools not required by many other fields of study. Computer programming Tools like breaking-problems-down-into-specific-steps, recursive thinking, object-oriented-composition, and others. These tools are widely applicable to many other fields of study, and easy to practice with programming.
+* **confidence as a computer user** - that practice with computers alone makes someone better with computers. And there is a need for more confident computer users today, and in the future.
 * **to think-about-thinking (metacognition)** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts.
 * **faith in science** - that hypothesis testing is an effective tool for developing human knowledge.
 * **metacognitive awareness** - that ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving.
