@@ -52,7 +52,7 @@ Once there is a game that is usable as enterprise software, selling a version of
 
 Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
 
-Impetus AR will need cheap AR hardware, mature machine-vision software technology, and significant amounts of dynamic tutorial content for which there are currently (as of Oct 2017) no models.
+Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of dynamic tutorial content for which there are currently (as of Oct 2017) no models.
 
 ## Specific Short-term Goals
 (This is essentially a public TODO list)
