@@ -64,7 +64,12 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
   * documenting Unity tutorials
   * practice problems for C#, similar to the *montage* from CS2
   * Nonstandard Assets - a complimentary API to Unity providing common useful tools.
-    * Lines, Timer, TriggerRegion, CMDLine, ControlledRigidbody, GravityObject, AIController, 3D Math, Collectable+CollectableInventory, Shoot
+    * Lines, Timer, Trigger, CMDLine, 3D Math
+    * ControlledRigidbody, GravityObject, AIController
+    * VR controller (teleport, climb-to-move, waddle-move)
+    * Collectable & CollectableInventory, Shoot (with collectable ammo)
+    * Data Script (serialize/deserialize arbitrary data in JSON form)
+    * MemoryPool
 
 ### My Dragon (Galactus Phase)
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
