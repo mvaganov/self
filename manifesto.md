@@ -70,6 +70,8 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
     * Collectable & CollectableInventory, Shoot (with collectable ammo)
     * Data Script (serialize/deserialize arbitrary data in JSON form)
     * MemoryPool
+    * Dialog system
+    * reflective object UI
 
 ### My Dragon (Galactus Phase)
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
