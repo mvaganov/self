@@ -32,7 +32,7 @@ I'm teaching technology to young people. It's existentially-satisfying, and I ca
 
 As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but better in many ways, almost certainly more cheaply. Humans will have computer-assisted jobs, taking advantage of hardware and software to multiply job effectiveness, letting one person do the job of *millions*. Automation will duplicate effort for free, while electronic communication will eliminate the need for duplication, embeded sensors will track resources and reduce waste, electronic documentation will educate on-the-fly, and more. It's already happening, it will just happen more in the future.
 
-Humans who know-use-computers-to-multiply-effort (what I like to call *wizards*) will be employable.
+Humans who know-how-to-use-computers-to-multiply-effort (what I like to call *wizards*) will be employable.
 
 ### What If I'm not a Wizard?
 
