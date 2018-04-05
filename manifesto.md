@@ -5,9 +5,7 @@ In preparation for [dramatically-powerful-computer-technology-in-the-near-future
 
 ### Why "Teach Software Development" in the Short Term?
 
-[The "Technological Singularity"](https://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/) [ / achievement-of-super-intelligence-through-computer-technology](http://www.kurzweilai.net/blog) [is coming.](https://en.wikipedia.org/wiki/The_Singularity_Is_Near) There are many resources online that explain this, [Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity) is an excellent starting-point for the un-initiated.
-
-Regardless of your opinion on the technological-singularity, the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools helps keep those tools used wisely. So, more computer-experts in general will do-a-lot to keep powerful computer technology used wisely.
+Regardless of your opinion on [the](https://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/) [technological](http://www.kurzweilai.net/blog) [singularity](https://en.wikipedia.org/wiki/Technological_singularity), the fact that powerful-computing-technology is coming is very clear. Powerful-tools are dangerous if used unwisely. More eyes watching powerful-tools helps keep those tools used wisely. So, more computer-experts in general will do-a-lot to keep powerful computer technology used wisely. More influential people who understand this is also important.
 
 I also want to teach software development because I believe it creates better 21st-century people.
 
