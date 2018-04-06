@@ -19,25 +19,25 @@ I also want to teach software development because I believe it creates better 21
 * **new mental tools** - solving software problems requires development of mental tools not required by many other fields of study, but still useful to them. Computer-programming mental-tools like breaking-problems-down-into-specific-steps, strict logical reasoning, recursive thinking, object-oriented-composition, abstraction, and others. These mental tools can be easy to practice with programming.
 * **confidence as a computer user** - that practice with computers alone makes someone better with computers. And there is a need for more confident computer users today, and in the future.
 * **to think-about-thinking (metacognition)** - that creating-an-algorithm requires introspection: awareness of your own thought process, enough that you can name and list your own thoughts. Programming does not make metacognition easy, but it does provide a metacognitive exercise with testable results.
-* **faith in science** - that hypothesis testing, the cornerstone of science, is an effective tool for developing human knowledge. This is such a regular part of computer-science that it is easy to miss. Every time a teacher asks "What does this code do?" or a student says "I think this will work", there is hypothesis testing going on.
+* **faith and skill in science** - that hypothesis testing, the cornerstone of science, is an effective tool for developing human knowledge. This is such a regular part of computer-science that it's easy to miss. Every time a teacher asks "What does this code do?" or a student says "I think this will work", there is hypothesis testing going on.
 * **metacognitive awareness** - that the ability to think is determined by mental state, and *managing mental state* (with food, sleep, addressing emotional issues, ...) is a foundation for successful problem solving. Programming does not make this obvious, but being aware of the tangible-results-of-programming, done in various mental states, does.
 * **fearlessness of computers** - that a computer is just a tool, with no emotions, no motives, no purpose beyond what it was designed to do, and the ability to multiply its programmer's intelligence and influence.
 * **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner. Programmers are exposed to this philosophy constantly, because great software is built on this idea.
-* **understanding is power** - that correctly-understanding-a-problem, all by itself, is almost enough to solve it. Correctly understanding a system is almost enough to influence it's behavior.
+* **understanding is power** - that correctly-understanding-a-problem, all by itself, is almost enough to solve it. Correctly understanding a system is almost enough to influence it's behavior, which is clearly evident with computer programming.
 
 I'm teaching technology to young people. It's existentially-satisfying, and I can't stop.
 
 ## Prophecy of the Future
 
-As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but better in many ways, almost certainly more cheaply. Humans will have computer-assisted jobs, taking advantage of hardware and software to multiply job effectiveness, letting one person do the job of *millions*. Automation will duplicate effort for free, while electronic communication will eliminate the need for duplication, embeded sensors will track resources and reduce waste, electronic documentation will educate on-the-fly, and more. It's already happening, it will just happen more in the future.
+As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but better in many ways, certainly more cheaply. Humans will have computer-assisted jobs, taking advantage of hardware and software to multiply job effectiveness, letting one person do the job of *millions*. Automation will duplicate effort for free, while electronic communication will eliminate the need for duplication of effort, embeded sensors will track resources and reduce waste, electronic documentation will educate on-the-fly, and more. It's already happening, it will just happen more in the future.
 
-Humans who know-how-to-use-computers-to-multiply-effort (what I like to call *wizards*) will be employable.
+Humans who know-how-to-use-computers-to-multiply-effort (what I call *wizards*) will be employable.
 
 ### What If I'm not a Wizard?
 
-**"Impetus AR"** - a real-time re-education tool that will turn a population of disenfranchised meat-bags into a productive, organized work force. Imagine an Augmented Reality (AR) system that points a person toward productive actions that benefit the causes they are aligned with. The system identifies tasks, directs users to tools and resources with visual/auditory/haptic cues, educates users on proper use of tools and resources with tutorials, and logs the completion of tasks. Tutorials will be created in real-time by neural-networks, which adapt human-made tutorials for specific situations. Step-by-step-instructions, along with tool/resource information and metadata, will be fed to the AR system by "Impetus Jobs".
+**"Impetus AR"** - a real-time re-education tool that will turn a population of disenfranchised meat-bags into a productive, organized work force. Imagine an Augmented Reality (AR) system that points a person toward productive actions that benefit the causes they are aligned with. The system identifies tasks, directs users to tools and resources with visual/auditory/haptic cues, educates users on proper use of tools and resources with tutorials, and logs the completion of tasks. Tutorials will eventually be created in real-time by neural-networks, which adapt human-pre-made tutorials. Step-by-step-instructions, along with tool/resource information and metadata, will be fed to the AR system by "Impetus Jobs".
 
-**"Impetus Jobs"** - Imagine a combination of LinkedIn and TaskRabbit, with a Strong-AI--prediction/analysis-tool balancing work-load for maximum probability of success. Impetus Jobs will have have information about a person as a worker, including their skills, preferred kinds of work, and life-goals. Workers will be matched with tasks nearby, with worker advancement in-mind. Tutorial tasks will be created by the system to improve skills, and work toward accomplishment of ideals and life-goals of the workers. Very large tasks, composed of many subtasks, will be populated by a project-management-software suite, "Impetus Project".
+**"Impetus Jobs"** - Imagine a combination of LinkedIn and TaskRabbit, with a Strong-AI-prediction/analysis-tool balancing work-load for maximum probability of success. Impetus Jobs will have have information about a person as a worker, including their skills, preferred kinds of work, and life-goals. Workers will be matched with tasks nearby, with worker advancement in-mind. Tutorial tasks will be created by the system to improve skills, and work toward accomplishment of ideals and life-goals of the workers. Very large tasks, composed of many subtasks, will be populated by a project-management-software suite, "Impetus Project".
 
 **"Impetus Project"** - Project-management software that handles arbitrary tasks of arbitrary complexity, resource usage, and personnel. It's a database of work to do, and how to do it. It works with tasks in many different dimensions, including step-by-step instructions as work-breakdown-structures, GANTT charts, burndown charts (for tracking), and resource & personnel spread-sheets. Impetus Project also does predictive-analysis of projects using algorithms that improve estimation with data from past performance (no "strong-AI", that is what Impetus Jobs is for). The data model and user interface for Impetus Project is based on the game "Galactus".
 
@@ -51,16 +51,17 @@ Once there is a game that is usable as enterprise software, selling a version of
 
 Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
 
-Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content for which there are currently (as of Dec 2017) no models.
+Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (for which there are currently no models at the moment).
 
 ## Specific Short-term Goals
-(This is essentially a public TODO list)
+(This is essentially a public TODO list, most people reading the manifesto can stop here)
 
 ### Teaching
 * CS2 - *A Computer Science Montage*
   * grading, analysis, adding content to fill gaps, streamlining
 * Teaching Virtual Reality development
-  * documenting Unity tutorials
+  * developing Unity tutorials
+  * documenting tutorials
   * practice problems for C#, similar to the *montage* from CS2
   * Nonstandard Assets - a complimentary API to Unity providing common useful tools.
     * Lines, Timer, Trigger, CMDLine, 3D Math
