@@ -15,7 +15,7 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 ### Software Development Skills
 * **10+ years Programming**: student, hobbyist, game programmer, consultant
 * Languages: C, C++, C# (for Unity), Java, JavaScript, Python
-* Client side: UI/UX, multi-platform development, device debugging
+* Client side: UI/UX, multi-platform development, device debugging, VR
 * Server side: custom servers with C and C++, Postgres SQL, Node.js, Heroku
 
 <!--- #ifndef redux -->
@@ -30,10 +30,10 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 
 <!--- #endif -->
 
-### Communication Skills
-* English: public speaker, Polish: conversational, Mandarin Chinese: *yi dian dian*
+### Teaching
 * **10+ years as educator**: ages 7 to 40+. tutoring, undergrad, high-school
-* "Digital Native": started using computers at age 10, programming C++ at age 14
+* 3+ years teaching High School Computer Science at Sacred Heart Schools, Atherton
+* 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 
 <!--- #ifndef redux -->
 ## Employment History
@@ -44,8 +44,8 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- ``` -->
 <!---                 2009  2010  2011  2012  2013  2014  2015  2016  2017  2018 -->
 <!--- Teaching @DeVry FFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------`````` -->
-<!--- Sacred Heart Prep-----``````------``````------``````----FFFFFFFFFFFFFF`````` -->
-<!--- Other Teaching  ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvv`````` -->
+<!--- Sacred Heart Prep-----``````------``````------``````----FFFFFFFFFFFFFFFFFF`` -->
+<!--- Other Teaching  ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv``` -->
 <!--- Impetus(stealth startup)```v-----v`````vvvvvFpppppppppp--vv`v``v-vv---`````` -->
 <!--- ``` -->
 <!--- Key: (```p```) Part-time, (```F```) Full-time -->
@@ -58,8 +58,8 @@ Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```-----
 Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````
 Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````------``````
 LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````------``````
-Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFFFFFFFFFFF``````
-Other Teaching ------``````------``````------``````------``````------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvv``````
+Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFFFFFFFFFFFFFFF``
+Other Teaching ------``````------``````------``````------``````------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv```
 Impetus(stealth startup)```------``````------```v``------`````v-----v`````v-----v`````vvvvvFpppppppppp--vv`v``v-vv---``````
 ```
 Key: (```F```) Full-time, (```p```) Part-time, (```v```) Volunteer
@@ -71,13 +71,19 @@ Key: (```F```) Full-time, (```p```) Part-time, (```v```) Volunteer
 #### Computer Science Teacher at Sacred Heart Prep
 *August 2015 to present*
 
-Faculty member at an elite and exclusive private school
-
-<!--- #ifndef redux -->
-* Taught computer science, with a curriculum designed for accessibility
+Faculty member at an exclusive private school
+* Taught computer science, with a custom curriculum designed for accessibility and motivation
 * Prepared young minds for the terrifying wonders that computers are bringing to mankind
 * Wrote software used by school
 
+<!--- #ifndef redux -->
+Sacred Heart Courses Taught:
+* Exploring Computer Science - introductory computers course
+  - Series of practical exercises and presentations to learn about modern computer technology
+  - Graphics, Web Development, Cyber Security, Programming (Scratch, Python), technology trends
+* Programming - Python lab and algorihtms course
+* Building Virtual Worlds - Unity 3D and Oculus Rift, create & present Virtual Reality experiences
+* Creative Inquiry - student-directed extra-curricular study, supported and graded by faculty
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
@@ -336,7 +342,7 @@ BS of Computer Information Systems
 <!--- #endif -->
 
 <!--- #ifndef redux -->
-* Unityversity (Sep. 2016 to Present)
+* Unityversity (Sep. 2016 to Jun. 2018)
   - Co-lead Unityversity classes teaching Unity3D and game development
 * Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
@@ -362,8 +368,10 @@ BS of Computer Information Systems
 <!--- #endif -->
 
 #### Hobbies
+* Fencing
 * Rock climbing
 * Volunteer Teaching
+* Software Side-projects
 * Game Jams and Hackathons (sample works at `codegiraffe.com`)
 
 #### Personal Programming Axioms
@@ -373,8 +381,8 @@ BS of Computer Information Systems
 * Code explicit functionality rather than side effects, and /** document it */
 * Comments are good, code that describes itself is better.
 * Think about optimization now, but do the actual optimization later.
-* Just Prototype. And don't expect another shot at it.
-* Without clear goals you are wasting people's time.
+* Just Prototype. And don't expect another shot at it, so make it good!
+* Without clear goals you are wasting people's time, and we're made of time.
 * Refactor, Sooner rather than later; clean code grows into powerful code.
 * Disciplined, results oriented software development is always in style.
 * How most production code should be judged (in order):
@@ -388,8 +396,8 @@ BS of Computer Information Systems
 #### Other Credo
 * Persistence (iteration) is disproportionately important to success.
 * Rules are for people who don't know any better; Rules are important, but understanding sets you free.
-* Luck is where preparation meets random opportunity.
+* Luck is where preparation meets random opportunity, which is happening constantly.
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
 * Do not fear complexity; simplify.
-* http://codegiraffe.com/quotes.txt
+* more at: http://codegiraffe.com/quotes.txt
