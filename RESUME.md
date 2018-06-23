@@ -42,18 +42,17 @@ http://www.codegiraffe.com/portfolio	(projects and code samples)
 <!--- #ifdef redux -->
 <!--- ### Employment Timeline -->
 <!--- ``` -->
-<!---                 2009  2010  2011  2012  2013  2014  2015  2016  2017  2018 -->
+<!--- ................2009  2010  2011  2012  2013  2014  2015  2016  2017  2018 -->
 <!--- Teaching @DeVry FFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------`````` -->
 <!--- Sacred Heart Prep-----``````------``````------``````----FFFFFFFFFFFFFFFFFF`` -->
 <!--- Other Teaching  ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv``` -->
 <!--- Impetus(stealth startup)```v-----v`````vvvvvFpppppppppp--vv`v``v-vv---`````` -->
 <!--- ``` -->
-<!--- Key: (```p```) Part-time, (```F```) Full-time -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
-               2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018
+...............2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018
 Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------``````------``````
 Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````
 Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````------``````
@@ -62,9 +61,9 @@ Sacred Heart Prep----``````------``````------``````------``````------``````-----
 Other Teaching ------``````------``````------``````------``````------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv```
 Impetus(stealth startup)```------``````------```v``------`````v-----v`````v-----v`````vvvvvFpppppppppp--vv`v``v-vv---``````
 ```
+<!--- #endif -->
 Key: (```F```) Full-time, (```p```) Part-time, (```v```) Volunteer
 
-<!--- #endif -->
 
 ### Employment Details
 

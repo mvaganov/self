@@ -24,3 +24,9 @@ $RECYCLE.BIN/
 .Trashes
 Icon?
 *.~*
+
+# Node stuff
+node_modules
+
+# Temprorary PDF source files
+*.pdf_

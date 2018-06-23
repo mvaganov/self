@@ -1,0 +1,23 @@
+{
+  "name": "self",
+  "version": "1.0.0",
+  "description": "Public personal documents that could benefit from source control.",
+  "main": "resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvaganov/self.git"
+  },
+  "author": "mvaganov@hotmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mvaganov/self/issues"
+  },
+  "homepage": "https://github.com/mvaganov/self#readme",
+  "dependencies": {
+    "markdown-pdf": "^8.1.1",
+    "split": "^1.0.1"
+  }
+}
