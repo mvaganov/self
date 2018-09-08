@@ -43,31 +43,28 @@ Humans who know-how-to-use-computers-to-multiply-effort (what I call *wizards*) 
 
 **"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, to accomplish complex goals. Goal-objects are worked by an agent skills. An agent working a skill improves the agent's skill, and allows greater goals to be completed. Some goals have a dependency-graph that forces sub-goals to be accomplished first, in sometimes complex sequences. Agents recruit partner-agents with complementary skills to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals as well.
 
-**"Builder VR"** - Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting, which has demand for a product that can enhance training of it's workers. Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured concrete, without physical costs.
+**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured 'concrete', without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product that to enhance training (and professionalism) of it's workers.
 
 ***"My Dragon"*** - The name you'll hear me use to refer to this plan.
 
-Galactus or maybe Builder VR should come first. Developing the game first could encourage young people to buy into the software system. This could be sociologically valuable for young people who are a risk to society if they cannot find a way to learn to integrate into works larger than themselves. Sadly, *game development* is not a lucrative industry. But...
+Galactus or maybe Builder VR should come first. Developing the game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves. Sadly, *game development* is not a lucrative industry. But...
 
-Once there is a game that is usable as commercial training or enterprise software, selling a higher-profit-price-point version of that game to more lucrative businesses should be possible. The sales ptch could be "Many of your young employees *already know* this user interface. The interface encourages mastery of itself, like all games do." Learning-curve, user-interface, and lack-of-fun tend to be big complaints about *enterprise software* and *training software*, which are commercially viable industries.
+Once there is a game that is usable as commercial training or enterprise software, selling a higher-profit-price-point version of that game to more lucrative businesses/governments should be possible. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it!" Learning-curve, user-interface, and lack-of-fun tend to be problems with *enterprise software* and *training software*, which are commercially viable industries to develop software for.
 
 Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
 
-Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (for which there are currently no models at the moment).
-
-Builder VR could be developed with today's VR equipment (Oculus Rift and HTC Vive).
+Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which Builder VR can act as a set of examples for).
 
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
 
 ### Teaching
-  * developing Unity tutorials
-  * documenting tutorials
-  * practice problems for C#, similar to the *montage* from CS2
-  * Nonstandard Assets - a complimentary API to Unity providing common useful tools.
+  * Unity tutorials
+  * Nonstandard Assets - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
     * Lines, Timer, Trigger, CMDLine, 3D Math
     * ControlledRigidbody, GravityObject, AIController
     * VR controller (teleport, climb-to-move, waddle-move)
+    * UI Generator (generates UI based on a JSON-like object)
     * Collectable & CollectableInventory, Shoot (with collectable ammo)
     * Data Script (serialize/deserialize arbitrary data in JSON form)
     * MemoryPool
