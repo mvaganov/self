@@ -62,9 +62,9 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
 ### Teaching
   * Unity tutorials
   * Nonstandard Assets - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
-    * Lines, Timer, Trigger, CMDLine, 3D Math
+    * Lines, Timer, ContingencyTrigger, CMDLine, CubeTools
     * ControlledRigidbody, GravityObject, AIController
-    * VR controller (teleport, climb-to-move, waddle-move)
+    * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
     * UI Generator (generates UI based on a JSON-like object)
     * Collectable & CollectableInventory, Shoot (with collectable ammo)
     * Data Script (serialize/deserialize arbitrary data in JSON form)
