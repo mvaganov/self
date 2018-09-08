@@ -43,23 +43,24 @@ Humans who know-how-to-use-computers-to-multiply-effort (what I call *wizards*) 
 
 **"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, to accomplish complex goals. Goal-objects are worked by an agent skills. An agent working a skill improves the agent's skill, and allows greater goals to be completed. Some goals have a dependency-graph that forces sub-goals to be accomplished first, in sometimes complex sequences. Agents recruit partner-agents with complementary skills to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals as well.
 
+**"Builder VR"** - Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting, which has demand for a product that can enhance training of it's workers. Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured concrete, without physical costs.
+
 ***"My Dragon"*** - The name you'll hear me use to refer to this plan.
 
-Galactus comes first. It has to be a game first (and project-management-software second), otherwise it will not be adopted as easily by disenfranchised-gamer millenials, who are a risk to society if they cannot find a way to learn to integrate into works larger than themselves. Sadly, *game development* is not a lucrative industry. But...
+Galactus or maybe Builder VR should come first. Developing the game first could encourage young people to buy into the software system. This could be sociologically valuable for young people who are a risk to society if they cannot find a way to learn to integrate into works larger than themselves. Sadly, *game development* is not a lucrative industry. But...
 
-Once there is a game that is usable as enterprise software, selling a version of that game as enterprise software should be possible. The sales ptch could be "Many of your young employees already know this user interface well. The interface is a game that teaches mastery of itself." Learning-curve and user-interface tend to be big complaints about *enterprise software*, which by the way, *is* a lucrative industry.
+Once there is a game that is usable as commercial training or enterprise software, selling a higher-profit-price-point version of that game to more lucrative businesses should be possible. The sales ptch could be "Many of your young employees *already know* this user interface. The interface encourages mastery of itself, like all games do." Learning-curve, user-interface, and lack-of-fun tend to be big complaints about *enterprise software* and *training software*, which are commercially viable industries.
 
 Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
 
 Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (for which there are currently no models at the moment).
 
+Builder VR could be developed with today's VR equipment (Oculus Rift and HTC Vive).
+
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
 
 ### Teaching
-* CS2 - *A Computer Science Montage*
-  * grading, analysis, adding content to fill gaps, streamlining
-* Teaching Virtual Reality development
   * developing Unity tutorials
   * documenting tutorials
   * practice problems for C#, similar to the *montage* from CS2
@@ -100,3 +101,4 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
   * refresh and import old code.
 * Customization UI
   * need to find and implement color picker, sprite loader/picker, simple model generator and basic texture mapper.
+* Builder VR demo
