@@ -26,8 +26,6 @@ I also want to teach software development because I believe it creates better 21
 * **fail-fast** - the pholosophy of engineering: it is good to fail an entire-process the moment some small part is incorrect, so it *will* be fixed, and the process can be perfect sooner. Programmers are exposed to this philosophy constantly, because great software is built on this idea.
 * **understanding is power** - that correctly-understanding-a-problem, all by itself, is almost enough to solve it. Correctly understanding a system is almost enough to influence it's behavior, which is clearly evident with computer programming.
 
-I'm teaching technology to young people. It's existentially-satisfying, and I can't stop.
-
 ## Prophecy of the Future
 
 As computer-technology improves, many (possibly most) people won't be able to find productive work. Computer-controlled tools will be able to do almost every task a human does, but better in many ways, certainly more cheaply. Humans will have computer-assisted jobs, taking advantage of hardware and software to multiply job effectiveness, letting one person do the job of *millions*. Automation will duplicate effort for free, while electronic communication will eliminate the need for duplication of effort, embeded sensors will track resources and reduce waste, electronic documentation will educate on-the-fly, and more. It's already happening, it will just happen more in the future.
