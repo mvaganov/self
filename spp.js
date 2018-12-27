@@ -1,14 +1,10 @@
-//console.log("Converting resume to pdf...");
+// simple pre-processor, designed for RESUME.md
+// once the file is processed, use grip (pip install grip) to turn it into a standalone page, and share the html or print that as a PDF.
 
-var markdownpdf = require("markdown-pdf")
-  , split = require("split")
-  , through = require("through")
-  , duplexer = require("duplexer")
-  , fs = require('fs')
-  , mvaganov = require("./mvaganov")
+var fs = require('fs'),
+	mvaganov = require("./mvaganov") // extends strings
   
-function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
-	
+function doTheThing(filename, outputfilename, definesTable, finishedCallback) {	
 	fs.readFile(filename, 'utf8', function (err,data) {
 		if (err) {
 			return console.log(err);
@@ -20,7 +16,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 		var cursor = -1, end, lastGoodIndex = 0;
 		var commentStart = "<!---";
 		var commentEnd = "-->"
-		var preprocState = -1;
+		// var preprocState = -1;
 		var preprocessInclude = false, nextpreprocessInclude = -1;
 		var activeMacro = -1, nextActiveMacro = -1
 		do {
@@ -52,7 +48,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 						tokens[i] = tokens[i].trim();
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
-//								console.log("defined \""+tokens[i]+"\"");
+								// console.log("defined \""+tokens[i]+"\"");
 								definesTable[tokens[i]] = true;
 								variableDefined = tokens[i];
 							} else {
@@ -61,7 +57,7 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 								for(var a = i; a < tokens.length; ++a) {
 									definesTable[variableDefined] += tokens[a];
 								}
-//								console.log("\""+variableDefined+"\" = "+definesTable[variableDefined]);
+								// console.log("\""+variableDefined+"\" = "+definesTable[variableDefined]);
 								break;
 							}
 						}
@@ -81,47 +77,47 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 						if(tokens[i].length > 0) {
 							if(variableDefined == null) {
 								variableDefined = tokens[i];
-//	console.log("testing "+variableDefined+" \""+definesTable[variableDefined]+"\"")
+								// console.log("testing "+variableDefined+" \""+definesTable[variableDefined]+"\"")
 								break;
 							}
 						}
 					}
 					// evaluate the condition based on the condition type, and prepare to use it after the non-comment text is finished processing
 					nextActiveMacro = macroChoice;
-					if(macroChoice == 1) {
+					if(macroChoice == 1) { // #ifdef
 						nextpreprocessInclude = definesTable[variableDefined] != null;
-					} else if(macroChoice == 2) {
+					} else if(macroChoice == 2) { // #ifndef
 						nextpreprocessInclude = definesTable[variableDefined] == null;
 					}
-//					console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
+					// console.log("PREPROCESSOR "+macros[macroChoice]+" "+variableDefined+" : "+nextpreprocessInclude);
 					break;
 				// #endif
 				case 3:
 					// after the non-comment text is processed based on this macro, forget about the macro.
 					nextActiveMacro = 0;
-//					console.log("ending " + macros[activeMacro] +" after next text is processed");
+					// console.log("ending " + macros[activeMacro] +" after next text is processed");
 					break;
 				// anything in comments should be included based on the activeMacro and preprocessInclude variable
 				default:
-//					console.log(activeMacro+" "+preprocessInclude);
+					// console.log(activeMacro+" "+preprocessInclude);
 					if((activeMacro == 1 || activeMacro == 2) && preprocessInclude == true) {
-//						console.log("//+ \""+subSection+"\"");
+						// console.log("//+ \""+subSection+"\"");
 						filteredOutput += subSection.trim()
 					} else {
-//						console.log("//- \""+subSection+"\"");
+						// console.log("//- \""+subSection+"\"");
 					}
 				}
-//				console.log("REGULAR "+activeMacro+" "+macros[activeMacro]+" "+variableDefined+" "+preprocessInclude);
+				// console.log("REGULAR "+activeMacro+" "+macros[activeMacro]+" "+variableDefined+" "+preprocessInclude);
 				var dataToAdd = data.substr(lastGoodIndex, found-lastGoodIndex);
 				var shownAddition = dataToAdd;
 				if(shownAddition.length > 10) {
 					shownAddition = shownAddition.substr(0,10)+"...";
 				}
 				if((activeMacro != 1 && activeMacro != 2) || preprocessInclude == true) {
-//					console.log("+ \""+shownAddition+"\"");
+					// console.log("+ \""+shownAddition+"\"");
 					filteredOutput += dataToAdd
 				} else {
-//					console.log("- \""+shownAddition+"\"");
+					// console.log("- \""+shownAddition+"\"");
 				}
 				lastGoodIndex = end + commentEnd.length;
 				cursor = lastGoodIndex-1;
@@ -135,29 +131,35 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 				filteredOutput += data.substr(lastGoodIndex, data.length-lastGoodIndex)
 			}
 		} while(found >= 0);
-//		console.log(filteredOutput);
+		// console.log(filteredOutput);
 
-		intermediateFile = outputfilename+"_";
-//		console.log("creating "+intermediateFile);
+		intermediateFile = outputfilename;
+		// console.log("creating "+intermediateFile);
 		fs.writeFile(intermediateFile, filteredOutput, function(err) {
 			if(err) {
 				console.log(err);
 			} else {
-				markdownpdf() // {preProcessMd: preProcessMd} )
-					.from(intermediateFile)
-					.to(outputfilename, function () { 
-						console.log("Done"); 
-						if(finishedCallback)
-							finishedCallback()
-					})
+				console.log("output: "+intermediateFile);
+				if(finishedCallback) {
+					finishedCallback()
+				}
 			}
 		}); 
 	});
 	
 }
 
-doTheThing("RESUME.md", "resume.pdf", {}
-	, function(){
-		new doTheThing("RESUME.md", "resume_redux.pdf", {redux:true})
+var args = process.argv.slice(2);
+
+if(args.length <= 0) {
+	console.log("Expected usage:\nnode spp.js <input file> <output file> [preprocessor #define, ...]\n");
+	console.log("Example usage:\nnode spp.js RESUME.md RESUMEi.md redux\n");
+} else {
+	var inFile = args[0];
+	var outFile = args[1];
+	var preprocDefines = {};
+	for(var i = 2; i < args.length; i++){
+		preprocDefines[args[i]] = true;
 	}
-)
+	doTheThing(inFile, outFile, preprocDefines);
+}
