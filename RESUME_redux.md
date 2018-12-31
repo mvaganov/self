@@ -14,13 +14,13 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 #### Suffrag Ex Machina
 
-A network of neural-networks that use ranked-choice voting for consensus.
+An experimental ensemble machine-learning technique that elects using ranked-choice voting.
 #### Ethos
 
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.
 #### Impetus
 
-An suite of tools to build a-game-about-Project-Management.
+An suite of tools and prototypes to build a-game-about-Project-Management.
 
 ## Skills
 

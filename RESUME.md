@@ -18,7 +18,7 @@ Software Craftsman and Educator
 <!--- #ifndef redux -->
 *October 2018 to Present*
 <!--- #endif -->
-An ensemble machine-learning technique that uses ranked-choice voting for consensus.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is used to boost the ensemble. Written in C# and Python.<!--- #endif -->
+An experimental ensemble machine-learning technique that elects using ranked-choice voting.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is used to boost the ensemble. Written in C# and Python.<!--- #endif -->
 #### Ethos
 <!--- #ifndef redux -->
 *October 2016 to Present*
@@ -28,7 +28,7 @@ A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qua
 <!--- #ifndef redux -->
 *March 2006 to Present*
 <!--- #endif -->
-An suite of tools to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+An suite of tools and prototypes to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
 ## Skills
 
