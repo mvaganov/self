@@ -10,17 +10,28 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 * Code Samples: https://github.com/mvaganov/
 * LinkedIn: https://www.linkedin.com/in/mvaganov/ (recommendations and endorsements)
 
+### Notable Personal Software Projects
 
-### Software Development Skills
+#### Suffrag Ex Machina
+
+A network of neural-networks that use ranked-choice voting for consensus.
+#### Ethos
+
+A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.
+#### Impetus
+
+An suite of tools to build a-game-about-Project-Management.
+
+## Skills
+
+
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
-* Languages: C, C++, C#, Java, JavaScript, Python
-* Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web
-
-### Teaching
-* **15+ years Educating**: ages 7 to 40+. tutor, undergrad professor, high-school teacher
+* Programming Languages: C, C++, C#, Java, JavaScript, Python
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web
+* **15+ years Teaching Computer Science**: ages 7 to 40+. tutor, undergrad professor, high-school teacher
 
 
-### Employment Timeline
+## Employment
 ```
 _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
 Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````------
@@ -32,14 +43,12 @@ Other Teaching ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv`vvv----
 
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 
-### Employment Details
 
 #### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
 *August 2015 to June 2019*
 
 Faculty member at an exclusive private school
 * Taught computer science, with a curriculum designed to motivate (ask me about hacking)
-* Prepared young minds for the terrifying wonders that computers are bringing to mankind
 * Wrote software widely used by school to manage day-to-day schedule notification
 
 
@@ -93,12 +102,6 @@ Very productive first-6-months-of-professional-software-development.
 
 ## [Education](https://goo.gl/b27MsM#education)
 
-#### CIS Tutor at DeVry University (Fremont Campus)
-*March 2002 to October 2004*
-
-CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
-
-
 
 #### Keller Graduate School of Management
 *September 2006 to 2010*
@@ -119,9 +122,9 @@ BS of Computer Information Systems
 
 #### Volunteer Teaching
 
-* Unityversity: nearly weekly classes (Aug. 2016 to Present)
+* Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
-* Coder Dojo Silicon Valley: conference-style meetups (Sep. 2013 to 2017)
+* Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)
 * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012)
 
 

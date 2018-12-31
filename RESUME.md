@@ -12,14 +12,32 @@ Software Craftsman and Educator
 * Code Samples: https://github.com/mvaganov/
 * LinkedIn: https://www.linkedin.com/in/mvaganov/ (recommendations and endorsements)
 
+### Notable Personal Software Projects
+
+#### Suffrag Ex Machina
 <!--- #ifndef redux -->
+*October 2018 to Present*
+<!--- #endif -->
+A network of neural-networks that use ranked-choice voting for consensus.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. An exceptional student inspired the project. Written in C# and Python.<!--- #endif -->
+#### Ethos
+<!--- #ifndef redux -->
+*October 2016 to Present*
+<!--- #endif -->
+A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.<!--- #ifndef redux --> Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.<!--- #endif -->
+#### Impetus
+<!--- #ifndef redux -->
+*March 2006 to Present*
+<!--- #endif -->
+An suite of tools to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+
 ## Skills
 
-<!--- #endif -->
+<!--- #ifndef redux -->
 ### Software Development Skills
+<!--- #endif -->
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
-* Languages: C, C++, C#, Java, JavaScript, Python
-* Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web<!--- #ifndef redux -->
+* Programming Languages: C, C++, C#, Java, JavaScript, Python
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -28,10 +46,8 @@ Software Craftsman and Educator
 * Dev tools: Command-line (cmd, terminal, batch/bash), Git
 * Web: HTML5 + CSS + JavaScript, Angular
 
-<!--- #endif -->
-
-### Teaching
-* **15+ years Educating**: ages 7 to 40+. tutor, undergrad professor, high-school teacher<!--- #ifndef redux -->
+### Teaching<!--- #endif -->
+* **15+ years Teaching Computer Science**: ages 7 to 40+. tutor, undergrad professor, high-school teacher<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science at Sacred Heart Schools, Atherton
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 * 3+ years tutoring, at The Coder School, and while in college.
@@ -42,7 +58,7 @@ Software Craftsman and Educator
 
 <!--- #endif -->
 <!--- #ifdef redux -->
-<!--- ### Employment Timeline -->
+<!--- ## Employment -->
 <!--- ``` -->
 <!--- _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019 -->
 <!--- Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````------ -->
@@ -65,14 +81,14 @@ Other Teaching ------``````------``````------``````------``````------``````---vv
 ```
 <!--- #endif -->Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 
+<!--- #ifndef redux -->
 ### Employment Details
-
+<!--- #endif -->
 #### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
 *August 2015 to June 2019*
 
 Faculty member at an exclusive private school
 * Taught computer science, with a curriculum designed to motivate (ask me about hacking)
-* Prepared young minds for the terrifying wonders that computers are bringing to mankind
 * Wrote software widely used by school to manage day-to-day schedule notification
 
 <!--- #ifndef redux -->
@@ -271,13 +287,11 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- #endif -->
 
 ## [Education](https://goo.gl/b27MsM#education)
-
+<!--- #ifndef redux -->
 #### CIS Tutor at DeVry University (Fremont Campus)
 *March 2002 to October 2004*
 
 CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
-
-<!--- #ifndef redux -->
 * Tutored 100+ students, primarily in algebra, and computer science
 * Trained and mentored new tutors, wrote training documentation
 <!--- #endif -->
@@ -322,9 +336,9 @@ BS of Computer Information Systems
 #### Volunteer Teaching
 
 <!--- #ifdef redux -->
-<!--- * Unityversity: nearly weekly classes (Aug. 2016 to Present) -->
+<!--- * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
-<!--- * Coder Dojo Silicon Valley: conference-style meetups (Sep. 2013 to 2017) -->
+<!--- * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017) -->
 <!--- * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012) -->
 <!--- #endif -->
 
