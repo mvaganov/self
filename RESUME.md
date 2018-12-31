@@ -18,7 +18,7 @@ Software Craftsman and Educator
 <!--- #ifndef redux -->
 *October 2018 to Present*
 <!--- #endif -->
-A network of neural-networks that use ranked-choice voting for consensus.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. An exceptional student inspired the project. Written in C# and Python.<!--- #endif -->
+An ensemble machine-learning technique that uses ranked-choice voting for consensus.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is used to boost the ensemble. Written in C# and Python.<!--- #endif -->
 #### Ethos
 <!--- #ifndef redux -->
 *October 2016 to Present*
