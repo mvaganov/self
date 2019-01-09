@@ -99,6 +99,7 @@ Sacred Heart Courses Taught:
 * Programming - Python lab and algorihtms course
 * Building Virtual Worlds - Unity 3D and Oculus Rift, create & present Virtual Reality experiences
 * Creative Inquiry - student-directed extra-curricular study, supported and graded by faculty
+<!-- 150 Valparaiso Ave, Atherton, 94027, HR: Kathy Tuccio, (650)454-8489 -->
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
@@ -108,6 +109,7 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
+<!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
 *December 2012 to Present*
@@ -378,13 +380,13 @@ BS of Computer Information Systems
 #### Personal Programming Axioms
 * The price we must pay for being god-of-the-machine is Understanding.
 * The best programmer writes the most Readable code. Speed is for the compiler.
+* The first version is noisy, buggy, won't map-reduce, and later versions matter.
 * The best code will survive long after a programmer leaves it.
 * Single Point of Truth: One complexity, One bug, One change.
 * Code explicit functionality rather than side effects, and /** document it */
 * Comments are good, code that describes itself is better.
 * Think about optimization now, but do the actual optimization later.
 * Just Prototype. And don't expect another shot at it, so make it good!
-* Without clear goals you are wasting people's time, and we're made of time.
 * Refactor, Sooner rather than later; clean code grows into powerful code.
 * Disciplined, results oriented software development is always in style.
 * How most production code should be judged (in order):
@@ -396,10 +398,11 @@ BS of Computer Information Systems
 * The Unix way feels right (http://www.faqs.org/docs/artu/ch01s06.html)
 
 #### Other Credo
-* Persistence (iteration) is disproportionately important to success.
+* Persistence (iteration) is disproportionately important to success. (So, iterate. Faster.)
 * Rules are for people who don't know any better; Rules are important, but understanding sets you free.
 * Luck is where preparation meets random opportunity, which is happening constantly.
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
-* Do not fear complexity; simplify.
+* Without clear goals we are wasting people's time, and we are made of time.
+* Do not fear complexity, simplify it.
 * more at: http://codegiraffe.com/quotes.txt
