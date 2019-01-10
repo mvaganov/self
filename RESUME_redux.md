@@ -20,7 +20,7 @@ An experimental ensemble machine-learning technique that elects using ranked-cho
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.
 #### Impetus
 
-An suite of tools and prototypes to build a-game-about-Project-Management.
+An experimental suite of tools and prototypes to build a-game-about-Project-Management.
 
 ## Skills
 

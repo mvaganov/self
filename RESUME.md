@@ -28,7 +28,7 @@ A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qua
 <!--- #ifndef redux -->
 *March 2006 to Present*
 <!--- #endif -->
-An suite of tools and prototypes to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+An experimental suite of tools and prototypes to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
 ## Skills
 
