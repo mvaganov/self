@@ -52,7 +52,7 @@ Humans who know-how-to-use-computers-to-multiply-effort (what I call *wizards*) 
 
 **"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, to accomplish complex goals. Goal-objects are worked by an agent's skills. An agent working a skill improves the agent's skill, and allows greater goals to be completed. Some goals have a dependency-graph that forces sub-goals to be accomplished first, in sometimes complex sequences. Agents recruit partner-agents with complementary skills to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals as well. This game will be a clear set of intellectual models for Impetus Project.
 
-**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured 'concrete', without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product that to enhance training (and professionalism) of it's workers.
+**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured 'concrete', without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product like that, to enhance training (and professionalism) of it's workers.
 
 ***"My Dragon"*** - The name you'll hear me use to refer to this plan.
 
@@ -73,12 +73,10 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
     * Lines, Timer, ContingencyTrigger, CMDLine, CubeTools
     * ControlledRigidbody, GravityObject, AIController
     * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
-    * UI Generator (generates UI based on a JSON-like object)
-    * Collectable & CollectableInventory, Shoot (with collectable ammo)
-    * Data Script (serialize/deserialize arbitrary data in JSON form)
+    * Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
     * MemoryPool
-    * Dialog system
-    * reflective object UI
+    * "Story" Dialog system / scripted sequenced UI system
+    * reflective object UI generator
 
 ### My Dragon (Galactus Phase)
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
@@ -86,9 +84,9 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
 * spreadsheet UI
   * in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
 * Instant Runoff Voting tools (multiplayer decision making, AI)
-  * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app. It's too much of my own code to give to someone else.
+  * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app.
 * dynamic stat system
-  * using common scripting system also used by spreadsheet UI, may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
+  * using common scripting system also used by spreadsheet UI may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
 * General AI (state-machines, steering behaviors)
   * should find a good API someone else wrote and add 3D math code to it. would be nice to find someone who is a pro at this.
 * movement/control modes (space fly, FPS/3rd-Person, ground-fly)
