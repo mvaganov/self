@@ -61,23 +61,23 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 <!--- ## Employment -->
 <!--- ``` -->
 <!--- _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019 -->
-<!--- Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````------ -->
-<!--- Sacred Heart Prep----``````------``````------``````----FFFFFFFFFFFFFFFFFFFFFFF--- -->
-<!--- Other Teaching ------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv`vvv----- -->
-<!--- "my dragon"    -----v`````v-----v`````vvvvvFpppppppppp--vv`v``v-vv---`````v------ -->
+<!--- Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `      -->
+<!--- Sacred Heart Prep    `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF    -->
+<!--- Other Teaching `     `     `  vvv` vvpv   vvvvvvppppppp  `vvvvvvvvvvvvvv vvv      -->
+<!--- "my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`      -->
 <!--- ``` -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
 _______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
-Student        ---FFFFFFFFFFFFFFFFFF```------````ppp-----````ppppppppppp```------``````------``````------``````------``````------
-Teaching @DeVry------``ppppppppppppppp`------`pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp`ppp------``````------``````------
-Atlas/Infospace------``````------```FFFFFFFFFFFFFF`------``````------``````------``````------``````------``````------``````------
-LimeLife       ------``````------``````------`````FFFFFFFFF````------``````------``````------``````------``````------``````------
-Sacred Heart Prep----``````------``````------``````------``````------``````------``````------``````----FFFFFFFFFFFFFFFFFFFFFFF---
-Other Teaching ------``````------``````------``````------``````------``````---vvv``vvpv---vvvvvvppppppp--`vvvvvvvvvvvvvv`vvv-----
-(ask me about "my dragon")`------``````------```v``------`````v-----v`````v-----v`````vvvvvFpppppppppp--vv`v``v-vv---`````v------
+Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     
+Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     
+Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
+LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
+Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvv     
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`     
 ```
 <!--- #endif -->Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 
