@@ -63,9 +63,10 @@ My guess is that Impetus AR will be commercially infeasible untill around 2025, 
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
 
-### Teaching
+### Resources for Teaching
   * [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets) - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
-    * Lines, Timer, ContingencyTrigger, CmdLine, CubeTools (3D math library)
+    * Lines, Timer, ContingencyTrigger, CubeTools (3D math library)
+    * CmdLine - a true command-line terminal replacement within Unity, including TTY color and position adjustment (TODO)
     * ControlledRigidbody (ground, air, space, novel-gravity controls), GravityObject, AIController
     * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
     * OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
