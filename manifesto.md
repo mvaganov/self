@@ -69,6 +69,7 @@ Impetus AR will need cheap AR hardware, mature machine-vision, and significant a
   * in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
 * Instant Runoff Voting tools (multiplayer decision making, AI)
   * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app.
+  * need to implement the ensemble-ANN infrastructure (Sufrag Ex Machina)
 * dynamic stat system
   * using common scripting system also used by spreadsheet UI may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
 * General AI (state-machines, steering behaviors)
