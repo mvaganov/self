@@ -70,6 +70,7 @@ My guess is that Impetus AR will be commercially infeasible untill around 2025, 
     * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
     * OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
     * MemoryPool
+    * Noisy - re-doing PhysSound. Would be nice to get VoiceSynthesis in here too
     * "Story" Dialog system / scripted sequenced UI system
     * reflective object UI generator
 
