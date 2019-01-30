@@ -28,66 +28,77 @@ Humans who know-how-to-use-computers-to-multiply-effort (what I call *wizards*) 
 
 ### How could this tool be created?
 
-**"Impetus Jobs"** - Imagine a combination of LinkedIn and TaskRabbit, with a Strong-AI-prediction/analysis-tool balancing work-load for maximum probability of success. Impetus Jobs will have have information about a person as a worker, including their skills, preferred kinds of work, and life-goals. Workers will be matched with tasks nearby, with worker advancement in-mind. Tutorial tasks will be created by the system to improve skills, and work toward accomplishment of ideals and life-goals of the workers. Very large tasks, composed of many subtasks, will be populated by a project-management-software suite, "Impetus Project".
+**"Impetus Jobs"** - Imagine a combination of LinkedIn and TaskRabbit, with a Strong-AI-prediction/analysis-tool balancing work-load for maximum probability of success. Impetus Jobs will have have information about a person as a worker, including their skills, preferred kinds of work, simplified moral/ethical perspectives, and life-goals. Workers will be matched with tasks nearby, with worker advancement and "fit" in-mind. Tutorial tasks will be created by the system to improve skills, and work toward accomplishment of ideals and life-goals of the workers. Very large tasks, composed of many subtasks, will be populated by a project-management-software suite, "Impetus Project".
 
 ## The software I'm currently developing in this direction as side projects
 
 **"Impetus Project"** - Project-management software that handles arbitrary tasks of arbitrary complexity, resource usage, and personnel. It's a database of work to do, and how to do it. It works with tasks in many different dimensions, including step-by-step instructions as work-breakdown-structures, GANTT charts, burndown charts (for tracking), and resource & personnel spread-sheets. Impetus Project also does predictive-analysis of projects using algorithms that improve estimation with data from past performance (no "strong-AI", that is what Impetus Jobs is for). The data model and user interface for Impetus Project is based on the game "Galactus".
 
-**"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, to accomplish complex goals. Goal-objects are worked by an agent's skills. An agent working a skill improves the agent's skill, and allows greater goals to be completed. Some goals have a dependency-graph that forces sub-goals to be accomplished first, in sometimes complex sequences. Agents recruit partner-agents with complementary skills to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals as well. This game will be a clear set of intellectual models for Impetus Project.
+**"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, personalities including simplified ethics, to accomplish complex goals. The game mechanics will be implemented in an agent-based simulation, with much of the AI based on expert systems emulating cognitive biases, and the simplified ethics based on a computerized ethics-evaluation system I'm developing called "Ethos". 
 
-**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids, building around simulated geography, using simulated construction materials like planks and poured 'concrete', without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product like that, to enhance training (and professionalism) of it's workers.
+In the agent-based simulation, goal-objects objects are worked by an agent's skills. An agent working a skill improves the agent's skill score, which allows more complex goals to be completed later. Some goals have a dependency-graph that forces sub-goals to be accomplished first, sometimes in complex sequences. Agents recruit partner-agents with complementary skills and personalities to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals (sometimes conflicting or complementary) as well. This game will be a clear set of intellectual models for Impetus Project.
+
+[**"Ethos"**](http://codegiraffe.com/qeval/qual.html) - A system that users can use to recognize areas of personal ethical growth. The system was originally after I was asked to brainstorm an evaluation system for students.
+
+**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids/gas-lines, building around simulated geography, using simulated construction materials like planks and poured 'concrete', with context-relevant building-code requirement overlays, letting people practice building realistic modern buildings without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product like that, to enhance training (and professionalism) of it's workers, and the success of Minecraft indicates that there is a shared mental-itch for this idea in the population.
 
 ***"My Dragon"*** - The name you'll hear me use to refer to this plan.
 
-Developing Galactus or Builder VR as a game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves. The game aspect could engage them long enough to teach some good mental models. Sadly, *game development* is not a lucrative industry. But...
+*Ethos* is a moraly lofty goal, but seems like a good framework for implementing socially-constructive gameplay features in Galactus or BuilderVR.
 
-Once there is a game that is usable as commercial training or enterprise software, selling a higher-profit-price-point version of that game to more lucrative businesses/governments should be possible. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it!" Learning-curve, user-interface, and lack-of-fun tend to be problems with *enterprise software* and *training software*, which are commercially viable industries to develop for.
+Developing *Galactus* or *Builder VR* as a game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves. The game aspect could engage them long enough to teach some good mental models for engagement In Real Life (IRL). Sadly, game development is not a lucrative industry. However, enterprise software is.
+
+Once there is a game that is usable as commercial-training/enterprise software, selling a higher-profit-price-point version of that game to more lucrative businesses/governments should be possible. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it. Many more prospective employees are already trained." Learning-curve, user-interface, and lack-of-fun tend to be problems with enterprise-software and training-software, which again, are very commercially viable industries to develop for.
 
 Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
 
 Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which Builder VR can act as a set of examples for).
 
+I think *Galactus*, *BuilderVR*, and *Impetus* are all easily doable with today's technology.
+
+I think *Impetus Project* needs some better machine-learning and creatively-constrained-decision-making techniques than are publicly available (I have an idea about an ensemble technique I'm calling Suffrag Ex Machina that I'm toying with). But I'd imagine those will show up around 2022.
+
+My guess is that Impetus AR will be commercially infeasible untill around 2025, because cheap projector glasses need to be available en-masse. AI that generates dynamic tutorial content seems like a tricky problem too, but I think it will become tractable with better generative-machine-learning algorithms.
+
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
 
 ### Teaching
-  * Unity tutorials
-  * Nonstandard Assets - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
-    * Lines, Timer, ContingencyTrigger, CMDLine, CubeTools
-    * ControlledRigidbody, GravityObject, AIController
+  * [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets) - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
+    * Lines, Timer, ContingencyTrigger, CmdLine, CubeTools (3D math library)
+    * ControlledRigidbody (ground, air, space, novel-gravity controls), GravityObject, AIController
     * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
-    * Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
+    * OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
     * MemoryPool
     * "Story" Dialog system / scripted sequenced UI system
     * reflective object UI generator
 
 ### My Dragon (Galactus Phase)
+* Nonstandard Assets
 * 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
   * in development in Unity3D. finding a good 3D-voronoi library would help a lot.
 * spreadsheet UI
   * in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
 * Instant Runoff Voting tools (multiplayer decision making, AI)
   * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app.
-  * need to implement the ensemble-ANN infrastructure (Sufrag Ex Machina)
+  * wrap around multiple ANN to create a recursive-ensemble technique (Sufrag Ex Machina)
 * dynamic stat system
   * using common scripting system also used by spreadsheet UI may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
 * General AI (state-machines, steering behaviors)
   * should find a good API someone else wrote and add 3D math code to it. would be nice to find someone who is a pro at this.
-* movement/control modes (space fly, FPS/3rd-Person, ground-fly)
-  * need to stabalize code, add support for animations for fully-customizable models. would be nice to find a pro at this too.
 * artifact building
   * agent can build roads, barriers, caches, monuments. need to fully spec this out in a design doc.
 * VR controls
-  * more experimentation required, need to integrate into movement/control UI. need to bone-up on VR UI standards, or find an expert.
+  * more experimentation required, need to integrate into movement/control UI. need to bone-up on VR UI standards, or find an expert. Maybe VRTK 4.0 will solve this?
 * scripting system
-  * need to make imperative code more java-script like.
+  * need to make imperative code in OMU more java-script like.
 * Project & Task system
-  * use the scripted JSON-like datastructures as the base. Already have examples of this working.
+  * use the scripted JSON-like datastructures (OMU) as the base. Already have examples of this working.
 * Personnel & Resource system
-  * requires spreadsheet UI, scripts, and stat/trait system for personnel to inform AI simulation. The RankedVote visual will help show resource/personnel usage.
+  * requires spreadsheet UI, scripts, and stat/trait system for personnel to inform AI simulation. The RankedVote visual will help show and make-decisions-about resource/personnel usage.
 * Project Management Visualizations (WBS, GANTT, burndown)
   * refresh and import old code.
 * Customization UI
   * need to find and implement color picker, sprite loader/picker, simple model generator and basic texture mapper.
 * Builder VR demo
+  * this needs many more sub-bullet points
