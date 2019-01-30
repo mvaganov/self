@@ -48,22 +48,22 @@ In the agent-based simulation, goal-objects objects are worked by an agent's ski
 
 Developing *Galactus* or *Builder VR* as a game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves. The game aspect could engage them long enough to teach some good mental models for engagement In Real Life (IRL). Sadly, game development is not a lucrative industry. However, enterprise software is.
 
-*Impetus Project* is the commercial-training/enterprise software version of *Galactus*, selling a higher-profit-price-point version of that game to businesses/governments. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it. Many more prospective employees are already trained." Learning-curve, user-interface, and lack-of-fun tend to be problems with enterprise-software and training-software, which the Impetus's roots as a game should address very nicely.
+*Impetus Project* is the commercial-training/enterprise software version of *Galactus*, selling a higher-profit-price-point version of that game to businesses/governments. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it. Many more prospective employees are already trained." Learning-curve, user-interface, and lack-of-fun tend to be problems with enterprise-software and training-software, which *Impetus*'s roots as a game should address very nicely.
 
-Impetus Jobs is a natural evolution of Impetus Project: integrate social-media and job-boards, apply machine learning.
+*Impetus Jobs* is a natural evolution of *Impetus Project*: integrate social-media and job-boards, apply machine learning.
 
-Impetus AR will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which Builder VR can act as a set of examples for).
+*Impetus AR* will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which *Builder VR* can act as a set of examples for).
 
-I think *Galactus*, *Builder VR*, and *Impetus* are all easily doable with today's technology.
+I think *Galactus*, *Builder VR*, and *Impetus Project* are all easily doable with today's technology.
 
-I think *Impetus Project* needs some better machine-learning and machine-based creatively-constrained-decision-making techniques. I've got an idea about an ensemble technique I'm toying with (Suffrag Ex Machina). I imagine those machine-decision-making-techniques will show up around 2022.
+I think *Impetus Jobs* needs some better machine-learning and machine-based creatively-constrained-decision-making techniques. I've got an idea about an ensemble technique I'm toying with (Suffrag Ex Machina). I imagine those machine-decision-making-techniques will show up around 2022.
 
-My guess is that Impetus AR will be commercially infeasible untill around 2025, because cheap projector glasses need to be available en-masse. AI that generates dynamic tutorial content seems like a tricky problem too, but I think it will become tractable with better generative-machine-learning algorithms.
+My guess is that *Impetus AR* will be commercially infeasible untill around 2025, because cheap projector glasses need to be available en-masse. AI that generates dynamic tutorial content seems like a tricky problem too, but I think it will become tractable with better generative-machine-learning algorithms.
 
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
 
-### Resources for Teaching
+### Code Resources for Teaching & My Dragon
   * [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets) - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
     * Lines, Timer, ContingencyTrigger, CubeTools (3D math library)
     * CmdLine - a true command-line terminal replacement within Unity, including TTY color and position adjustment (TODO)
