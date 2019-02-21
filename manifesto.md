@@ -36,7 +36,7 @@ Step-by-step-instructions, will be given to anyone who doesn't know what to do n
 
 Impetus Jobs will have have information about citizens as a workers, including their skills, preferred kinds of work, possible moral/ethical perspectives, and life-goals. Workers will be matched with tasks, with worker advancement and "fit" in-mind. Tutorial tasks will be identified to improve skills if needed.
 
-### Where will the modeling tools for planning the projects come from?
+### Where will the project planning tools come from?
 
 **"Impetus Project"** - Think of Trello combined with Microsoft Project and visualizations from a game like StarCraft. It's a dynamic database of work to do, created with game-like user-interface and game-development content-generation techniques. Tasks can be broken up explaining how to do them, and show compelling game-like visualizations to encourage and track progress.
 
@@ -44,7 +44,7 @@ Currently, the project model works with tasks in multiple dimensions, including 
 
 Impetus Project also does predictive-analysis of projects using algorithms that improve estimation with data from performance. It won't have the impressive machine-learning "strong-AI", or deep communication-tool/social-media integration, that is what Impetus Jobs is for. The data models and project-specific user interfaces for Impetus Project will sit in a real-time strategy game.
 
-### What kind of game could be used as a basis for project management software?
+### What game could be a basis for project management software?
 
 **"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets and personalities (including simplified ethics), to accomplish complex goals. Think SimAnt combined with Dungeons&Dragons and Crusader Kings 2. The game mechanics will be implemented in an agent-based simulation. An AI system based on expert systems and behavior-trees emulating cognitive biases, and simplified ethics based on a computerized ethics-evaluation system I'm developing called ["Ethos"](http://codegiraffe.com/qeval/qual.html).
 
