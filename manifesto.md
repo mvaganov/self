@@ -30,41 +30,55 @@ The system identifies tasks, directs users to tools and resources with visual/au
 
 Step-by-step-instructions, will be given to anyone who doesn't know what to do next. Impetus AR will be like some the tools used by wizards, but more consumable by people without strong computer skills or disciplined personal drive. Organization of who does what task with what resources will be organized by another system. 
 
-### What will do the organizing?
+### Who or what will do the organizing?
 
-**"Impetus Jobs"** - Imagine a combination of LinkedIn, TaskRabbit, SimAnt, Civilization, Slack, and AlphaGo. It will gather and communicate with people, provide tools for communal decision making, use Strong-AI-prediction/analysis to develop plans for big groups to accomplish their collective goals, and balance work-load for maximum probability of success.
+**"Impetus Jobs"** - Imagine a combination of LinkedIn, TaskRabbit, SimAnt, Civilization, Slack, Reddit, and AlphaGo. It will gather and communicate with people, provide tools for communal decision making, use Strong-AI-prediction/analysis to develop plans for big groups to accomplish their collective goals, and balance work-load for maximum probability of success.
 
-Impetus Jobs will have have information about citizens as a workers, including their skills, preferred kinds of work, possible moral/ethical perspectives, and life-goals. Workers will be matched with tasks, with worker advancement and "fit" in-mind. Tutorial tasks will be identified to improve skills if needed. Very large tasks, composed of many subtasks, will be populated by a project-management-software suite, "Impetus Project".
+Impetus Jobs will have have information about citizens as a workers, including their skills, preferred kinds of work, possible moral/ethical perspectives, and life-goals. Workers will be matched with tasks, with worker advancement and "fit" in-mind. Tutorial tasks will be identified to improve skills if needed.
 
-## The software I'm currently developing in this direction as side projects
+### Where will the modeling tools for planning the projects come from?
 
-**"Impetus Project"** - Project-management software that handles arbitrary tasks of arbitrary complexity, resource usage, and personnel. Think Trello combined with Microsoft Project and visualizations from a game like StarCraft. It's a database of work to do, how to do it, and compelling game-like visualizations for tracking. It works with tasks in many different dimensions, including TODO lists, step-by-step instructions as work-breakdown-structures, GANTT charts, burndown charts, and resource & personnel spread-sheets. Impetus Project also does predictive-analysis of projects using algorithms that improve estimation with data from past performance. It won't have impressive machine-learning "strong-AI", or deep communication-tool/social-media integration, that is what Impetus Jobs is for. The data model and user interface for Impetus Project is based on the game "Galactus".
+**"Impetus Project"** - Think of Trello combined with Microsoft Project and visualizations from a game like StarCraft. It's a dynamic database of work to do, created with game-like user-interface and game-development content-generation techniques. Tasks can be broken up explaining how to do them, and show compelling game-like visualizations to encourage and track progress.
 
-**"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets, personalities including simplified ethics, to accomplish complex goals. Think SimAnt combined with Dungeons&Dragons and Crusader Kings 2. The game mechanics will be implemented in an agent-based simulation, with much of the AI based on expert systems emulating cognitive biases, and simplified ethics based on a computerized ethics-evaluation system I'm developing called "Ethos". 
+Currently, the project model works with tasks in multiple dimensions, including TODO lists (which can be broken down into sub-lists of step-by-step instructions as work-breakdown-structures), GANTT charts (which allow tasks to be tracked by completion and resource usage), burndown charts (which visualize project completion rates), and resource & personnel spread-sheets. Each of these dimensions of tasks relate to the same project, with highly visible connections and trackable achievement.
 
-In the agent-based simulation, goal-objects objects are worked by an agent's skills. An agent working a skill improves the agent's skill score, which allows more complex goals to be completed later. Some goals have a dependency-graph that forces sub-goals to be accomplished first, sometimes in complex sequences. Agents recruit partner-agents with complementary skills and personalities to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish goals (sometimes conflicting or complementary) as well. This game will be a clear set of intellectual models for Impetus Project.
+Impetus Project also does predictive-analysis of projects using algorithms that improve estimation with data from performance. It won't have the impressive machine-learning "strong-AI", or deep communication-tool/social-media integration, that is what Impetus Jobs is for. The data models and project-specific user interfaces for Impetus Project will sit in a real-time strategy game.
 
-[**"Ethos"**](http://codegiraffe.com/qeval/qual.html) - A system that users can use to recognize areas of personal ethical growth. Originally developed as an evaluation system for students, it has some obvious application beyond replacing the A-through-F grade system.
+### What kind of game could be used as a basis for project management software?
 
-**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids/gas-lines, building around simulated geography, using simulated construction materials like planks, and rebar, and poured concrete, with context-sensitive building-code overlays, letting people practice building realistic modern buildings without physical costs. Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product like that, to enhance training (and professionalism) of it's workers. The success of Minecraft indicates that there is a shared mental-itch for this idea in the population.
+**"Galactus"** - A real-time strategy game about seeking out partner-agents, with diverse skill sets and personalities (including simplified ethics), to accomplish complex goals. Think SimAnt combined with Dungeons&Dragons and Crusader Kings 2. The game mechanics will be implemented in an agent-based simulation. An AI system based on expert systems and behavior-trees emulating cognitive biases, and simplified ethics based on a computerized ethics-evaluation system I'm developing called ["Ethos"](http://codegiraffe.com/qeval/qual.html).
+
+In the game, the player will influence the behavior of agents, like the god-games from bullfrog in days of old (Dungeon Keeper, Black and White). Goal-objects will be discovered and worked by an agent's skills. An agent working a skill improves the agent's skill score, which allows more complex goals to be completed later. Some goals have a dependency-graph that forces sub-goals to be accomplished first, sometimes in complex sequences. Agents recruit partner-agents with complementary skills and personalities to accomplish complex goals. This is done in an eco-system of other agent groups, who are all seeking to accomplish their own goals (sometimes conflicting or complementary) as well. This game will be a clear set of intellectual models for Impetus Project.
+
+### How will human ethics be modeled in a game?
+
+[**"Ethos"**](http://codegiraffe.com/qeval/qual.html) - A system that users can use to recognize areas of personal ethical growth. It's designed with input from a variety of texts that have idealistic and practical views on the human condition. It was originally developed as an evaluation system for students, to replace the A-through-F grade system.
+
+There is more work to do here as well, but doing this work could have important implications on the future of strong AI. Imagine what a relief it would be to the tech world if a computer could systemize what it means to be a good person? Developing a deep framework to help a machine identify what is right and wrong behavior is an important next-step in humanity's advancement on the tech tree.
+
+### Wait, what about the Augmented Reality piece, what will mature AR tools enough to build AR tutorials?
+
+**"Builder VR"** - Think of this as *Minecraft-For-Real-Life*, teaching players to build houses with simulated foundations and connections to plumbing/sewage/electrical-grids/gas-lines, building around simulated geography, using simulated construction materials like planks, and rebar, and poured concrete, with context-sensitive building-code overlays, letting people practice building realistic modern buildings without physical costs.
+
+Before creating Impetus AR, useful tutorials using VR must be developed and tested. An excellent domain for these tutorials would be Residential-Construction/Contracting. This industry has demand for a product like that, to enhance training and professionalism of it's workers. The success of Minecraft indicates that there is a shared mental-itch for this idea in the population.
+
+### That's a lot to think about...
 
 ***"My Dragon"*** - The name you'll hear me use to refer to this plan.
 
-*Ethos* is a moraly lofty goal, but seems like a good framework for implementing socially-constructive gameplay features in *Galactus* or *Builder VR*.
+*Ethos* is a moraly lofty goal, but seems like a good framework for implementing socially-constructive gameplay features in *Galactus* or *Builder VR*, and a necessary framework for the strong-AI in *Impetus Jobs*.
 
-Developing *Galactus* or *Builder VR* as a game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves. The game aspect could engage them long enough to teach some good mental models for engagement In Real Life (IRL). Sadly, game development is not a lucrative industry. However, enterprise software is.
+Developing *Galactus* or *Builder VR* as a game first could be sociologically valuable for young people, who are a risk to society when they don't integrate into works larger than themselves, which seems to be a sociolgical problem today. The game aspect could engage them long enough to teach some good mental models for engagement In Real Life (IRL). Sadly, game development is not a lucrative industry. However, enterprise software is.
 
-*Impetus Project* is the commercial-training/enterprise software version of *Galactus*, selling a higher-profit-price-point version of that game to businesses/governments. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it. Many more prospective employees are already trained." Learning-curve, user-interface, and lack-of-fun tend to be problems with enterprise-software and training-software, which *Impetus*'s roots as a game should address very nicely.
+*Impetus Project* is the commercial-training/enterprise software version of *Galactus*, selling a higher-profit-price-point version of that game to businesses/governments. The sales pitch could be "Many of your young employees *already know* this user interface, and they enjoy it. Many prospective employees are already trained." Learning-curve, user-interface, and lack-of-fun tend to be problems with enterprise-software and training-software, which *Impetus*'s roots as a game should address very nicely.
 
-*Impetus Jobs* is a natural evolution of *Impetus Project*: integrate social-media and job-boards, apply machine learning.
+I think *Galactus*, *Builder VR*, and *Impetus Project* are all doable with today's technology.
 
-*Impetus AR* will need cheap AR hardware, mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which *Builder VR* can act as a set of examples for).
+*Impetus Jobs* is a natural evolution of *Impetus Project*: integrate social-media and job-boards, apply machine learning. I think *Impetus Jobs* needs some better machine-learning and machine-based creatively-constrained-decision-making techniques. I've got an idea for an ensemble machine-learning technique I'm toying with (Suffrag Ex Machina). I imagine those machine-decision-making-techniques will be developed by more people around 2022.
 
-I think *Galactus*, *Builder VR*, and *Impetus Project* are all easily doable with today's technology.
+*Impetus AR* will need cheap AR hardware, very mature machine-vision, and significant amounts of AR-enhanced dynamic tutorial content (which *Builder VR* can act as a set of examples for). My guess is that *Impetus AR* will be commercially infeasible untill around 2025, because cheap projector glasses need to be available en-masse. AI that generates dynamic tutorial content seems like a tricky problem too, but I think it will become tractable with better generative-machine-learning algorithms.
 
-I think *Impetus Jobs* needs some better machine-learning and machine-based creatively-constrained-decision-making techniques. I've got an idea about an ensemble technique I'm toying with (Suffrag Ex Machina). I imagine those machine-decision-making-techniques will show up around 2022.
-
-My guess is that *Impetus AR* will be commercially infeasible untill around 2025, because cheap projector glasses need to be available en-masse. AI that generates dynamic tutorial content seems like a tricky problem too, but I think it will become tractable with better generative-machine-learning algorithms.
+I want to see these tools happen. Not having these tools in the near future seems like a really bad idea for humanity.
 
 ## Specific Short-term Goals
 (This is essentially a public TODO list, most people reading the manifesto can stop here)
