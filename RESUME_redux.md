@@ -36,7 +36,7 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
 Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `
 Sacred Heart Prep    `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF
-Other Teaching `     `     `  vvv` vvpv   vvvvvvppppppp  `vvvvvvvvvvvvvv vvv
+Other Teaching `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvv
 "my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`
 ```
 
