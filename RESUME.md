@@ -32,6 +32,10 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 
 ## Skills
 
+* Computer Wizard - using technology to make things most people don't understand
+* Growth mindset - a variety of skills unbound by predefined label for myself
+* Magical CS teacher aura - many broken things suddenly work when I show up to look at it
+
 <!--- #ifndef redux -->
 ### Software Development Skills
 <!--- #endif -->
