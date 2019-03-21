@@ -32,16 +32,16 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 
 ## Skills
 
-* Computer Wizard - using technology to make things most people don't understand
-* Growth mindset - a variety of skills unbound by predefined label for myself
-* Magical CS teacher aura - many broken things suddenly work when I show up to look at it
+* Computer Wizard - using technology to do things most people don't understand
+* Growth Mindset - a variety of skills unbound by predefined label for myself
+* Magical-CS-Teacher-Aura - broken things suddenly work when I show up to look at it
 
 <!--- #ifndef redux -->
 ### Software Development Skills
 <!--- #endif -->
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: C, C++, C#, Java, JavaScript, Python
-* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web<!--- #ifndef redux -->
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
