@@ -14,7 +14,7 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 #### Suffrag Ex Machina
 
-An experimental ensemble machine-learning technique that elects using ranked-choice voting.
+A machine-learning engine built to test an ensemble decision-making technique (elects using ranked-choice voting).
 #### Ethos
 
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.
@@ -23,11 +23,12 @@ A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qua
 An experimental suite of tools and prototypes to build a-game-about-Project-Management.
 
 ## Skills
-
-
+* Computer Wizard: using technology to do things most people don't understand
+* Growth Mindset: a variety of skills unbound by any predefined labels
+* Magical-CS-Teacher-Aura: broken assignments suddenly work when I show up to look at them
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: C, C++, C#, Java, JavaScript, Python
-* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN
 * **15+ years Teaching Computer Science**: ages 7 to 40+. tutor, undergrad professor, high-school teacher
 
 
@@ -36,8 +37,8 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
 Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `
 Sacred Heart Prep    `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF
-Other Teaching `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvv
-"my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`
+Other Teaching `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv
+"my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v
 ```
 
 
@@ -121,8 +122,9 @@ BS of Computer Information Systems
 ## Other
 
 
-#### Volunteer Teaching
+#### Volunteering
 
+* Computer Science Teachers Association: President of Silicon Valley CSTA chapter (Jan. 2018 to Present)
 * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
 * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)
@@ -134,7 +136,6 @@ BS of Computer Information Systems
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Volunteer Teaching
 * Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
 
 #### Personal Programming Axioms

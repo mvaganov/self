@@ -18,7 +18,7 @@ Software Craftsman and Educator
 <!--- #ifndef redux -->
 *October 2018 to Present*
 <!--- #endif -->
-An experimental ensemble machine-learning technique that elects using ranked-choice voting.<!--- #ifndef redux --> A collection of independent ANNs evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is used to boost the ensemble. Written in C# and Python.<!--- #endif -->
+A machine-learning engine built to test an ensemble decision-making technique (elects using ranked-choice voting).<!--- #ifndef redux --> A collection of independent ANNs are trained, and evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is gathered with votes, and used to boost the ensemble. Written in C#.<!--- #endif -->
 #### Ethos
 <!--- #ifndef redux -->
 *October 2016 to Present*
@@ -31,14 +31,10 @@ A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qua
 An experimental suite of tools and prototypes to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
 ## Skills
-
-* Computer Wizard - using technology to do things most people don't understand
-* Growth Mindset - a variety of skills unbound by predefined label for myself
-* Magical-CS-Teacher-Aura - broken things suddenly work when I show up to look at it
-
-<!--- #ifndef redux -->
-### Software Development Skills
-<!--- #endif -->
+* Computer Wizard: using technology to do things most people don't understand
+* Growth Mindset: a variety of skills unbound by any predefined labels
+* Magical-CS-Teacher-Aura: broken assignments suddenly work when I show up to look at them<!--- #ifndef redux -->
+### Software Development Skills<!--- #endif -->
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: C, C++, C#, Java, JavaScript, Python
 * Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
@@ -67,8 +63,8 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 <!--- _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019 -->
 <!--- Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `      -->
 <!--- Sacred Heart Prep    `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF    -->
-<!--- Other Teaching `     `     `  vvv` vvpv   vvvvvvppppppp  `vvvvvvvvvvvvvv vvv      -->
-<!--- "my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`      -->
+<!--- Other Teaching `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv    -->
+<!--- "my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v     -->
 <!--- ``` -->
 <!--- #endif -->
 <!--- #ifndef redux -->
@@ -80,8 +76,8 @@ Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFF
 Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
 LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvv     
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`     
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv   
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v    
 ```
 <!--- #endif -->Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 
@@ -339,8 +335,9 @@ BS of Computer Information Systems
 ## Other
 <!--- * more details at https://goo.gl/b27MsM#other -->
 
-#### Volunteer Teaching
+#### Volunteering
 
+* Computer Science Teachers Association: President of Silicon Valley CSTA chapter (Jan. 2018 to Present)
 <!--- #ifdef redux -->
 <!--- * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
@@ -378,7 +375,6 @@ BS of Computer Information Systems
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Volunteer Teaching
 * Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
 
 #### Personal Programming Axioms
