@@ -8,31 +8,31 @@ Software Craftsman and Educator
 <!--- #endif -->
 
 ## Portfolio
-* Projects: http://www.codegiraffe.com/portfolio
+* Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
-* LinkedIn: https://www.linkedin.com/in/mvaganov/ (recommendations and endorsements)
+* LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
 
 ### Notable Personal Software Projects
 
 #### Suffrag Ex Machina
 <!--- #ifndef redux -->
-*October 2018 to Present*
+(*October 2018 to Present*)
 <!--- #endif -->
-A machine-learning engine built to test an ensemble decision-making technique (elects using ranked-choice voting).<!--- #ifndef redux --> A collection of independent ANNs are trained, and evaluate hand-written digits and vote in a ranked-choice election for final decision-making. Result meta-data is gathered with votes, and used to boost the ensemble. Written in C#.<!--- #endif -->
+A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations (~10x faster at improvement than optimal-learning-rate alone).<!--- #ifndef redux --> Trains a collection of independent ANNs that classify images, and vote in a ranked-choice election for final decision-making. Result meta-data is gathered alongside votes, and used to boost the ensemble.<!--- #endif -->
 #### Ethos
 <!--- #ifndef redux -->
-*October 2016 to Present*
+(*October 2016 to Present*)
 <!--- #endif -->
-A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development.<!--- #ifndef redux --> Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.<!--- #endif -->
+A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership.<!--- #ifndef redux --> Intended for use with students. Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.<!--- #endif -->
 #### Impetus
 <!--- #ifndef redux -->
-*March 2006 to Present*
+(*March 2006 to Present*)
 <!--- #endif -->
-An experimental suite of tools and prototypes to build a-game-about-Project-Management.<!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon". <!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
 ## Skills
 * Computer Wizard: using technology to do things most people don't understand
-* Growth Mindset: a variety of skills unbound by any predefined labels
+* Growth Mindset: positive about difficulty, unafraid of measured risk, unbound by labels
 * Magical-CS-Teacher-Aura: broken assignments suddenly work when I show up to look at them<!--- #ifndef redux -->
 ### Software Development Skills<!--- #endif -->
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
@@ -47,7 +47,7 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 * Web: HTML5 + CSS + JavaScript, Angular
 
 ### Teaching<!--- #endif -->
-* **15+ years Teaching Computer Science**: ages 7 to 40+. tutor, undergrad professor, high-school teacher<!--- #ifndef redux -->
+* **15+ years Teaching Computer Science**: ages 7 to 40+, as a tutor, undergrad professor, and high-school teacher<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science at Sacred Heart Schools, Atherton
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 * 3+ years tutoring, at The Coder School, and while in college.
@@ -85,9 +85,7 @@ Other Teaching `     `     `     `     `     `     `     `     `     `     `  vv
 ### Employment Details
 <!--- #endif -->
 #### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
-*August 2015 to June 2019*
-
-Faculty member at an exclusive private school
+(*August 2015 to June 2019*) Faculty member at an exclusive private school
 * Taught computer science, with a curriculum designed to motivate (ask me about hacking)
 * Wrote software widely used by school to manage day-to-day schedule notification
 
@@ -96,23 +94,21 @@ Sacred Heart Courses Taught:
 * Exploring Computer Science - introductory computers course
   - Series of practical exercises and presentations to learn about modern computer technology
   - Graphics, Web Development, Cyber Security, Programming (Scratch, Python), technology trends
-* Programming - Python lab and algorihtms course
+* Programming - Python lab and algorithms course
 * Building Virtual Worlds - Unity 3D and Oculus Rift, create & present Virtual Reality experiences
 * Creative Inquiry - student-directed extra-curricular study, supported and graded by faculty
 <!-- 150 Valparaiso Ave, Atherton, 94027, HR: Kathy Tuccio, (650)454-8489 -->
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
-*September 2014 to August 2015*
-
-Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
+(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-*December 2012 to Present*
+(*December 2012 to Present*) Personal startup project, and consulting services (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details).
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
@@ -124,16 +120,9 @@ Elite Computer Science education for youth (between age 7 and 17) in the Silicon
   - Developed OOP courses for DeVry's national GSP program
   - Developed high-level curriculum strategy for DeVry's national GSP program
 <!--- #endif -->
-<!--- #ifdef redux -->
-<!--- * Stealth startup project: Game & Project Management Software (unfinished) -->
-<!--- * Contracted consulting work -->
-<!--- #endif -->
-
 
 #### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
-*March 2006 to December 2014*
-
-Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
+(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4)
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team)
 <!--- #ifndef redux -->
@@ -219,15 +208,13 @@ DeVry Courses Taught:
 <!--- #endif -->
 
 #### [Software Engineer at LimeLife](https://goo.gl/b27MsM#software-engineer-at-limelife)
-*November 2006 to April 2008*
-
-Developer responsible for end-to-end network-aware mobile application development
+(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development
 
 * Senior-level engineer: product development, build-systems and automation, client/server<!--- #ifndef redux -->
 * Simplified manual 4-step build process for each device to a fully automated build process for an arbitrary list of devices, using Apache Ant scripts and simple batch files to start processes
 * Created automated OTA (Over The Air) deck generation scripts as part of J2ME build process, using PHP
 * Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, as well as client-side code for a custom, encrypted, carrier non-specific, DRM layer for LimeLife
-* Acted as emergency porting engineer for "InStyle" and "Rachel Ray: Recipes on the Run" mobile apps
+* Acted as emergency porting engineer for "InStyle" and "Rachael Ray: Recipes on the Run" mobile apps
 * Created a highly efficient 2D composite sprite format and renderer for mobile devices (both J2ME and BREW)
 * Created Java-based GUI tool for creating and editing composite sprites 
 * Acted as technical artist for "Top Chef: the Mobile Game", building composite sprites and animations
@@ -240,14 +227,12 @@ LimeLife Mobile Titles List:
 * Hallmark Smiles + Styles - J2ME/BREW - Lead Developer - Web-aware browser that used scripting engine to display network distributed UI. Built and designed from the ground up in both J2ME and BREW, including multi-platform HTML-like scripting language and compiler, container-based UI system, and platform abstraction code (including multi-lingual network protocol abstraction), which was integrated into main LimeLife porting framework (ALE).
 * Urban Chica - J2ME/BREW - Lead Developer - A re-skinned application built in parallel and accomplished within *hours* of final builds of Hallmark Smiles + Styles. No source code alterations needed, only script modifications.
 * Top Chef, the Mobile Game - J2ME/BREW - Framework Engineer - Designed and built composite Sprite engine. Also acted as Animator and technical artist.
-* Rachel Ray: Recipes on the Run - J2ME/BREW - Porting Engineer - Network aware application used to find and share licensed Rachel Ray recipes. Utilized FLIRT, a LimeLife proprietary scripting and UI layout technology
-* InStyle - BREW/J2ME - Porting Engineer - Network aware application used to distribute InStyle magazine content, based on FLIRT, the same technology used to build Rachel Ray.
+* Rachael Ray: Recipes on the Run - J2ME/BREW - Porting Engineer - Network aware application used to find and share licensed Rachael Ray recipes. Utilized FLIRT, a LimeLife proprietary scripting and UI layout technology
+* InStyle - BREW/J2ME - Porting Engineer - Network aware application used to distribute InStyle magazine content, based on FLIRT, the same technology used to build Rachael Ray.
 <!--- #endif -->
 
 #### [Software Engineer at Infospace Mobile Games](https://goo.gl/b27MsM#software-engineer-at-infospace-mobile-games)
-*December 2004 to November 2006*
-
-Developer of mobile applications with emphasis on client/server interaction.
+(*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server<!--- #ifndef redux -->
 * Implemented and debugged multiple proprietary asynchronous Client/Server technologies.
@@ -260,11 +245,9 @@ Developer of mobile applications with emphasis on client/server interaction.
 <!--- #endif -->
 
 #### [Porting Engineer at Atlas Mobile (later purchased by Infospace)](https://goo.gl/b27MsM#porting-engineer-at-atlas-mobile-later-purchased-by-infospace)
-*June 2004 to Dec 2004*
+(*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
-Very productive first-6-months-of-professional-software-development.
-
-* Client side QA developer, primarily tasked with porting and bugfixing<!--- #ifndef redux -->
+* Client side QA developer, primarily tasked with porting and bug fixing<!--- #ifndef redux -->
 * Ported 5 "For Prizes" games to CDMA carriers and 30+ BREW devices.
 * Prototyped a functional BREW UI engine.
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
@@ -274,7 +257,7 @@ Porting Experience With The Following Phones (not all phones listed):
 * J2ME - MIDP-1.0 and MIDP-2.0 (Sony Ericssons, LG, Samsung, Motorola V series, Nokias, ...)
 
 Infospace Mobile / Atlas Mobile Titles List:
-* Tetris Tournament For Prizes - BREW - Porting Engineer - Tetris with a "For Prizes" component. One compiled binary worked on *every* handset tested. This portability was implemented above and beyond spec and enumerated work items (drawing and UI resized, had multiple handset specific bugfixes that were benign on all other devices).
+* Tetris Tournament For Prizes - BREW - Porting Engineer - Tetris with a "For Prizes" component. One compiled binary worked on *every*  handset tested. This portability was implemented above and beyond spec and enumerated work items (drawing and UI resized, had multiple handset specific bug fixes that were benign on all other devices).
 * Prize21 For Prizes - BREW - Porting Engineer - Fast paced puzzle game.  Experimented with procedural drawing with some great results. One build worked on every handset tested (as Tetris Tournament).
 * QBz for Prizes - BREW - Porting Engineer - Port of a popular web game.  Experimented with BREW framework design. Refactored art system and data structures for better scalability.
 * Holdem Poker Plus For Prizes - BREW - Porting Engineer - Puzzle game with Hold 'em Poker theme. Heavy art and layout refactoring for small and large phones. 
@@ -291,17 +274,13 @@ Infospace Mobile / Atlas Mobile Titles List:
 ## [Education](https://goo.gl/b27MsM#education)
 <!--- #ifndef redux -->
 #### CIS Tutor at DeVry University (Fremont Campus)
-*March 2002 to October 2004*
-
-CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+(*March 2002 to October 2004*) CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
 * Tutored 100+ students, primarily in algebra, and computer science
 * Trained and mentored new tutors, wrote training documentation
 <!--- #endif -->
 
 #### Keller Graduate School of Management
-*September 2006 to 2010*
-
-Masters of Project Management
+(*September 2006 to 2010*) Masters of Project Management
 
 <!--- #ifndef redux -->
 * Part time classes
@@ -313,9 +292,7 @@ Masters of Project Management
 <!--- #endif -->
 
 #### DeVry University
-*July 2001 to October 2004*
-
-BS of Computer Information Systems
+(*July 2001 to October 2004*) BS of Computer Information Systems
 
 <!--- #ifndef redux -->
 * Graduated GPA 3.76 (Deans List)
@@ -359,7 +336,7 @@ BS of Computer Information Systems
   - Scratch, Python, Web Development, Unity3D
 * Guest Lecturer, Makerere University, Kampala, Uganda (Oct. & Nov. 2012)
   - Professional Game Programming with C++
-  - about 250 students (under-graduate and graduate)
+  - about 250 students (undergraduate and graduate)
 * Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012)
   - Game Programming with Unity3D
   - 30+ students (high-school and under-graduate)
@@ -378,9 +355,8 @@ BS of Computer Information Systems
 * Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
 
 #### Personal Programming Axioms
-* The price we must pay for being god-of-the-machine is Understanding.
+* The price we must pay for being wizards is Understanding. It's a price that must be paid.
 * The best programmer writes the most Readable code. Speed is for the compiler.
-* The first version is noisy, buggy, won't map-reduce, and later versions matter.
 * The best code will survive long after a programmer leaves it.
 * Single Point of Truth: One complexity, One bug, One change.
 * Code explicit functionality rather than side effects, and /** document it */
@@ -399,7 +375,7 @@ BS of Computer Information Systems
 
 #### Other Credo
 * Persistence (iteration) is disproportionately important to success. (So, iterate. Faster.)
-* Rules are for people who don't know any better; Rules are important, but understanding sets you free.
+* Rules are for people who don't know any better; Rules are important, but Understanding sets you free.
 * Luck is where preparation meets random opportunity, which is happening constantly.
 * To make the next best thing, the current best thing must be mundane.
 * A spoonful of test dissolves a pound of design.
