@@ -103,7 +103,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 
 #### Volunteering
 
-* Computer Science Teachers Association: President of Silicon Valley CSTA chapter (Jan. 2018 to Present)
+* Computer Science Teachers Association: Silicon Valley CSTA chapter President since 2018 (Jan. 2017 to Present)
 * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
 * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)

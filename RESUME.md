@@ -314,7 +314,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Volunteering
 
-* Computer Science Teachers Association: President of Silicon Valley CSTA chapter (Jan. 2018 to Present)
+* Computer Science Teachers Association: Silicon Valley CSTA chapter President since 2018 (Jan. 2017 to Present)
 <!--- #ifdef redux -->
 <!--- * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
