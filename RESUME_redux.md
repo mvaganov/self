@@ -14,7 +14,7 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 #### Suffrag Ex Machina
 
-A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations (~10x faster at improvement than optimal-learning-rate alone).
+A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations (~10x improvement over optimal-learning-rate alone).
 #### Ethos
 
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership.
@@ -24,7 +24,7 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 
 ## Skills
 * Computer Wizard: using technology to do things most people don't understand
-* Growth Mindset: positive about difficulty, unafraid of measured risk, unbound by labels
+* Growth Mindset: inspired by limits, positive about change, unafraid of ugly details, unbound by labels
 * Magical-CS-Teacher-Aura: broken assignments suddenly work when I show up to look at them
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: C, C++, C#, Java, JavaScript, Python
@@ -60,7 +60,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal startup project, and consulting services (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details).
+(*December 2012 to Present*) Personal startup project, and consulting services (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details)   .
 
 
 
