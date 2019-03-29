@@ -60,7 +60,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal startup project, and consulting services (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details)   .
+(*December 2012 to Present*) Personal startup project, and consulting services (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details)  
 
 
 
