@@ -2,7 +2,7 @@
 
 # Mr. V's Manifesto
 
-In preparation for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png), my short-term goal is to teach software development, especially to influential young people. My long-term goal is to help develop software to get mankind to organize itself better, with transparent tools for participatory governance, and benevolent AI that guides humans to achieve human goals. I have a succession of specific software projects in mind.
+In preparation for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png), my short-term goal is to teach software development, especially to young people. My long-term goal is to help develop software to get mankind to organize itself better, with transparent tools for participatory governance, and benevolent AI that guides humans to achieve human goals. I have a succession of specific software projects in mind.
 
 ### Why "Teach Software Development" in the Short Term?
 
