@@ -14,7 +14,7 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 #### Suffrag Ex Machina
 
-A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations (conservitavely a ~2x improvement over optimal-learning-rate alone).
+A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.
 #### Ethos
 
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership.
