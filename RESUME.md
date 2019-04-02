@@ -18,7 +18,7 @@ Software Craftsman and Educator
 <!--- #ifndef redux -->
 (*October 2018 to Present*)
 <!--- #endif -->
-A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations (conservitavely a ~2x improvement over optimal-learning-rate alone).<!--- #ifndef redux --> Trains a collection of independent ANNs that classify images. The goal is to enable them to vote in a ranked-choice election for final decision-making. Result meta-data will be gathered alongside votes, and used to boost the ensemble.<!--- #endif -->
+A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.<!--- #ifndef redux --> Trains a collection of independent ANNs that classify images. The goal is to enable them to vote in a ranked-choice election for final decision-making. Result meta-data will be gathered alongside votes, and used to boost the ensemble.<!--- #endif -->
 #### Ethos
 <!--- #ifndef redux -->
 (*October 2016 to Present*)
