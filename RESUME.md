@@ -28,12 +28,23 @@ The long-term goal is to build a decision-making platform where humans and machi
 <!--- #ifndef redux -->
 (*October 2016 to Present*)
 <!--- #endif -->
-A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership.<!--- #ifndef redux --> Intended for use with students. Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.<!--- #endif -->
+A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership. <!--- #ifndef redux --> Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.
+
+Originally intended for school use, as an alternative to the A-F grades system, it might have some value in the management space. It could be used as a part of a performance review, or employee management using personality metrics.
+
+This model might also have value as a contributor to developing ethics for artificial intelligence, which would dovetail into Suffrag Ex Machina.<!--- #endif -->
+
 #### Impetus
 <!--- #ifndef redux -->
 (*March 2006 to Present*)
 <!--- #endif -->
-An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon". <!--- #ifndef redux --> Includes a custom JSON parser with notable extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a huge library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon". <!--- #ifndef redux -->
+
+Notably includes a custom JSON parser with powerful serialization extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.
+
+This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
+
+More details can be read in my own personal vision of the future.<!--- #endif -->
 
 ## Skills
 * Computer Wizard: using technology to do things most people don't understand
