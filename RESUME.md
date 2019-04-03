@@ -40,11 +40,9 @@ This model might also have value as a contributor to developing ethics for artif
 <!--- #endif -->
 An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon". <!--- #ifndef redux -->
 
-Notably includes a custom JSON parser with powerful serialization extensions, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.
-
 This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
 
-More details can be read in my own personal vision of the future.<!--- #endif -->
+Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
 ## Skills
 * Computer Wizard: using technology to do things most people don't understand
