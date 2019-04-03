@@ -18,7 +18,10 @@ Software Craftsman and Educator
 <!--- #ifndef redux -->
 (*October 2018 to Present*)
 <!--- #endif -->
-A machine-learning engine built in C# to test an experimental *ensemble learning* technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.<!--- #ifndef redux --> Trains a collection of independent ANNs that classify images. The goal is to enable them to vote in a ranked-choice election for final decision-making. Result meta-data will be gathered alongside votes, and used to boost the ensemble.<!--- #endif -->
+A machine-learning engine built in C# to test an experimental ensemble learning technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.<!--- #ifndef redux --> 
+The goal is to get many very-differently trained Neural Networks to make cooperative decisions about common problems. This process should include supporting their choices with “opinions”, which can be used in the future to better train networks on similar problems. I’m still working on backward-propagation to identify key features, so networks can identify the root causes of their ‘why’.
+The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"<!--- #endif -->
+
 #### Ethos
 <!--- #ifndef redux -->
 (*October 2016 to Present*)
