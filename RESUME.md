@@ -7,6 +7,25 @@
 Software Craftsman and Educator
 <!--- #endif -->
 
+<!--- #ifndef redux -->
+### Software Development Skills<!--- #endif -->
+* **20+ years Programming**: hobbyist, game programmer, educator, consultant
+* Programming Languages: **C, C++, C#, Java, JavaScript, Python**
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
+* Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
+* Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
+* Simulations: 2D and 3D math, real-time systems (single / multi threaded)
+* Data Structures: custom implementations for cache/memory/fragmentation
+* Scripting: LUA, SQL, custom parsers + languages + compilers + VMs
+* Dev tools: Command-line (cmd, terminal, batch/bash), Git
+* Web: HTML5 + CSS + JavaScript, Angular
+
+### Teaching<!--- #endif -->
+* **15+ years Teaching Computer Science**: ages 7 to 40+, as a tutor, undergrad professor, and high-school teacher<!--- #ifndef redux -->
+* 4 years teaching High School Computer Science at Sacred Heart Schools, Atherton
+* 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
+* 3+ years tutoring, at The Coder School, and while in college.
+<!--- #endif -->
 ## Portfolio
 * Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
@@ -44,42 +63,9 @@ This project started as a mixture of my love of game-development and the project
 
 Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
-## Skills
-* Computer Wizard: using technology to do things most people don't understand
-* Growth Mindset: inspired by limits, positive about change, unafraid of ugly details, unbound by labels
-* Magical-CS-Teacher-Aura: broken assignments suddenly work when I show up to look at them<!--- #ifndef redux -->
-### Software Development Skills<!--- #endif -->
-* **20+ years Programming**: hobbyist, game programmer, educator, consultant
-* Programming Languages: C, C++, C#, Java, JavaScript, Python
-* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
-* Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
-* Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
-* Simulations: 2D and 3D math, real-time systems (single / multi threaded)
-* Data Structures: custom implementations for cache/memory/fragmentation
-* Scripting: LUA, SQL, custom parsers + languages + compilers + VMs
-* Dev tools: Command-line (cmd, terminal, batch/bash), Git
-* Web: HTML5 + CSS + JavaScript, Angular
-
-### Teaching<!--- #endif -->
-* **15+ years Teaching Computer Science**: ages 7 to 40+, as a tutor, undergrad professor, and high-school teacher<!--- #ifndef redux -->
-* 4 years teaching High School Computer Science at Sacred Heart Schools, Atherton
-* 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
-* 3+ years tutoring, at The Coder School, and while in college.
-<!--- #endif -->
 
 <!--- #ifndef redux -->
 ## Employment History
-
-<!--- #endif -->
-<!--- #ifdef redux -->
-<!--- ## Employment -->
-<!--- ``` -->
-<!--- _______________2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019 -->
-<!--- Teaching @DeVryFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `      -->
-<!--- Sacred Heart Prep    `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF    -->
-<!--- Other Teaching `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv    -->
-<!--- "my dragon"    `    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v     -->
-<!--- ``` -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
@@ -100,7 +86,7 @@ Other Teaching `     `     `     `     `     `     `     `     `     `     `  vv
 <!--- #endif -->
 #### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
 (*August 2015 to June 2019*) Faculty member at an exclusive private school
-* Taught computer science, with a curriculum designed to motivate (ask me about hacking)
+* Teach computer science, with a curriculum designed to motivate with creativity and computer hacking
 * Wrote software widely used by school to manage day-to-day schedule notification
 
 <!--- #ifndef redux -->
@@ -122,7 +108,7 @@ Sacred Heart Courses Taught:
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal startup project, and consulting services <!--- #ifdef redux --> <!--- (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details) --> <!--- #endif -->
+(*December 2012 to Present*) Personal startup project (project management game software), and consulting services (node.js prototype, techincal curriculum planning) <!--- #ifdef redux --> <!--- (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details) --> <!--- #endif -->
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
@@ -138,7 +124,8 @@ Sacred Heart Courses Taught:
 #### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
 (*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4)
-* Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team)
+* Focused on teaching performant data structures and game development using C and C++
+* Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
   - Understanding is the price that must be paid. Running Code Is Truth.
@@ -224,17 +211,16 @@ DeVry Courses Taught:
 #### [Software Engineer at LimeLife](https://goo.gl/b27MsM#software-engineer-at-limelife)
 (*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development
 
-* Senior-level engineer: product development, build-systems and automation, client/server<!--- #ifndef redux -->
-* Simplified manual 4-step build process for each device to a fully automated build process for an arbitrary list of devices, using Apache Ant scripts and simple batch files to start processes
+* Senior-level engineer: product development, build-systems and automation, client/server
+* Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
+* Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, implementing both client and server side implementations
+* Implemented garbage-collection and simple web-browsing for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API. Notably, the system could compile a J2ME program into BREW C++ for any target device in the system. <!--- #ifndef redux -->
+* Created AML, an HTML-like scripting language used to describe UI and streamed-UI traversal for phones
 * Created automated OTA (Over The Air) deck generation scripts as part of J2ME build process, using PHP
-* Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, as well as client-side code for a custom, encrypted, carrier non-specific, DRM layer for LimeLife
 * Acted as emergency porting engineer for "InStyle" and "Rachael Ray: Recipes on the Run" mobile apps
 * Created a highly efficient 2D composite sprite format and renderer for mobile devices (both J2ME and BREW)
 * Created Java-based GUI tool for creating and editing composite sprites 
 * Acted as technical artist for "Top Chef: the Mobile Game", building composite sprites and animations
-* Part of senior development team that built ALE, a (quite impressive) wide-porting/localization/multi-platform (multi-lingual) API, and associated build systems
-* Implemented garbage collection system used by C++ applications that were automatically ported from Java
-* Created AML, an HTML-like scripting language used to describe UI and network-aware UI traversal for phones
 * Created build tools, runtime engine (including container-based UI system), and on-the-fly server-side Java-based compiler for AML, a custom UI engine for mobile
 
 LimeLife Mobile Titles List: 
