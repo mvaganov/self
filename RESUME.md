@@ -26,7 +26,7 @@ Software Craftsman and Educator
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 * 3+ years tutoring, at The Coder School, and while in college.
 <!--- #endif -->
-## Portfolio
+### Portfolio
 * Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
 * LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
