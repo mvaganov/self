@@ -8,7 +8,7 @@ Software Craftsman and Educator
 <!--- #endif -->
 
 <!--- #ifndef redux -->
-### Software Development Skills<!--- #endif -->
+## Skills<!--- #endif -->
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
 * Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
@@ -26,7 +26,7 @@ Software Craftsman and Educator
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 * 3+ years tutoring, at The Coder School, and while in college.
 <!--- #endif -->
-### Portfolio
+## Portfolio
 * Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
 * LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
@@ -123,7 +123,7 @@ Sacred Heart Courses Taught:
 
 #### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
 (*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
-* Rated highly in students evaluations (consistently 3.5+ out of 4)
+* Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant data structures and game development using C and C++
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
@@ -214,7 +214,9 @@ DeVry Courses Taught:
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
 * Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, implementing both client and server side implementations
-* Implemented garbage-collection and simple web-browsing for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API. Notably, the system could compile a J2ME program into BREW C++ for any target device in the system. <!--- #ifndef redux -->
+* Implemented garbage-collection and simple web-browsing for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API. Notably, the system could compile a J2ME program into BREW C++ for any target device in the system.
+(see [full resume](https://goo.gl/b27MsM#software-engineer-at-limelife) for details including full-titles list)
+<!--- #ifndef redux -->
 * Created AML, an HTML-like scripting language used to describe UI and streamed-UI traversal for phones
 * Created automated OTA (Over The Air) deck generation scripts as part of J2ME build process, using PHP
 * Acted as emergency porting engineer for "InStyle" and "Rachael Ray: Recipes on the Run" mobile apps
@@ -354,6 +356,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Hiking, Biking, Rock Climbing, Fencing
 * Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
 
+<!--- #ifndef redux -->
 #### Personal Programming Axioms
 * The price we must pay for being wizards is Understanding. It's a price that must be paid.
 * The best programmer writes the most Readable code. Speed is for the compiler.
@@ -382,3 +385,4 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Without clear goals we are wasting people's time, and we are made of time.
 * Do not fear complexity, simplify it.
 * more at: http://codegiraffe.com/quotes.txt
+<!--- #endif -->
