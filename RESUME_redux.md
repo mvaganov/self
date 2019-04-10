@@ -1,6 +1,6 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
-
-TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRes for details
+<!-- https://goo.gl/b27MsM -->
+TL;DR - motivated programmer with games background who loves teaching.
 
 
 
@@ -13,63 +13,65 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 ## Portfolio
 * Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
-* LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
 
 
 
 ## Employment History
 
 
-#### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
-(*August 2015 to June 2019*) Faculty member at an exclusive private school
+#### Computer Science Teacher at Sacred Heart Prep
+(*August 2015 to June 2019*) Faculty member at an exclusive private school.
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
-* Wrote software widely used by school to manage day-to-day schedule notification
+* Wrote software used to manage schedule and notification using speech synthesis
 
 
 
 #### Code Coach at theCoderSchool 
-(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
+(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 
 
-#### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur))  
+#### Self Employed Programmer, Entrepreneur
+(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning.
 
 
 
-#### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
-(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
+#### Professor at DeVry University (Silicon Valley Campuses)
+(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 
 
-#### [Software Engineer at LimeLife](https://goo.gl/b27MsM#software-engineer-at-limelife)
-(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development
+#### Software Engineer at LimeLife
+(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development.
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
 * Created DRM (Digital Rights Management) abstraction layer for different carriers and platforms, implementing both client and server side code
 * Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
-(see [full resume](https://goo.gl/b27MsM#software-engineer-at-limelife) for details including full-titles list)
+* A responsible part of shipping 5 distinct mobile titles, and many SKUs of each.
 
 
-#### [Software Engineer at Infospace Mobile Games](https://goo.gl/b27MsM#software-engineer-at-infospace-mobile-games)
+#### Software Engineer at Infospace Mobile Games
 (*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server
 * Implemented and debugged multiple proprietary asynchronous Client/Server products.
-* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines. 
+* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines
+* Lead development of a social-media photo-blogging application that was shelved by management
+* A responsible part of shipping 6 distinct mobile titles, and many SKUs of each, including a client/serter testing application used for engineer training 
 
-#### [Porting Engineer at Atlas Mobile (later purchased by Infospace)](https://goo.gl/b27MsM#porting-engineer-at-atlas-mobile-later-purchased-by-infospace)
+#### Porting Engineer at Atlas Mobile (later purchased by Infospace)
 (*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
 * Client side QA developer, primarily tasked with porting and bug fixing
-* Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
+* Identified as a 'BREW expert' by technical management, 6 months after learning BREW
+* A responsible part of shipping 5 "For Prizes" mobile titles, and 30+ SKUs of each 
 
-## [Education](https://goo.gl/b27MsM#education)
+## Education
 
 
 #### Keller Graduate School of Management
@@ -84,10 +86,9 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 ## Other
 
-
 #### Volunteering
 
-* Computer Science Teachers Association: Silicon Valley CSTA chapter President since 2018 (Jan. 2017 to Present)
+* Computer Science Teachers Association: Silicon Valley CSTA chapter President since Jan. 2018 (Jan. 2017 to Present)
 * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
 * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)
@@ -99,6 +100,8 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
+* Software Side-projects, Game Jams, and Hackathons
 
 
+
+<!-- See https://tinyurl.com/mvGitRes for more detailed resume -->
