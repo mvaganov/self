@@ -51,8 +51,8 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
-* Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, implementing both client and server side implementations
-* Implemented garbage-collection and simple web-browsing for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API. Notably, the system could compile a J2ME program into BREW C++ for any target device in the system.
+* Created DRM (Digital Rights Management) abstraction layer for different carriers and platforms, implementing both client and server side code
+* Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
 (see [full resume](https://goo.gl/b27MsM#software-engineer-at-limelife) for details including full-titles list)
 
 
@@ -60,11 +60,14 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 (*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server
+* Implemented and debugged multiple proprietary asynchronous Client/Server products.
+* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines. 
 
 #### [Porting Engineer at Atlas Mobile (later purchased by Infospace)](https://goo.gl/b27MsM#porting-engineer-at-atlas-mobile-later-purchased-by-infospace)
 (*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
 * Client side QA developer, primarily tasked with porting and bug fixing
+* Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
 ## [Education](https://goo.gl/b27MsM#education)
 

@@ -205,8 +205,8 @@ DeVry Courses Taught:
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
-* Created DRM (Digital Rights Management) abstraction layer for carrier/platform specific DRM systems, implementing both client and server side implementations
-* Implemented garbage-collection and simple web-browsing for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API. Notably, the system could compile a J2ME program into BREW C++ for any target device in the system.
+* Created DRM (Digital Rights Management) abstraction layer for different carriers and platforms, implementing both client and server side code
+* Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
 (see [full resume](https://goo.gl/b27MsM#software-engineer-at-limelife) for details including full-titles list)
 <!--- #ifndef redux -->
 * Created AML, an HTML-like scripting language used to describe UI and streamed-UI traversal for phones
@@ -228,10 +228,10 @@ LimeLife Mobile Titles List:
 #### [Software Engineer at Infospace Mobile Games](https://goo.gl/b27MsM#software-engineer-at-infospace-mobile-games)
 (*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
-* Senior-level engineer: product development, framework, R&D, client/server<!--- #ifndef redux -->
-* Implemented and debugged multiple proprietary asynchronous Client/Server technologies.
+* Senior-level engineer: product development, framework, R&D, client/server
+* Implemented and debugged multiple proprietary asynchronous Client/Server products.
+* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines. <!--- #ifndef redux -->
 * Trained engineers in proprietary BREW and J2ME technologies.
-* Conceived and implemented original scriptable UI engines for mobile and created associated compilers.
 * Developed zip-compression based networking/content distribution protocol.
 * Designed, developed, maintained, and ported applications using "For Prizes" asynchronous multiplayer technology.
 * "For Prizes" Expert - Acted as major knowledge store about proprietary For Prizes technology, including client/server transactions, and user registration and authentication processes, in both J2ME and BREW.
@@ -241,10 +241,10 @@ LimeLife Mobile Titles List:
 #### [Porting Engineer at Atlas Mobile (later purchased by Infospace)](https://goo.gl/b27MsM#porting-engineer-at-atlas-mobile-later-purchased-by-infospace)
 (*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
-* Client side QA developer, primarily tasked with porting and bug fixing<!--- #ifndef redux -->
+* Client side QA developer, primarily tasked with porting and bug fixing
+* Identified as a 'BREW expert' by technical management, 6 months after learning BREW.<!--- #ifndef redux -->
 * Ported 5 "For Prizes" games to CDMA carriers and 30+ BREW devices.
 * Prototyped a functional BREW UI engine.
-* Identified as a 'BREW expert' by technical management, 6 months after learning BREW.
 
 Porting Experience With The Following Phones (not all phones listed):
 * BREW - Audiovox (CDM 8910, CDM 8940, CDM 8600, CDM 8900), Kyocera (KX1, KX2, KX444, SE47), LG (VX4400, VX4500, VX4600, VX4700, VX6000, VX6100, VX7000, VX8000, VX8100, VX8500, VX10000), Motorola (V65, V260, V265, T720, C343, V710, V262, E815, V3, K1), Samsung (N330, A610, A790, A650, U740).
