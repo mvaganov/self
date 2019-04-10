@@ -7,8 +7,7 @@
 Software Craftsman and Educator
 <!--- #endif -->
 
-<!--- #ifndef redux -->
-## Skills<!--- #endif -->
+## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
 * Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
@@ -34,7 +33,7 @@ Software Craftsman and Educator
 ### Notable Personal Software Projects
 
 #### Suffrag Ex Machina
-(*October 2018 to Present*)
+(*Oct. 2018 to Present*)
 A machine-learning engine built in C# to test an experimental ensemble learning technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.
 
 The goal is to get many different "brains" (trained Neural Networks) to cooperatively decide choices. This process should include supporting choices with "opinions", which can be used later to better-train brains on similar problems. It’s far from done, I’m still working on backward-feed-propagation to identify "key features", so networks can identify the root causes of their "why" when forming "opinions".
@@ -42,7 +41,7 @@ The goal is to get many different "brains" (trained Neural Networks) to cooperat
 The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"
 
 #### Ethos
-(*October 2016 to Present*)
+(*Oct. 2016 to Present*)
 A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership. Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.
 
 Originally intended for school use, as an alternative to the A-F grades system, it might have some value in the management space. It could be used as a part of a performance review, or employee management using personality metrics.
@@ -50,7 +49,7 @@ Originally intended for school use, as an alternative to the A-F grades system, 
 This model might also have value as a contributor to developing ethics for artificial intelligence, which would dovetail into Suffrag Ex Machina.
 
 #### Impetus
-(*March 2006 to Present*)
+(*Mar. 2006 to Present*)
 An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon".
 
 This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
@@ -76,7 +75,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 ### Employment Details
 <!--- #endif -->
 #### Computer Science Teacher at Sacred Heart Prep
-(*August 2015 to June 2019*) Faculty member at an exclusive private school.
+(*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
 * Wrote software used to manage schedule and notification using speech synthesis
 
@@ -92,14 +91,14 @@ Sacred Heart Courses Taught:
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
-(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
+(*Sep. 2014 to Aug. 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### Self Employed Programmer, Entrepreneur
-(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning.
+(*Dec. 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning.
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
@@ -112,7 +111,7 @@ Sacred Heart Courses Taught:
 <!--- #endif -->
 
 #### Professor at DeVry University (Silicon Valley Campuses)
-(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
+(*Mar. 2006 to Dec. 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
@@ -129,8 +128,8 @@ Sacred Heart Courses Taught:
   - Agile and agile (small-a) development, favoring the small-a
   - Joy-of-discovery and character-building-pain-of-debugging are important
 * Faculty guide and mentor for game development clubs
-* Promoted from Adjunct to "Associate" Professor (full-time faculty) April 2008
-* Voluntarily adjusted to "Visiting Professor" (part-time faculty) August 2013
+* Promoted from Adjunct to "Associate" Professor (full-time faculty) Apr. 2008
+* Voluntarily adjusted to "Visiting Professor" (part-time faculty) Aug. 2013
 * Extra-curricular game programming workshops for students
 * Taught on-campus classes in Fremont and San Jose, and online classes
 * Advised local and national Deans while implementing new curricula
@@ -199,7 +198,7 @@ DeVry Courses Taught:
 <!--- #endif -->
 
 #### Software Engineer at LimeLife
-(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development.
+(*Nov. 2006 to Apr. 2008*) Developer responsible for end-to-end network-aware mobile application development.
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
@@ -224,7 +223,7 @@ LimeLife Mobile Titles List:
 <!--- #endif -->
 
 #### Software Engineer at Infospace Mobile Games
-(*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
+(*Dec. 2004 to Nov. 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server
 * Implemented and debugged multiple proprietary asynchronous Client/Server products.
@@ -239,7 +238,7 @@ LimeLife Mobile Titles List:
 <!--- #endif -->
 
 #### Porting Engineer at Atlas Mobile (later purchased by Infospace)
-(*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
+(*Jun. 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
 * Client side QA developer, primarily tasked with porting and bug fixing
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW
@@ -268,13 +267,13 @@ Infospace Mobile / Atlas Mobile Titles List:
 ## Education
 <!--- #ifndef redux -->
 #### CIS Tutor at DeVry University (Fremont Campus)
-(*March 2002 to October 2004*) CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
+(*Mar. 2002 to Oct. 2004*) CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
 * Tutored 100+ students, primarily in algebra, and computer science
 * Trained and mentored new tutors, wrote training documentation
 <!--- #endif -->
 
 #### Keller Graduate School of Management
-(*September 2006 to 2010*) Masters of Project Management
+(*Sep. 2006 to 2010*) Masters of Project Management
 
 <!--- #ifndef redux -->
 * Part time classes
@@ -286,7 +285,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- #endif -->
 
 #### DeVry University
-(*July 2001 to October 2004*) BS of Computer Information Systems
+(*Jul. 2001 to Oct. 2004*) BS of Computer Information Systems
 
 <!--- #ifndef redux -->
 * Graduated GPA 3.76 (Deans List)
@@ -333,7 +332,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Guest Lecturer, Nkumba University, Entebbe, Uganda (Oct. & Nov. 2012)
   - Game Programming with Unity3D
   - 30+ students (high-school and under-graduate)
-* Guest Lecturer, Victoria University, Kampala, Uganda (November 2012)
+* Guest Lecturer, Victoria University, Kampala, Uganda (Nov. 2012)
   - Introductory C++
   - about 20 students (under-graduate)
 * Introductory Game Programming with C/C++ (late 2011, 2012)
