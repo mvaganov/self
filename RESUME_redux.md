@@ -35,7 +35,7 @@ TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRe
 
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and techincal planning (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur))  
+(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur))  
 
 
 

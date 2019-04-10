@@ -100,7 +100,7 @@ Sacred Heart Courses Taught:
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and techincal planning <!--- #ifdef redux --> <!--- (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)) --> <!--- #endif -->
+(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning <!--- #ifdef redux --> <!--- (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)) --> <!--- #endif -->
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
