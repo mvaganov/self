@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
-
+<!-- https://goo.gl/b27MsM -->
 <!--- #ifdef redux -->
-<!--- TL;DR - motivated programmer who loves teaching. See https://tinyurl.com/mvGitRes for details -->
+<!--- TL;DR - motivated programmer with games background who loves teaching. -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 Software Craftsman and Educator
@@ -29,7 +29,6 @@ Software Craftsman and Educator
 ## Portfolio
 * Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
-* LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
 
 <!--- #ifndef redux -->
 ### Notable Personal Software Projects
@@ -76,10 +75,10 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #ifndef redux -->
 ### Employment Details
 <!--- #endif -->
-#### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
-(*August 2015 to June 2019*) Faculty member at an exclusive private school
+#### Computer Science Teacher at Sacred Heart Prep
+(*August 2015 to June 2019*) Faculty member at an exclusive private school.
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
-* Wrote software widely used by school to manage day-to-day schedule notification
+* Wrote software used to manage schedule and notification using speech synthesis
 
 <!--- #ifndef redux -->
 Sacred Heart Courses Taught:
@@ -93,28 +92,27 @@ Sacred Heart Courses Taught:
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
-(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley
+(*September 2014 to August 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
 * Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
-#### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning <!--- #ifdef redux --> <!--- (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)) --> <!--- #endif -->
+#### Self Employed Programmer, Entrepreneur
+(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning.
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
   - 3D model generation system for data visualization
-  - Scripting system for data storage, content generation, AI
-  - Intelligence Augmentation tools
+  - Scripting system for data storage, content generation, and expert-system AI
 * Contracted consulting work
   - Developed Node.js server backend (using Heroku) for Mechamagizmo's "Hangries"
   - Developed OOP courses for DeVry's national GSP program
   - Developed high-level curriculum strategy for DeVry's national GSP program
 <!--- #endif -->
 
-#### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
-(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
+#### Professor at DeVry University (Silicon Valley Campuses)
+(*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
@@ -200,14 +198,14 @@ DeVry Courses Taught:
   - Tutorial: making simple games with Unity3D, C#, and Blender
 <!--- #endif -->
 
-#### [Software Engineer at LimeLife](https://goo.gl/b27MsM#software-engineer-at-limelife)
-(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development
+#### Software Engineer at LimeLife
+(*November 2006 to April 2008*) Developer responsible for end-to-end network-aware mobile application development.
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
 * Created DRM (Digital Rights Management) abstraction layer for different carriers and platforms, implementing both client and server side code
 * Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
-(see [full resume](https://goo.gl/b27MsM#software-engineer-at-limelife) for details including full-titles list)
+* A responsible part of shipping 5 distinct mobile titles, and many SKUs of each.
 <!--- #ifndef redux -->
 * Created AML, an HTML-like scripting language used to describe UI and streamed-UI traversal for phones
 * Created automated OTA (Over The Air) deck generation scripts as part of J2ME build process, using PHP
@@ -225,25 +223,27 @@ LimeLife Mobile Titles List:
 * InStyle - BREW/J2ME - Porting Engineer - Network aware application used to distribute InStyle magazine content, based on FLIRT, the same technology used to build Rachael Ray.
 <!--- #endif -->
 
-#### [Software Engineer at Infospace Mobile Games](https://goo.gl/b27MsM#software-engineer-at-infospace-mobile-games)
+#### Software Engineer at Infospace Mobile Games
 (*December 2004 to November 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server
 * Implemented and debugged multiple proprietary asynchronous Client/Server products.
-* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines. <!--- #ifndef redux -->
+* Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines
+* Lead development of a social-media photo-blogging application that was shelved by management
+* A responsible part of shipping 6 distinct mobile titles, and many SKUs of each, including a client/serter testing application used for engineer training <!--- #ifndef redux -->
 * Trained engineers in proprietary BREW and J2ME technologies.
 * Developed zip-compression based networking/content distribution protocol.
-* Designed, developed, maintained, and ported applications using "For Prizes" asynchronous multiplayer technology.
+* Designed, developed, maintained, and ported applications using "For Prizes" asynchronous multiplayer technology
 * "For Prizes" Expert - Acted as major knowledge store about proprietary For Prizes technology, including client/server transactions, and user registration and authentication processes, in both J2ME and BREW.
 * Nominated for a company-wide Infostar award in the first 6 months of employment!
 <!--- #endif -->
 
-#### [Porting Engineer at Atlas Mobile (later purchased by Infospace)](https://goo.gl/b27MsM#porting-engineer-at-atlas-mobile-later-purchased-by-infospace)
+#### Porting Engineer at Atlas Mobile (later purchased by Infospace)
 (*June 2004 to Dec 2004*) Very productive first-6-months-of-professional-software-development.
 
 * Client side QA developer, primarily tasked with porting and bug fixing
-* Identified as a 'BREW expert' by technical management, 6 months after learning BREW.<!--- #ifndef redux -->
-* Ported 5 "For Prizes" games to CDMA carriers and 30+ BREW devices.
+* Identified as a 'BREW expert' by technical management, 6 months after learning BREW
+* A responsible part of shipping 5 "For Prizes" mobile titles, and 30+ SKUs of each <!--- #ifndef redux -->
 * Prototyped a functional BREW UI engine.
 
 Porting Experience With The Following Phones (not all phones listed):
@@ -265,7 +265,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 <!--- #endif -->
 
-## [Education](https://goo.gl/b27MsM#education)
+## Education
 <!--- #ifndef redux -->
 #### CIS Tutor at DeVry University (Fremont Campus)
 (*March 2002 to October 2004*) CRLA certified, Tutor of the Semester (Summer 2003), Head Tutor (Fall 2004)
@@ -304,11 +304,10 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- #endif -->
 
 ## Other
-<!--- * more details at https://goo.gl/b27MsM#other -->
 
 #### Volunteering
 
-* Computer Science Teachers Association: Silicon Valley CSTA chapter President since 2018 (Jan. 2017 to Present)
+* Computer Science Teachers Association: Silicon Valley CSTA chapter President since Jan. 2018 (Jan. 2017 to Present)
 <!--- #ifdef redux -->
 <!--- * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
@@ -346,11 +345,10 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams, and Hackathons (samples at http://codegiraffe.com)
+* Software Side-projects, Game Jams, and Hackathons
 
 <!--- #ifndef redux -->
 #### Personal Programming Axioms
-* The price we must pay for being wizards is Understanding. It's a price that must be paid.
 * The best programmer writes the most Readable code. Speed is for the compiler.
 * The best code will survive long after a programmer leaves it.
 * Single Point of Truth: One complexity, One bug, One change.
@@ -378,3 +376,5 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Do not fear complexity, simplify it.
 * more at: http://codegiraffe.com/quotes.txt
 <!--- #endif -->
+
+<!-- See https://tinyurl.com/mvGitRes for more detailed resume -->
