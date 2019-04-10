@@ -31,42 +31,34 @@ Software Craftsman and Educator
 * Code Samples: https://github.com/mvaganov/
 * LinkedIn: https://www.linkedin.com/in/mvaganov/ (including recommendations and endorsements)
 
+<!--- #ifndef redux -->
 ### Notable Personal Software Projects
 
 #### Suffrag Ex Machina
-<!--- #ifndef redux -->
 (*October 2018 to Present*)
-<!--- #endif -->
-A machine-learning engine built in C# to test an experimental ensemble learning technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.<!--- #ifndef redux -->
+A machine-learning engine built in C# to test an experimental ensemble learning technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.
 
 The goal is to get many different "brains" (trained Neural Networks) to cooperatively decide choices. This process should include supporting choices with "opinions", which can be used later to better-train brains on similar problems. It’s far from done, I’m still working on backward-feed-propagation to identify "key features", so networks can identify the root causes of their "why" when forming "opinions".
 
-The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"<!--- #endif -->
+The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"
 
 #### Ethos
-<!--- #ifndef redux -->
 (*October 2016 to Present*)
-<!--- #endif -->
-A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership. <!--- #ifndef redux --> Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.
+A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership. Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.
 
 Originally intended for school use, as an alternative to the A-F grades system, it might have some value in the management space. It could be used as a part of a performance review, or employee management using personality metrics.
 
-This model might also have value as a contributor to developing ethics for artificial intelligence, which would dovetail into Suffrag Ex Machina.<!--- #endif -->
+This model might also have value as a contributor to developing ethics for artificial intelligence, which would dovetail into Suffrag Ex Machina.
 
 #### Impetus
-<!--- #ifndef redux -->
 (*March 2006 to Present*)
-<!--- #endif -->
-An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon". <!--- #ifndef redux -->
+An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon".
 
 This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
 
 Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
 
-
-<!--- #ifndef redux -->
 ## Employment History
-<!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
@@ -79,14 +71,14 @@ Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `    
 Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv   
 (ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v    
 ```
-<!--- #endif -->Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
-
+Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
+<!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment Details
 <!--- #endif -->
 #### [Computer Science Teacher at Sacred Heart Prep](https://tinyurl.com/mvGitRes#computer-science-teacher-at-sacred-heart-prep)
 (*August 2015 to June 2019*) Faculty member at an exclusive private school
-* Teach computer science, with a curriculum designed to motivate with creativity and computer hacking
+* Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
 * Wrote software widely used by school to manage day-to-day schedule notification
 
 <!--- #ifndef redux -->
@@ -108,7 +100,7 @@ Sacred Heart Courses Taught:
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### [Self Employed Programmer, Entrepreneur](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)
-(*December 2012 to Present*) Personal startup project (project management game software), and consulting services (node.js prototype, techincal curriculum planning) <!--- #ifdef redux --> <!--- (see [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur) for details) --> <!--- #endif -->
+(*December 2012 to Present*) Personal moonshot, and consulting services including prototyping and techincal planning <!--- #ifdef redux --> <!--- (details in [full resume](https://goo.gl/b27MsM#self-employed-programmer-entrepreneur)) --> <!--- #endif -->
 
 <!--- #ifndef redux -->
 * Stealth startup project: Game & Project Management Software (unfinished)
@@ -124,7 +116,7 @@ Sacred Heart Courses Taught:
 #### [Professor at DeVry University (Silicon Valley Campuses)](https://goo.gl/b27MsM#professor-at-devry-university-silicon-valley-campuses)
 (*March 2006 to December 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
-* Focused on teaching performant data structures and game development using C and C++
+* Focused on teaching performant code and game development in C and C++
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
