@@ -77,6 +77,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 #### Computer Science Teacher at Sacred Heart Prep
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
+* Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to manage schedule and notification using speech synthesis
 
 <!--- #ifndef redux -->
@@ -94,7 +95,7 @@ Sacred Heart Courses Taught:
 (*Sep. 2014 to Aug. 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
 * Custom-built simple and engaging tutorial content for Computer Science and electronic art
-* Subjects: Unity3D, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
+* Subjects: Unity, C#, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### Self Employed Programmer, Entrepreneur
@@ -114,6 +115,7 @@ Sacred Heart Courses Taught:
 (*Mar. 2006 to Dec. 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
+* Taught and evolved Computer Science and Game Development course work
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
@@ -201,10 +203,10 @@ DeVry Courses Taught:
 (*Nov. 2006 to Apr. 2008*) Developer responsible for end-to-end network-aware mobile application development.
 
 * Senior-level engineer: product development, build-systems and automation, client/server
-* Fully automated a heavily manual build process that required test activity to complete meta-data seeding, saving hours-per-day for build engineers
-* Created DRM (Digital Rights Management) abstraction layer for different carriers and platforms, implementing both client and server side code
+* Fully automated heavily manual build process requiring test-activity to seed meta-data, saving hours-per-day for build engineers
+* Created DRM (Digital Rights Management) abstraction layer, implementing both client and server side code
 * Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
-* A responsible part of shipping 5 distinct mobile titles, and many SKUs of each.
+* A responsible part of shipping 5 distinct mobile titles, and many SKUs of each
 <!--- #ifndef redux -->
 * Created AML, an HTML-like scripting language used to describe UI and streamed-UI traversal for phones
 * Created automated OTA (Over The Air) deck generation scripts as part of J2ME build process, using PHP
@@ -226,12 +228,13 @@ LimeLife Mobile Titles List:
 (*Dec. 2004 to Nov. 2006*) Developer of mobile applications with emphasis on client/server interaction.
 
 * Senior-level engineer: product development, framework, R&D, client/server
-* Implemented and debugged multiple proprietary asynchronous Client/Server products.
+* Implemented and debugged multiple proprietary asynchronous client/server products
 * Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines
 * Lead development of a social-media photo-blogging application that was shelved by management
-* A responsible part of shipping 6 distinct mobile titles, and many SKUs of each, including a client/serter testing application used for engineer training <!--- #ifndef redux -->
-* Trained engineers in proprietary BREW and J2ME technologies.
-* Developed zip-compression based networking/content distribution protocol.
+* A responsible part of shipping 5 distinct mobile applications, and many SKUs of each
+* Created a client/server test app used for system testing and engineer training <!--- #ifndef redux -->
+* Trained engineers in proprietary BREW and J2ME technologies
+* Developed zip-compression based networking/content distribution protocol
 * Designed, developed, maintained, and ported applications using "For Prizes" asynchronous multiplayer technology
 * "For Prizes" Expert - Acted as major knowledge store about proprietary For Prizes technology, including client/server transactions, and user registration and authentication processes, in both J2ME and BREW.
 * Nominated for a company-wide Infostar award in the first 6 months of employment!
