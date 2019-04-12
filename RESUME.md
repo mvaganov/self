@@ -1,16 +1,16 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 <!--- #ifdef redux -->
-<!--- TL;DR - motivated programmer, with networked-games-on-small-devices background, who loves teaching. -->
+<!--- Motivated programmer who loves teaching. TL;DR - Background in education, game development, and networking-on-small-devices. -->
 <!--- #endif -->
 <!--- #ifndef redux -->
-Software Craftsman and Educator
+Motivated programmer who loves teaching
 <!--- #endif -->
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity & automation, UI/UX, multi-platform, Client/Server, VR, Web, ANN<!--- #ifndef redux -->
+* Software Domains: games, productivity & automation, UI/UX, multi-platform, client/server, VR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -115,7 +115,7 @@ Sacred Heart Courses Taught:
 (*Mar. 2006 to Dec. 2014*) Professor of Games and Simulation Programming (GSP), a Computer-Science-like Bachelors of Science degree program, with emphasis on game development.
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
-* Taught and evolved Computer Science and Game Development course work
+* Taught and evolved course content: programming, data structures, practical software architecture, computer graphics, AI for games (expert systems), project management, design
 * Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
@@ -200,7 +200,7 @@ DeVry Courses Taught:
 <!--- #endif -->
 
 #### Software Engineer at LimeLife
-(*Nov. 2006 to Apr. 2008*) Developer responsible for end-to-end network-aware mobile application development.
+(*Nov. 2006 to Apr. 2008*) Developer responsible for end-to-end network-aware flip-phone mobile application development.
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated heavily manual build process requiring test-activity to seed meta-data, saving hours-per-day for build engineers
@@ -231,8 +231,8 @@ LimeLife Mobile Titles List:
 * Implemented and debugged multiple proprietary asynchronous client/server products
 * Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines
 * Lead development of a social-media photo-blogging application that was shelved by management
-* A responsible part of shipping 5 distinct mobile applications, and many SKUs of each
-* Created a client/server test app used for system testing and engineer training <!--- #ifndef redux -->
+* Created a client/server test app used for system testing and engineer training
+* A responsible part of shipping 5 distinct mobile applications, and many SKUs of each<!--- #ifndef redux -->
 * Trained engineers in proprietary BREW and J2ME technologies
 * Developed zip-compression based networking/content distribution protocol
 * Designed, developed, maintained, and ported applications using "For Prizes" asynchronous multiplayer technology
