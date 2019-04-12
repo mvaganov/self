@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 <!--- #ifdef redux -->
-<!--- Motivated programmer who loves teaching. TL;DR - Background in education, game development, and networking-on-small-devices. -->
+<!--- Motivated programmer who loves teaching. Background in education, game dev., and networking-on-small-devices. -->
 <!--- #endif -->
 <!--- #ifndef redux -->
 Motivated programmer who loves teaching

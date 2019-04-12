@@ -1,6 +1,6 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
-Motivated programmer who loves teaching. TL;DR - Background in education, game development, and networking-on-small-devices.
+Motivated programmer who loves teaching. Background in education, game dev., and networking-on-small-devices.
 
 
 
