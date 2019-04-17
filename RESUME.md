@@ -1,11 +1,8 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
-<!--- #ifdef redux -->
-<!--- Motivated programmer who loves teaching. Background in education, game dev., and networking-on-small-devices. -->
-<!--- #endif -->
-<!--- #ifndef redux -->
-Motivated programmer who loves teaching
-<!--- #endif -->
+### Summary
+Sr. Level developer who enjoys the challenges of writing efficient code in the service of creating beautiful, compelling, and accessible user experience.
+Has been teaching Unity 3D game/VR development. Implemented garbage-collection and socket networking code for a domain-specific web-browser on pre-smart-phone mobile. Developed wide-porting/localization/multiplatform/multi-lingual API/Framework and build system for mobile. Focused on teaching performant code and game development in C and C++.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
