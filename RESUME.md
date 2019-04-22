@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 ### Summary
-Sr. Level developer who enjoys the challenges of writing efficient code in the service of creating beautiful, compelling, and accessible user experience.
+Sr. Level developer who enjoys the challenges of writing efficient code and 3D user experiences.
 Has been teaching Unity 3D game/VR development. Implemented garbage-collection and socket networking code for a domain-specific web-browser on pre-smart-phone mobile. Developed wide-porting/localization/multiplatform/multi-lingual API/Framework and build system for mobile. Focused on teaching performant code and game development in C and C++.
 
 ## Skills
