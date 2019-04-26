@@ -27,6 +27,7 @@ Has been teaching Unity 3D game/VR development. Implemented garbage-collection a
 * Code Samples: https://github.com/mvaganov/
 
 <!--- #ifndef redux -->
+<!--
 ### Notable Personal Software Projects
 
 #### Suffrag Ex Machina
@@ -51,7 +52,7 @@ An experimental suite of tools and prototypes to build a-game-about-Project-Mana
 
 This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
 
-Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.<!--- #endif -->
+Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.--><!--- #endif -->
 
 ## Employment History
 <!--- #ifndef redux -->
