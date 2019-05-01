@@ -1,8 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 ### Summary
-Sr. Level developer who enjoys the challenges of writing efficient code and 3D user experiences.
-Has been teaching Unity 3D game/VR development. Implemented garbage-collection and socket networking code for a domain-specific web-browser on pre-smart-phone mobile. Developed wide-porting/localization/multiplatform/multi-lingual API/Framework and build system for mobile. Focused on teaching performant code and game development in C and C++.
+Sr. Level software developer with vast teaching experience. 8 years of teaching undergraduate game development in C++, in highly practical 8-week courses. Focused on teaching performant code and systems development. Also has 5+ years experience teaching young-adults in High School and tutoring environments. Has been teaching Unity 3D game/VR development on a volunteer basis. Professionally implemented garbage-collection, socket networking code, and a domain-specific web-browser, on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
