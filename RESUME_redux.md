@@ -22,7 +22,7 @@ Sr. Level software developer with vast teaching experience. 8 years of teaching 
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to manage schedule and notification using speech synthesis
-
+* Implemented Artificual Neural Network in C# from scratch as an educational exercise
 
 
 #### Code Coach at theCoderSchool 
