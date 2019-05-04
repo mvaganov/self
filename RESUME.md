@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 ### Summary
-Sr. Level software developer with vast teaching experience. 8 years of teaching undergraduate game development in C++, in highly practical 8-week courses. Focused on teaching performant code and systems development. Also has 5+ years experience teaching young-adults in High School and tutoring environments. Has been teaching Unity 3D game/VR development on a volunteer basis. Professionally implemented garbage-collection, socket networking code, and a domain-specific web-browser, on pre-smart-phone mobile.
+Sr. Level software developer with teaching and technical mentoring experience. 8 years of teaching undergraduate game development in C++, in highly technical and highly practical 8-week courses, and guiding final projects. Focused on performant code and systems development. 5 years Teaching Unity 3D game/VR development. Professionally implemented garbage-collection, socket networking code, and a domain-specific web-browser, on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
@@ -76,6 +76,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to manage schedule and notification using speech synthesis
+* Wrote Artificial Neural Network from scratch using C# as a learning exercise
 
 <!--- #ifndef redux -->
 Sacred Heart Courses Taught:
@@ -91,8 +92,7 @@ Sacred Heart Courses Taught:
 #### Code Coach at theCoderSchool 
 (*Sep. 2014 to Aug. 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
-* Custom-built simple and engaging tutorial content for Computer Science and electronic art
-* Subjects: Unity, C#, C and C++, Java, Blender, 2D and 3D math, Game Design, Project Management
+* Custom-built tutorials for: Unity, C#, C and C++, Java, Blender, 2D/3D math, Game Design, Project Management
 <!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
 
 #### Self Employed Programmer, Entrepreneur
@@ -113,7 +113,7 @@ Sacred Heart Courses Taught:
 * Rated highly in students evaluations (consistently 3.5+ out of 4), despite having [difficult classes](https://docs.google.com/document/d/1zt5Qb3FR3jjg5kX75LsnZqLDQF9lplZYm0sOabWzXtk/edit?usp=sharing)
 * Focused on teaching performant code and game development in C and C++
 * Taught and evolved course content: programming, data structures, practical software architecture, computer graphics, AI for games (expert systems), project management, design
-* Managed 30+ Senior Project teams (16 week project, 2 to 5 programmers /team with varying skill levels)
+* Managed 30+ Senior Project teams (16 week projects, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
   - Understanding is the price that must be paid. Running Code Is Truth.
