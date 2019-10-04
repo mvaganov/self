@@ -6,7 +6,7 @@ Sr. Level software developer with teaching and technical mentoring experience. 8
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity & automation, UI/UX, multi-platform, client/server, VR, Web, ANN<!--- #ifndef redux -->
+* Software Domains: games, productivity, automation, UI/UX, client/server, VR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D (Blender), 2D (GIMP, MSPaint), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -16,7 +16,7 @@ Sr. Level software developer with teaching and technical mentoring experience. 8
 * Web: HTML5 + CSS + JavaScript, Angular
 
 ### Teaching<!--- #endif -->
-* **15+ years Teaching Computer Science**: ages 7 to 40+, as a tutor, undergrad professor, and high-school teacher<!--- #ifndef redux -->
+* **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science at Sacred Heart Schools, Atherton
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
 * 3+ years tutoring, at The Coder School, and while in college.
@@ -63,7 +63,8 @@ Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFF
 Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
 LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvv   
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvv 
+Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FF 
 (ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v    
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
@@ -71,9 +72,21 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #ifndef redux -->
 ### Employment Details
 <!--- #endif -->
+#### Director of Engineering at Lightside Games
+(*Jun. 2019 to present*) Ranking software developer at a distributed mobile games studio
+* Developed engineering culture and advancement track for engineers, including review process
+* Collaborated with designers to plan product pipeline, including market tests of concepts
+* Vetted and managed external contractors responsible for bulk game development
+* Represented company at conferences and industry meetups
+
+#### Faculty at Gamebridge Unityversity
+(*Aug. 2016 to present*) Lead weekly Virtual Reality / Game Development workshops
+* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA
+* Improvisational tutorials about: programming, game design, software development, 3D math, 3D modelling, digital art, other technology
+
 #### Computer Science Teacher at Sacred Heart Prep
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
-* Teach computer science, with a curriculum designed to motivate in a context of creativity and computer hacking
+* Teach computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to manage schedule and notification using speech synthesis
 * Wrote Artificial Neural Network from scratch using C# as a learning exercise
@@ -201,7 +214,7 @@ DeVry Courses Taught:
 
 * Senior-level engineer: product development, build-systems and automation, client/server
 * Fully automated heavily manual build process requiring test-activity to seed meta-data, saving hours-per-day for build engineers
-* Created DRM (Digital Rights Management) abstraction layer, implementing both client and server side code
+* Created DRM (Digital Rights Management) abstraction layer, implementing client and server side code
 * Implemented garbage-collection and a domain-specific web-browser for "ALE", a (quite impressive) wide-porting/localization/multi-platform, multi-lingual (C++ and J2ME) API and build system. Created for flip-phones, ALE's build system could notably compile a J2ME program into BREW C++ for any target device known by the system.
 * A responsible part of shipping 5 distinct mobile titles, and many SKUs of each
 <!--- #ifndef redux -->
@@ -306,20 +319,15 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Volunteering
 
-* Computer Science Teachers Association: Silicon Valley CSTA chapter President since Jan. 2018 (Jan. 2017 to Present)
+* Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
 <!--- #ifdef redux -->
-<!--- * Unityversity: nearly weekly classes teaching Unity and VR (Aug. 2016 to Present) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
 <!--- * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017) -->
 <!--- * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012) -->
 <!--- #endif -->
 
 <!--- #ifndef redux -->
-* Unityversity (Aug. 2016 to Present)
-  - nearly weekly meetings, hosted by: Hacker Dojo, Cogswell, Santa Clara Central Park Library
-  - Co-lead Unityversity classes teaching Unity3D and game development
-  - Developed software tools, tutorial content, and documentation
-* Citizen Schools, Joseph George Jr. High, (Feb. to Apr. 2014)
+* Citizen Schools, Joseph George Jr. High (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
 * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013)
   - Assisted a "Global Citizens" class, where students research world issues
