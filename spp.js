@@ -151,9 +151,13 @@ function doTheThing(filename, outputfilename, definesTable, finishedCallback) {
 
 var args = process.argv.slice(2);
 
+if(args.length == 1 && args[0] == "-default"){
+	args = ["RESUME.md", "RESUME_redux.md", "redux"];
+}
 if(args.length <= 0) {
 	console.log("Expected usage:\nnode spp.js <input file> <output file> [preprocessor #define, ...]\n");
-	console.log("Example usage:\nnode spp.js RESUME.md RESUMEi.md redux\n");
+	console.log("Example usage:\nnode spp.js RESUME.md RESUME_redux.md redux");
+	console.log("(as a shortcut to the above, use the -default argument)");
 } else {
 	var inFile = args[0];
 	var outFile = args[1];
