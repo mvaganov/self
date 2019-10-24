@@ -74,9 +74,9 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #endif -->
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to present*) Ranking software developer at a distributed mobile games studio
-* Developed engineering culture and advancement track for engineers, including review process
-* Collaborated with designers to plan product pipeline, including market tests of concepts
-* Vetted and managed external contractors responsible for bulk game development
+* Planned engineering culture and advancement track for engineers, including review process
+* Vetted external contractors responsible for bulk game development
+* Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
 
 #### Faculty at Gamebridge Unityversity
@@ -86,7 +86,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 
 #### Computer Science Teacher at Sacred Heart Prep
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
-* Teach computer science, with curriculum designed to motivate with creativity and computer hacking
+* Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to manage schedule and notification using speech synthesis
 * Wrote Artificial Neural Network from scratch using C# as a learning exercise
