@@ -74,6 +74,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #endif -->
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to present*) Ranking software developer at a distributed mobile games studio
+* Developed proof-of-concept software prototypes with Unity
 * Planned engineering culture and advancement track for engineers, including review process
 * Vetted external contractors responsible for bulk game development
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
