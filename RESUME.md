@@ -64,8 +64,8 @@ Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `    
 LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
 Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvv 
-Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FF 
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v    
+Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFp
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   v
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
