@@ -1,4 +1,4 @@
-##Christianity as a perspective for startup culture
+## Christianity as a perspective for startup culture
 
 Let me remind you what the New Testament is about:
 * Personal sacrifice and servant leadership with the aim of huge long-term gains (sweat equity)
