@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 ### Summary
-Senior level software developer with teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented garbage-collection, socket networking code, and a domain-specific web-browser, on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
@@ -35,7 +35,7 @@ A machine-learning engine built in C# to test an experimental ensemble learning 
 
 The goal is to get many different "brains" (trained Neural Networks) to cooperatively decide choices. This process should include supporting choices with "opinions", which can be used later to better-train brains on similar problems. It’s far from done, I’m still working on backward-feed-propagation to identify "key features", so networks can identify the root causes of their "why" when forming "opinions".
 
-The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"
+The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer open-ended choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"
 
 #### Ethos
 (*Oct. 2016 to Present*)
@@ -63,7 +63,7 @@ Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFF
 Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
 LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvv 
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvv
 Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFp
 (ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   v
 ```
@@ -81,9 +81,10 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Represented company at conferences and industry meetups
 
 #### Faculty at Gamebridge Unityversity
-(*Aug. 2016 to present*) Lead weekly Virtual Reality / Game Development workshops
+(*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
 * Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
+* Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
 
 #### Computer Science Teacher at Sacred Heart Prep
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.

@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM -->
 ### Summary
-Senior level software developer with teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented garbage-collection, socket networking code, and a domain-specific web-browser, on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
@@ -26,9 +26,10 @@ Senior level software developer with teaching and technical mentoring background
 * Represented company at conferences and industry meetups
 
 #### Faculty at Gamebridge Unityversity
-(*Aug. 2016 to present*) Lead weekly Virtual Reality / Game Development workshops
+(*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
 * Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
+* Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
 
 #### Computer Science Teacher at Sacred Heart Prep
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
