@@ -82,7 +82,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 
 #### Faculty at Gamebridge Unityversity
 (*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
-* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA
+* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA (2019)
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
 * Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
 
@@ -323,14 +323,15 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 * Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
 <!--- #ifdef redux -->
+<!--- * FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
 <!--- * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017) -->
 <!--- * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012) -->
 <!--- #endif -->
 
-* FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2019)
-
 <!--- #ifndef redux -->
+* FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020)
+  - Atherton CA Qualifier, June 2020
 * Citizen Schools, Joseph George Jr. High (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
 * Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013)
@@ -356,7 +357,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams, and Hackathons
+* Software Side-projects, Game Jams and Hackathons
 
 <!--- #ifndef redux -->
 #### Personal Programming Axioms

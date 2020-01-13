@@ -1,5 +1,5 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
-<!-- https://goo.gl/b27MsM -->
+<!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
 Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
 
@@ -27,7 +27,7 @@ Senior level software developer with game programming, teaching and technical me
 
 #### Faculty at Gamebridge Unityversity
 (*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
-* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA
+* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA (2019)
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
 * Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
 
@@ -104,6 +104,7 @@ Senior level software developer with game programming, teaching and technical me
 #### Volunteering
 
 * Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
+* FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
 * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)
 * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012)
@@ -114,7 +115,7 @@ Senior level software developer with game programming, teaching and technical me
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams, and Hackathons
+* Software Side-projects, Game Jams and Hackathons
 
 
 
