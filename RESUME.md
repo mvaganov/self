@@ -1,5 +1,5 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
-<!-- https://goo.gl/b27MsM -->
+<!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
 Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
 
@@ -57,15 +57,15 @@ Notably includes a custom JSON parser with potent serialization/deserialization 
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
-_______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
-Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     
-Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     
-Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
-LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
-Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvv
-Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFp
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   v
+_______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  2020
+Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     
+Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     
+Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     
+LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     
+Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvv     
+Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFpp     
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
@@ -327,6 +327,8 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017) -->
 <!--- * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012) -->
 <!--- #endif -->
+
+* FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2019)
 
 <!--- #ifndef redux -->
 * Citizen Schools, Joseph George Jr. High (Feb. to Apr. 2014)
