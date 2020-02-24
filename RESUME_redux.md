@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects. 4 years teaching CS K-12, primarily at the High School level. 5 years Teaching Unity 3D game/VR development. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4 years teaching CS K-12, primarily High School. 5 years Teaching Unity 3D game/VR development. 1 year technical management at a startup. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant
@@ -20,10 +20,15 @@ Senior level software developer with game programming, teaching and technical me
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to present*) Ranking software developer at a distributed mobile games studio
 * Developed proof-of-concept software prototypes with Unity
-* Planned engineering culture and advancement track for engineers, including review process
+* Planned [engineering culture and advancement track for engineers](https://docs.google.com/presentation/d/1mCDm1fkvAA9iSGsRERUd-WOh-Ku6_mEYOUnahgDsBvw/edit?usp=sharing), including [review process](https://airtable.com/invite/l?inviteId=invdZGBe3UaRfOMOk&inviteToken=160e3e21831a9b9182c6779170359219c3af34d3641fc4090cff28d0a33aa43c)
 * Vetted external contractors responsible for bulk game development
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
+
+#### Futurist and Code Coach at Applied Computing Foundation
+(*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards)
+* Part of executive committee, giving feedback on process and guidance on future initiatives 
+* Teaching Virtual Reality & Game Development class using Unity
 
 #### Faculty at Gamebridge Unityversity
 (*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
@@ -35,7 +40,7 @@ Senior level software developer with game programming, teaching and technical me
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
-* Wrote software used to manage schedule and notification using speech synthesis
+* Wrote software used to notify complex class schedule using speech synthesis using speech synthesis
 * Wrote Artificial Neural Network from scratch using C# as a learning exercise
 
 
