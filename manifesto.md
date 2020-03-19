@@ -1,6 +1,6 @@
 <img src="http://www.codegiraffe.com/calcpersecond.png" height = 500>
 
-# Big Brain Thoughts with Michael V
+# Michael's Vision
 
 I want to prepare people for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png). [I've done that as a Computer Science teacher](whylearncs.md) for many years, and [I keep finding great opportunities to do it](https://www.applied-computing.org/). I want to help break cycles of addiction in young gamers, which is an immidiate demographic problem. I also want to develop intelligence-multiplying software, like accessible automation, tools for design/development, self-organization/participatory-governance, and benevolent AI that guides humans to achieve human goals. I have a succession of specific software projects in mind.
 
