@@ -28,7 +28,11 @@ Humans who know-how-to-use-computers-to-multiply-effort will seem like another c
 
 The system identifies tasks, directs users to tools and resources with visual/auditory/haptic cues, educates users with tutorials in Augmented Reality space, logs the completion of tasks, and coordinates great acts done by many people doing small deeds. Tutorials will eventually be created in real-time by neural-networks, to match specific real-life conditions, after enough human-made tutorials can be data-mined.
 
-Step-by-step-instructions, will be given to anyone who doesn't know what to do next. Imagine not knowing how to bake a cake (or even knowing that now is a good time to bake a cake), but your glasses recognize the kitchen you are in, and talk you through the process, and even guide you to where to put the cake when you're done. Impetus AR will be like some of the tools used by wizards to educate quickly, but they will be more consumable by people without strong computer skills or disciplined technical drive. They will probably be used to direct people too, in ways that the developer tools won't. Impetus AR is primarily an interface with users consumers who don't have the direction to be creators. The organization of who-does-what-task with-what-resources will be organized by another system. 
+Step-by-step-instructions, will be given to anyone who doesn't know what to do next. Imagine not knowing how to bake a cake (or even knowing that now is a good time to bake a cake), but your glasses recognize the kitchen you are in, and talk you through the process, and even guide you to where to put the cake when you're done.
+
+Impetus AR will be like some of the tools used by wizards to educate quickly, but more consumable by people without strong computer skills or disciplined technical drive. Impetus AR is primarily an interface with users as consumers, who don't have the personal intention to be creators. Impetus AR would direct people, nullifying some human autonomy, in ways that the developer tools won't. A lot of people will be OK with this, because a lot of people don't like thinking for themselves. This means that the drive to be creative at all will become a differentiating factor in productivity. Being a wizard will hinge in the strength-of-will to create.
+
+The organization of who-does-what-task with-what-resources will be organized by another system. 
 
 ### Who or what will do the organizing?
 
