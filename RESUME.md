@@ -87,7 +87,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Teaching Virtual Reality & Game Development class using Unity
 
 #### Faculty at Gamebridge Unityversity
-(*Aug. 2016 to present*) Lead weekly Virtual Reality & Game Development workshops
+(*Aug. 2016 to Mar. 2020*) Lead weekly Virtual Reality & Game Development workshops
 * Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA (2019)
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
 * Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
@@ -336,11 +336,14 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- #endif -->
 
 <!--- #ifndef redux -->
+* Gunn Highschool Computer Science Capstone (Jan. & Feb. 2021)
+  - Taught C# command line game programming and Unity to about 30 students
+  - co-teacher with Josh Paley
 * FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020)
-  - Atherton CA Qualifier, June 2020
+  - Atherton CA Qualifier
 * Citizen Schools, Joseph George Jr. High (Feb. to Apr. 2014)
   - Co-lead "Computer Animation", students learned programming with Scratch
-* Citizen Schools, Robert McNair Jr. High, (Oct. & Nov 2013)
+* Citizen Schools, Robert McNair Jr. High, (Oct. & Nov. 2013)
   - Assisted a "Global Citizens" class, where students research world issues
 * Coder Dojo Silicon Valley (Sep. 2013 to 2017)
   - Teaching Computer Science to kids 10+
