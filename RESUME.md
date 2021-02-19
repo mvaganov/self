@@ -65,7 +65,7 @@ LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `    
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     
 Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvv     
 Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    
-Applied Computing Foundation     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `p    
+Applied Computing Foundation     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `pppppp
 moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `FFFFFF
 (ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv     
 ```
