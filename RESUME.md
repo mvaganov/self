@@ -1,12 +1,12 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4 years teaching CS K-12, primarily High School. 5 years Teaching Unity 3D game/VR development. 1 year technical management at a startup. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, and a domain-specific web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4 years teaching CS K-12, primarily High School. 5 years Teaching Unity 3D game/VR development. 1 year technical management at a startup. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
-* **20+ years Programming**: hobbyist, game programmer, educator, consultant
+* **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity, automation, UI/UX, client/server, VR, Web, ANN<!--- #ifndef redux -->
+* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, VR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D modelling (Blender), 2D (Photoshop/GIMP), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -16,14 +16,14 @@ Senior level software developer with game programming, teaching and technical me
 * Web: HTML5 + CSS + JavaScript, Angular
 
 ### Teaching<!--- #endif -->
-* **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher<!--- #ifndef redux -->
+* **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science and tech oriented project based learning
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
-* 3+ years tutoring, at The Coder School, and while in college.
+* 3+ years tutoring, at The Coder School, at Applied Computing Foundation, and while in college.
 <!--- #endif -->
 ## Portfolio
-* Projects: http://www.codegiraffe.com/portfolio/
 * Code Samples: https://github.com/mvaganov/
+* Personal Website: http://www.codegiraffe.com/portfolio/
 
 <!--- #ifndef redux -->
 <!--
@@ -58,38 +58,45 @@ Notably includes a custom JSON parser with potent serialization/deserialization 
 ### Employment + Education Timeline
 ```
 _______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  2020  2021
-Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     
-Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     
-Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     
-LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     
-Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvv     
-Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    
-Applied Computing Foundation     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `pppppp
-moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFF
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv     
+Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     `     
+Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     `     
+Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
+LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     `     
+Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     `     
+Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    `     
+moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFF     
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvpppppp     
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv    vv     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
 <!--- #ifndef redux -->
 ### Employment Details
 <!--- #endif -->
+#### Senior Software Engineer at Moback
+(*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
+* Developed augmented reality (AR) software prototypes using C#, C, C++, and Python
+* Developed realtime simulation serving data to varied software clients using sockets
+* Wrote Teensy (Arduino-related) micro controller code for novel prototype hardware
+* Managed tasks, mentored an worked with junior engineers, found key hires, vetted new hires in technical interviews
+* Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
+
 #### Director of Engineering at Lightside Games
-(*Jun. 2019 to present*) Ranking software developer at a distributed mobile games studio
+(*Jun. 2019 to Apr. 2020*) Ranking software developer at a distributed mobile games studio
 * Developed proof-of-concept software prototypes with Unity
 * Planned [engineering culture and advancement track for engineers](https://docs.google.com/presentation/d/1mCDm1fkvAA9iSGsRERUd-WOh-Ku6_mEYOUnahgDsBvw/edit?usp=sharing), including [review process](https://airtable.com/invite/l?inviteId=invdZGBe3UaRfOMOk&inviteToken=160e3e21831a9b9182c6779170359219c3af34d3641fc4090cff28d0a33aa43c)
 * Vetted external contractors responsible for bulk game development
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
 
-#### Futurist and Code Coach at Applied Computing Foundation
-(*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards)
+#### Chief Educator, Futurist, and Code Coach at Applied Computing Foundation
+(*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards!)
 * Part of executive committee, giving feedback on process and guidance on future initiatives 
-* Teaching Virtual Reality & Game Development class using Unity
+* Teaching Virtual Reality, Game Development, and Entrepreneurship classes
 
 #### Faculty at Gamebridge Unityversity
 (*Aug. 2016 to Mar. 2020*) Lead weekly Virtual Reality & Game Development workshops
-* Responsible for Unityversity's Santa Clara Central Park Library location in Santa Clara, CA (2019)
+* Responsible for Unityversity's Santa Clara Central Park Library classes in Santa Clara, CA (2019)
 * Improvisational tutorials about: programming, game design, software development, math, 3D modelling, digital art, other tech.
 * Taught throughout the California Bay Area (USA), and Seoul (South Korea, Nov 2019)
 
@@ -98,7 +105,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
 * Wrote software used to notify complex class schedule using speech synthesis using speech synthesis
-* Wrote Artificial Neural Network from scratch using C# as a learning exercise
+* Wrote Artificial Neural Network from scratch using Python, then again C#, as a learning exercise
 
 <!--- #ifndef redux -->
 Sacred Heart Courses Taught:
@@ -249,7 +256,7 @@ LimeLife Mobile Titles List:
 * Senior-level engineer: product development, framework, R&D, client/server
 * Implemented and debugged multiple proprietary asynchronous client/server products
 * Conceived and implemented original scriptable UI engines for mobile and created associated compilers and virtual machines
-* Lead development of a social-media photo-blogging application that was shelved by management
+* Lead development of a social-media photo-blogging application
 * Created a client/server test app used for system testing and engineer training
 * A responsible part of shipping 5 distinct mobile applications, and many SKUs of each<!--- #ifndef redux -->
 * Trained engineers in proprietary BREW and J2ME technologies
@@ -265,7 +272,7 @@ LimeLife Mobile Titles List:
 * Client side QA developer, primarily tasked with porting and bug fixing
 * Identified as a 'BREW expert' by technical management, 6 months after learning BREW
 * A responsible part of shipping 5 "For Prizes" mobile titles, and 30+ SKUs of each <!--- #ifndef redux -->
-* Prototyped a functional BREW UI engine.
+* Prototyped a functional BREW UI engine
 
 Porting Experience With The Following Phones (not all phones listed):
 * BREW - Audiovox (CDM 8910, CDM 8940, CDM 8600, CDM 8900), Kyocera (KX1, KX2, KX444, SE47), LG (VX4400, VX4500, VX4600, VX4700, VX6000, VX6100, VX7000, VX8000, VX8100, VX8500, VX10000), Motorola (V65, V260, V265, T720, C343, V710, V262, E815, V3, K1), Samsung (N330, A610, A790, A650, U740).
