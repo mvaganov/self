@@ -1,12 +1,12 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8 years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4 years teaching CS K-12, primarily High School. 5 years Teaching Unity 3D game/VR development. 1 year technical management at a startup. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. 2+ years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, VR, Web, ANN<!--- #ifndef redux -->
+* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D modelling (Blender), 2D (Photoshop/GIMP), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -75,10 +75,10 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #endif -->
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
-* Developed augmented reality (AR) software prototypes using C#, C, C++, and Python
-* Developed realtime simulation serving data to varied software clients using sockets
+* Developed Augmented Reality (AR) software prototypes using C#, C, C++, and Python
+* Developed realtime simulation serving data to varied software and hardware clients using sockets
 * Wrote Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Managed tasks, mentored an worked with junior engineers, found key hires, vetted new hires in technical interviews
+* Managed tasks, mentored and worked with junior engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
