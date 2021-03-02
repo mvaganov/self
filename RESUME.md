@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. 2+ years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. About 2 years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
