@@ -2,7 +2,7 @@
 
 # Michael's Vision
 
-I want to prepare people for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png). [I've done that as a Computer Science teacher](whylearncs.md) for many years, and [I keep finding great opportunities to do it](https://www.applied-computing.org/). I want to help break cycles of addiction in young gamers, which is an immidiate demographic problem. I also want to develop intelligence-multiplying software, like accessible automation, tools for design/development, self-organization/participatory-governance, and benevolent AI that guides humans to achieve human goals. I have a succession of specific software projects in mind.
+I want to prepare people for [dramatically-powerful-computer-technology-in-the-near-future](http://www.codegiraffe.com/singularity.png). [I've done that as a dedicated Computer Science teacher](whylearncs.md) for many years, and [I keep finding great opportunities to do it](https://www.applied-computing.org/) even as a full time software engineer. I also want to help break cycles of addiction in young gamers, which is an immidiate demographic problem. I also want to develop intelligence-multiplying software, like accessible automation, tools for analysis of human problems, design tools to reduce engineering burden, self-organization/participatory-governance, and benevolent AI that guides humans to achieve human goals. I have a succession of specific software projects in mind.
 
 ### Why did I teach software development for so long?
 
@@ -91,12 +91,9 @@ I want to see these tools happen. Not having these tools in the near future seem
 
 ### Code Resources for Teaching & My Dragon
   * [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets) - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
-    * Lines, Timer, ContingencyTrigger, CubeTools (3D math library)
+    * Lines, Timer, Proc, CubeTools (3D math library)
     * CmdLine - a true command-line terminal replacement within Unity, including TTY color and position adjustment (TODO)
-    * ControlledRigidbody (ground, air, space, novel-gravity controls), GravityObject, AIController
-    * VR controller (teleport, climb-to-move, waddle-move... VRTK doing all of this?)
     * OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
-    * MemoryPool
     * Noisy - re-doing PhysSound. Would be nice to get VoiceSynthesis in here too
     * "Story" Dialog system / scripted sequenced UI system
     * reflective object UI generator
@@ -119,7 +116,7 @@ I want to see these tools happen. Not having these tools in the near future seem
 * VR controls
   * more experimentation required, need to integrate into movement/control UI. need to bone-up on VR UI standards, or find an expert. Maybe VRTK 4.0 will solve this?
 * scripting system
-  * need to make imperative code in OMU more java-script like.
+  * need to make imperative code in OMU more java-script like, and light enough to dissuade programming. the script should be declarative, and use functional patterns if scripting is needed
 * Project & Task system
   * use the scripted JSON-like datastructures (OMU) as the base. Already have examples of this working.
 * Personnel & Resource system
