@@ -76,10 +76,10 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
 * Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
-* Created illusions of objects using Oculus VR, and novel multimedia devices including custom LED arrays, speakers, and haptics
-* Developed realtime simulation serving data to software and hardware clients using sockets, including Maya and Blender
+* Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
+* Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
 * Wrote many iterations of Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Technical Project Management: Managed tasks, mentored engineers, found key hires, vetted new hires in technical interviews
+* Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
@@ -105,7 +105,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
-* Wrote software used to notify complex class schedule using speech synthesis using speech synthesis
+* Wrote software used to notify complex class schedule using speech synthesis
 * Wrote Artificial Neural Network from scratch using Python, then again C#, as a learning exercise
 
 <!--- #ifndef redux -->
@@ -338,7 +338,8 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 * Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
 <!--- #ifdef redux -->
-<!--- * FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020) -->
+<!--- * Applied Computing Foundation: teacher, organizational leader (Apr. 2020 to present) -->
+<!--- * FIRST Robotics: FTA (Field Technical Advisor) certified (Jan. 2020) -->
 <!--- * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013) -->
 <!--- * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017) -->
 <!--- * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012) -->

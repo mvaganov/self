@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. About 2 years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a domain-specific web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. About 2 years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
@@ -19,10 +19,11 @@ Senior level software developer with game programming, teaching and technical me
 
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
-* Developed Augmented Reality (AR) software prototypes using C#, C, C++, and Python
-* Developed realtime simulation serving data to varied software and hardware clients using sockets
-* Wrote Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Managed tasks, mentored and worked with junior engineers, found key hires, vetted new hires in technical interviews
+* Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
+* Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
+* Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
+* Wrote many iterations of Teensy (Arduino-related) micro controller code for novel prototype hardware
+* Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
@@ -48,7 +49,7 @@ Senior level software developer with game programming, teaching and technical me
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
-* Wrote software used to notify complex class schedule using speech synthesis using speech synthesis
+* Wrote software used to notify complex class schedule using speech synthesis
 * Wrote Artificial Neural Network from scratch using Python, then again C#, as a learning exercise
 
 
@@ -117,7 +118,8 @@ Senior level software developer with game programming, teaching and technical me
 #### Volunteering
 
 * Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
-* FIRST Robotics, FTA (Field Technical Advisor) certified (Jan. 2020)
+* Applied Computing Foundation: teacher, organizational leader (Apr. 2020 to present)
+* FIRST Robotics: FTA (Field Technical Advisor) certified (Jan. 2020)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)
 * Coder Dojo Silicon Valley: conference-style tech meetups for kids (Sep. 2013 to 2017)
 * Guest Lecturer at various universities in Uganda (Oct. & Nov. 2012)
