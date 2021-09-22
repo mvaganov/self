@@ -75,10 +75,11 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #endif -->
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
-* Developed Augmented Reality (AR) software prototypes using C#, C, C++, and Python
-* Developed realtime simulation serving data to varied software and hardware clients using sockets
-* Wrote Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Managed tasks, mentored and worked with junior engineers, found key hires, vetted new hires in technical interviews
+* Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
+* Created illusions of objects using Oculus VR, and novel multimedia devices including custom LED arrays, speakers, and haptics
+* Developed realtime simulation serving data to software and hardware clients using sockets, including Maya and Blender
+* Wrote many iterations of Teensy (Arduino-related) micro controller code for novel prototype hardware
+* Technical Project Management: Managed tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
