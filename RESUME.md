@@ -79,7 +79,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
 * Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
 * Wrote many iterations of Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
+* Technical Project Manager: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
