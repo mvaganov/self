@@ -1,12 +1,12 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 5+ years Teaching Unity 3D game/VR development. About 2 years technical management at small companies. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking code, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 6+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR, Web, ANN<!--- #ifndef redux -->
+* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR, Web, ANN<!--- #ifndef redux -->
 * Rapid Prototyping: Unity, JavaScript, PowerPoint, Excel, Pen+Paper+Dice
 * Graphics: 3D modelling (Blender), 2D (Photoshop/GIMP), procedural (assets from code)
 * Simulations: 2D and 3D math, real-time systems (single / multi threaded)
@@ -78,9 +78,9 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
 * Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
 * Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
-* Wrote many iterations of Teensy (Arduino-related) micro controller code for novel prototype hardware
-* Technical Project Manager: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
-* Collaborated with fortune 500 company client to design science-fiction-like augmented reality tools
+* Wrote many iterations of Teensy micro controller app for novel hardware, including memory management & realtime communication
+* Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
+* Collaborated with fortune 500 company client to cast vision and design science-fiction-like augmented reality tools
 
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to Apr. 2020*) Ranking software developer at a distributed mobile games studio
