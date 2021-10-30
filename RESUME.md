@@ -25,34 +25,6 @@ Senior level software developer with game programming, teaching and technical me
 * Code Samples: https://github.com/mvaganov/
 * Personal Website: http://www.codegiraffe.com/portfolio/
 
-<!--- #ifndef redux -->
-<!--
-### Notable Personal Software Projects
-
-#### Suffrag Ex Machina
-(*Oct. 2018 to Present*)
-A machine-learning engine built in C# to test an experimental ensemble learning technique (elects using ranked-choice voting). Independent study, built from scratch as a learning exercise, inspired by a former student. Notably includes optimized-matrix-math and "secret sauce" training optimizations which reduce training time for equivalent accuracy.
-
-The goal is to get many different "brains" (trained Neural Networks) to cooperatively decide choices. This process should include supporting choices with "opinions", which can be used later to better-train brains on similar problems. It’s far from done, I’m still working on backward-feed-propagation to identify "key features", so networks can identify the root causes of their "why" when forming "opinions".
-
-The long-term goal is to build a decision-making platform where humans and machines can cooperatively answer open-ended choice-questions, with a system that focuses on evidence; questions like: "What dinner should we eat?", "Who’s the best candidate?", "What do we do with climate change?"
-
-#### Ethos
-(*Oct. 2016 to Present*)
-A [prototype for a web-based assessment system](http://codegiraffe.com/qeval/qual.html) designed to provoke personality development. Still evolving, based on years of personal reflection, religious study, and leadership. Uses peer-review as the final evaluation mechanism. Open-sourced. Written in JavaScript.
-
-Originally intended for school use, as an alternative to the A-F grades system, it might have some value in the management space. It could be used as a part of a performance review, or employee management using personality metrics.
-
-This model might also have value as a contributor to developing ethics for artificial intelligence, which would dovetail into Suffrag Ex Machina.
-
-#### Impetus
-(*Mar. 2006 to Present*)
-An experimental suite of tools and prototypes to build a-game-about-Project-Management. This project is a key manifestation from [my own personal vision of the future](https://github.com/mvaganov/self/blob/master/manifesto.md). I also call this "my dragon".
-
-This project started as a mixture of my love of game-development and the project-management degree courses which I was taking in 2006. The simple idea is to build a project-management automation tool. More specifically, its an agent-based-model as a real-time-strategy game, infused with project-management tools, and used as training software to help disenfranchised-gamer-youth-culture organize itself into something more productive.
-
-Notably includes a custom JSON parser with potent serialization/deserialization capabilities, animated data visualizations, AI using Behavior Trees, various gameplay prototypes, and a library of specialized API tools. Will be open-sourced eventually. Originally written in C and C++, now in (Unity) C#.--><!--- #endif -->
-
 ## Employment History
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
@@ -73,14 +45,16 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #ifndef redux -->
 ### Employment Details
 <!--- #endif -->
+
 #### Senior Software Engineer at Moback
-(*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
+(*Apr. 2020 to Nov. 2021*) Member of a mercenary guild of elite robotics/VR/AR developers
 * Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
 * Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
 * Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
 * Wrote many iterations of Teensy micro controller app for novel hardware, including memory management & realtime communication
 * Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to cast vision and design science-fiction-like augmented reality tools
+<!-- 226 Airport Parkway STE 320, San Jose, CA 95110. Devkumar Ghandi, CEO, 5one0-56five-6six7two -->
 
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to Apr. 2020*) Ranking software developer at a distributed mobile games studio
@@ -89,6 +63,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Vetted external contractors responsible for bulk game development
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
+<!-- 1250 CAPITAL OF TEXAS HIGHWAY SOUTH, BUILDING 3, AUSTIN, TX, 78746. Alain Ayoub, CEO while I worked there -->
 
 #### Chief Educator, Futurist, and Code Coach at Applied Computing Foundation
 (*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards!)
@@ -116,7 +91,7 @@ Sacred Heart Courses Taught:
 * Programming - Python lab and algorithms course
 * Building Virtual Worlds - Unity 3D and Oculus Rift, create & present Virtual Reality experiences
 * Creative Inquiry - student-directed extra-curricular study, supported and graded by faculty
-<!-- 150 Valparaiso Ave, Atherton, 94027, HR: Kathy Tuccio, (650)454-8489 -->
+<!-- 150 Valparaiso Ave, Atherton, 94027, HR: Kathy Tuccio, (65oh)4five4-8four89 -->
 <!--- #endif -->
 
 #### Code Coach at theCoderSchool 
@@ -376,7 +351,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams and Hackathons
+* [Software Side-projects](inventionslist.md), Game Jams and Hackathons
 
 <!--- #ifndef redux -->
 #### Personal Programming Axioms
@@ -408,4 +383,5 @@ Infospace Mobile / Atlas Mobile Titles List:
 * more at: http://codegiraffe.com/quotes.txt
 <!--- #endif -->
 
+<!-- Find this resume PDF at https://tinyurl.com/resumeMvaganov -->
 <!-- See https://tinyurl.com/mvGitRes for more detailed resume -->
