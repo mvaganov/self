@@ -2,9 +2,9 @@
 
 The purpose of this document is to strictly identify what software projects I (Michael Vaganov) am working on "during my own time" with "my own resources", which cannot be claimed by employers or any other party. This document is meant to be a summary, with additional documentation and exhibits available upon request.
 
-The purpose of this document is NOT to discourage others, including my employers, from developing these projects themselves. I would like to encourage others to solve the same problems I'm working on, and would work on solutions like these with others, including my employer. This document is establishing prior art, so that my projects will not be claimed as belonging to others. I do not want to be prevented from working on my own projects in the future because of claimed intellectual property infringement.
+The purpose of this document is NOT to discourage others, including my employers, from developing these projects themselves. I would like to encourage others to solve the same problems I'm working on. I even want to work on solutions like these with others, including my employer. This document is establishing prior art, so that my projects will not be claimed as belonging to others. **I do not want to be prevented from working on my own projects in the future because of claimed intellectual property infringement.**
 
-Furthermore, as the sole developer of these projects and concepts, I explicitly release copyright and patent claims to these ideas into the public domain. I will maitain copyright of private source code and algorithms.
+Furthermore, as the sole developer of these projects and concepts, I explicitly release copyright and patent claims to these ideas into the public domain. I will maitain copyright of private source code.
 <hr>
 
 ## Suffrag Ex Machina
