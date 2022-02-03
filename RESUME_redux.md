@@ -6,25 +6,31 @@ Senior level software developer with game programming, teaching and technical me
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
-* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR, Web, ANN
+* Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR 
 * **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach
 ## Portfolio
 * Code Samples: https://github.com/mvaganov/
 * Personal Website: http://www.codegiraffe.com/portfolio/
 
-
-
 ## Employment History
 
 
+
+#### XR People Experiences Gameplay Engineer at Meta, Contingient Worker via Crystal Equation
+(*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
+* Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
+* Created user interface tools in virtual reality for on-device debugging of networking systems
+* Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
+
 #### Senior Software Engineer at Moback
-(*Apr. 2020 to present*) Member of a mercenary guild of elite robotics/VR/AR developers
+(*Apr. 2020 to Nov. 2021*) Member of a mercenary guild of elite robotics/VR/AR developers
 * Developed Augmented Reality (AR) software prototypes using Unity, C#, C, C++, and Python
 * Created compelling illusions that exist in Oculus VR, and custom multimedia devices including LED arrays, speakers, and haptics
 * Developed realtime simulation serving data to hardware and software clients, including Maya and Blender, using sockets
 * Wrote many iterations of Teensy micro controller app for novel hardware, including memory management & realtime communication
 * Technical Project Management: defined tasks, mentored engineers, found key hires, vetted new hires in technical interviews
 * Collaborated with fortune 500 company client to cast vision and design science-fiction-like augmented reality tools
+<!-- 226 Airport Parkway STE 320, San Jose, CA 95110. Devkumar Ghandi, CEO, 5one0-56five-6six7two -->
 
 #### Director of Engineering at Lightside Games
 (*Jun. 2019 to Apr. 2020*) Ranking software developer at a distributed mobile games studio
@@ -33,6 +39,7 @@ Senior level software developer with game programming, teaching and technical me
 * Vetted external contractors responsible for bulk game development
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
+<!-- 1250 CAPITAL OF TEXAS HIGHWAY SOUTH, BUILDING 3, AUSTIN, TX, 78746. Alain Ayoub, CEO while I worked there -->
 
 #### Chief Educator, Futurist, and Code Coach at Applied Computing Foundation
 (*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards!)
@@ -130,8 +137,9 @@ Senior level software developer with game programming, teaching and technical me
 
 #### Hobbies
 * Hiking, Biking, Rock Climbing, Fencing
-* Software Side-projects, Game Jams and Hackathons
+* [Software Side-projects](inventionslist.md), Game Jams and Hackathons
 
 
 
+<!-- Find this resume PDF at https://tinyurl.com/resumeMvaganov -->
 <!-- See https://tinyurl.com/mvGitRes for more detailed resume -->
