@@ -29,17 +29,17 @@ Senior level software developer with game programming, teaching and technical me
 <!--- #ifndef redux -->
 ### Employment + Education Timeline
 ```
-_______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  2020  2021  2022
-Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     `     `     
-Teaching @DeVry`     ` ppppppppppppppp `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     `     `     
-Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
-LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     `     `     
-Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     `     `     
-Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    `     `     
-moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFFFFFF `     
-Crystal Equation (Meta)    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `    FFF    
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvppppppppppppp    
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv    vv vvvv`     
+_______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  2020  2021  2022  2023  
+Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     `     `     `     
+Teaching @DeVry`     ` ppppppppppppppv `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     `     `     `     
+Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
+LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
+Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     `     `     `     
+Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    `     `     `     
+Moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFFFFFF `     `     
+Meta Platforms `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `    FFFFFF `     
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvppppvpppvpvpvvvv `     
+(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv    vv vvvv`vvvv `     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
@@ -47,8 +47,9 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 ### Employment Details
 <!--- #endif -->
 
-#### XR People Experiences Gameplay Engineer at Meta, Contingient Worker via Crystal Equation
+#### XR People Experiences Gameplay Engineer at Meta
 (*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
+* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee May 2022
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created user interface tools in virtual reality for on-device debugging of networking systems
 * Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
@@ -105,7 +106,7 @@ Sacred Heart Courses Taught:
 (*Sep. 2014 to Aug. 2015*) Elite Computer Science education for youth (between age 7 and 17) in the Silicon Valley.
 
 * Custom-built tutorials for: Unity, C#, C and C++, Java, Blender, 2D/3D math, Game Design, Project Management
-<!--- 3441 Alma Street, Ste 150, Palo Alto (650)433-1908 HR: Hansel Lynn -->
+<!--- 3441 Alma Street, Ste 150, Palo Alto (650)4three3-1908 HR: Hansel Lynn -->
 
 #### Self Employed Programmer, Entrepreneur
 (*Dec. 2012 to Present*) Personal moonshot, and consulting services including prototyping and technical planning.
@@ -197,7 +198,7 @@ DeVry Courses Taught:
   - Management of multiple student-driven game development teams
 * Online Teaching Experience
   - Equivalents of on-campus courses: GSP115, GSP125, GSP295, GSP360, GSP490
-  - Threaded discussions, video conferencing, and YouTube
+  - Threaded discussions, video conferencing, and YouTube lectures
   - Mandated course content, using eCollege, supplemented with custom content
 * GSP1337 - Extra-curricular volunteer game development courses
   - Un-scheduled, done during vacation, content in response to student needs
