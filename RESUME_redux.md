@@ -16,10 +16,12 @@ Senior level software developer with game programming, teaching and technical me
 
 
 
-#### XR People Experiences Gameplay Engineer at Meta, Contingient Worker via Crystal Equation
+#### XR People Experiences Gameplay Engineer at Meta
 (*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
+* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee May 2022
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created user interface tools in virtual reality for on-device debugging of networking systems
+* Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
 * Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 
 #### Senior Software Engineer at Moback

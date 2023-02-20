@@ -37,8 +37,8 @@ LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `    
 Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     `     `     `     
 Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    `     `     `     
 Moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFFFFFF `     `     
-Meta Platforms `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `    FFFFFF `     
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvppppvpppvpvpvvvv `     
+Meta Platforms `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `    FFFFFFFFF    
+Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvppppvpppvpvpvvvvvvv    
 (ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv    vv vvvv`vvvv `     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
@@ -52,6 +52,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee May 2022
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created user interface tools in virtual reality for on-device debugging of networking systems
+* Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
 * Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 
 #### Senior Software Engineer at Moback
