@@ -7,7 +7,7 @@ Senior level software developer with game programming, teaching and technical me
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
 * Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR 
-* **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach
+* **20 years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach
 ## Portfolio
 * Code Samples: https://github.com/mvaganov/
 * Personal Website: http://www.codegiraffe.com/portfolio/
@@ -16,12 +16,13 @@ Senior level software developer with game programming, teaching and technical me
 
 
 
-#### XR People Experiences Gameplay Engineer at Meta
+#### Software Engineer at Meta
 (*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
-* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee May 2022
+* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created user interface tools in virtual reality for on-device debugging of networking systems
 * Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
+* Implemented public SDK samples for Meta's (XR) Movement SDK
 * Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 
 #### Senior Software Engineer at Moback
@@ -126,7 +127,7 @@ Senior level software developer with game programming, teaching and technical me
 
 #### Volunteering
 
-* Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
+* Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to 2020, President: Jan. 2018 to Sep. 2019)
 * Applied Computing Foundation: teacher, organizational leader (Apr. 2020 to present)
 * FIRST Robotics: FTA (Field Technical Advisor) certified (Jan. 2020)
 * Citizen Schools: public school outreach (Feb. to Apr. 2014, Oct. & Nov 2013)

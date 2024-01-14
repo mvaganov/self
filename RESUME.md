@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 6+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
+Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 6+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
@@ -16,10 +16,10 @@ Senior level software developer with game programming, teaching and technical me
 * Web: HTML5 + CSS + JavaScript, Angular
 
 ### Teaching<!--- #endif -->
-* **15+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
+* **20 years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science and tech oriented project based learning
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
-* 3+ years tutoring, at The Coder School, at Applied Computing Foundation, and while in college.
+* 7+ years tutoring/mentoring, at The Coder School, at Applied Computing Foundation, and college.
 <!--- #endif -->
 ## Portfolio
 * Code Samples: https://github.com/mvaganov/
@@ -27,19 +27,25 @@ Senior level software developer with game programming, teaching and technical me
 
 ## Employment History
 <!--- #ifndef redux -->
-### Employment + Education Timeline
+### Pre-COVID Employment + Education Timeline
 ```
-_______________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  2020  2021  2022  2023  
-Student        `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     `     `     `     `     
-Teaching @DeVry`     ` ppppppppppppppv `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     `     `     `     `     
-Atlas/Infospace`     `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
-LimeLife       `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     
-Sacred Heart Prep    `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   `     `     `     `     
-Lightside Games`     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFppF    `     `     `     
-Moback         `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     ` FFFFFFFFF `     `     
-Meta Platforms `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `    FFFFFFFFF    
-Other Teaching `     `     `     `     `     `     `     `     `     `     `  vvv` vvpv`  vvvvvvppppppp  `vvvvvvvvvvvvvv vvvvvvvvvppppvpppvpvpvvvvvvv    
-(ask me about "my dragon") `     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v   vv    vv vvvv`vvvv `     
+_____________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
+Student      `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `   
+Teaching @DeVry    ` ppppppppppppppv `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `   
+Atlas/Infospace    `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `   
+LimeLife     `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `   
+Sacred Heart Prep  `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF 
+Lightside Games    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  F
+(ask me about "my dragon")     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v  
+```
+
+### Contemporary Employment Timeline
+```
+_______________2020  2021  2022  2023  2024  
+Moback         ` FFFFFFFFF `     `     `     
+Meta Platforms `     `    FFFFFFFFFFFFFFF    
+ ACF           vppppvpppvpvpvvvvvvvvvvvvv    
+("my dragon")  v    vv vvvv`vvvv `     `     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
@@ -47,12 +53,13 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 ### Employment Details
 <!--- #endif -->
 
-#### XR People Experiences Gameplay Engineer at Meta
+#### Software Engineer at Meta
 (*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
-* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee May 2022
+* Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created user interface tools in virtual reality for on-device debugging of networking systems
 * Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
+* Implemented public SDK samples for Meta's (XR) Movement SDK
 * Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 
 #### Senior Software Engineer at Moback
@@ -120,6 +127,7 @@ Sacred Heart Courses Taught:
   - Developed Node.js server backend (using Heroku) for Mechamagizmo's "Hangries"
   - Developed OOP courses for DeVry's national GSP program
   - Developed high-level curriculum strategy for DeVry's national GSP program
+  - Vetted engineering hiring process and technical management at Chefee
 <!--- #endif -->
 
 #### Professor at DeVry University (Silicon Valley Campuses)
@@ -320,7 +328,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 
 #### Volunteering
 
-* Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to present, President: Jan. 2018 to Sep. 2019)
+* Computer Science Teachers Association, Silicon Valley CSTA chapter (Member: Jan. 2017 to 2020, President: Jan. 2018 to Sep. 2019)
 <!--- #ifdef redux -->
 <!--- * Applied Computing Foundation: teacher, organizational leader (Apr. 2020 to present) -->
 <!--- * FIRST Robotics: FTA (Field Technical Advisor) certified (Jan. 2020) -->
