@@ -92,40 +92,44 @@ I want to see these tools happen. Not having these tools in the near future seem
 (This is essentially a public TODO list, most people reading the manifesto can stop here. Even me, this list is out of date. TODO: update this list)
 
 ### Code Resources for Teaching & My Dragon
-  * [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets) - a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
-    * Lines, Timer, Proc, CubeTools (3D math library)
-    * CmdLine - a true command-line terminal replacement within Unity, including TTY color and position adjustment (TODO)
-    * OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)
-    * Noisy - re-doing PhysSound. Would be nice to get VoiceSynthesis in here too
-    * "Story" Dialog system / scripted sequenced UI system
-    * reflective object UI generator
-
-### My Dragon (Galactus & Builder VR)
-* Nonstandard Assets
-* 3D math code (command zones, AI, 3D voronoi, navmesh pathfinding)
-  * in development in Unity3D. finding a good 3D-voronoi library would help a lot.
+* [Nonstandard Assets](https://github.com/mvaganov/galactus/tree/master/galactus/Assets/Nonstandard%20Assets)
+	- a complimentary API to Unity providing common useful tools, which will be used in the other software projects.
+* 3D math and visualization
+	- Lines, CubeTools (3D math library)
+	- TODO: 3D voronoi, navmesh pathfinding
+* timing and process control
+	- Timer was my old class. Proc is the new one, which does some process-explorer type management of coroutines
+* command line access
+	- CmdLine - a true command-line terminal replacement within Unity, including TTY color and position adjustment
+	- TODO make it more robust, for windows and *nix. but windows at least.
+* serializing data
+	- ~OMU - Object Modeling for Unity script (serialize/deserialize arbitrary data in JSON-like form)~
+	- JSON is actually pretty well supported now in Unity C# with Newtonsoft's free package
+* audio
+	- Noisy - basic sound triggering from scripts and UnityEvents
+	- Would be nice to get VoiceSynthesis in here too. commandline would be able to call third party tools to make this happen
+* compelling 3d dialogs
+	- "Story" Dialog system / scripted sequenced UI system
 * spreadsheet UI
-  * in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
-* Instant Runoff Voting tools (multiplayer decision making, AI)
-  * need to convert .js code to C#, develop visuals, probably share that as a stand-alone data visualization app.
-  * wrap around multiple ANN to create a recursive-ensemble technique (Sufrag Ex Machina)
-* dynamic stat system
-  * using common scripting system also used by spreadsheet UI may not scale well to thousands of objects. If I can generate C# objects with a runtime compiler, I'll have to create and use properties to replicate callback behavior around property updates.
+	- in development in Unity3D, with functional scripting engine. I just need to get this done. I'll probably open-source it when I do.
+	- I want it to be good enough to script performant character sheets for table top RPGs
+* decision making tools
+	- Instant Runoff Voting tools (multiplayer decision making, AI)
+	- wrap around multiple ANN to create a recursive-ensemble technique (Sufrag Ex Machina)
 * General AI (state-machines, steering behaviors)
-  * should find a good API someone else wrote and add 3D math code to it. would be nice to find someone who is a pro at this.
-* artifact building
-  * agent can build roads, barriers, caches, monuments. need to fully spec this out in a design doc.
+	- should find a good API someone else wrote and add 3D math code to it. would be nice to find someone who is a pro at this.
+	- I've implemented steering behaviors quite a few times at this point. might as well do it again.
 * VR controls
-  * more experimentation required, need to integrate into movement/control UI. need to bone-up on VR UI standards, or find an expert. Maybe VRTK 4.0 will solve this?
-* scripting system
-  * need to make imperative code in OMU more java-script like, and light enough to dissuade programming. the script should be declarative, and use functional patterns if scripting is needed
+	- it's sort of sad how little has been done to make VR development really accessible all this time. it's gotten better, but no real revolutionary API that makes development easy and fun yet.
 * Project & Task system
-  * use the scripted JSON-like datastructures (OMU) as the base. Already have examples of this working.
-* Personnel & Resource system
-  * requires spreadsheet UI, scripts, and stat/trait system for personnel to inform AI simulation. The RankedVote visual will help show and make-decisions-about resource/personnel usage.
-* Project Management Visualizations (WBS, GANTT, burndown)
-  * refresh and import old code.
+	- I've already developed JSON-like datastructures (OMU) as the base for a project management system
+	- personnel & resource system should go next. this will benefit from the spreadsheet UI for sure
+* Project Management Visualizations
+	- I have implementations that do cool animations between WBS:GANTT:burndown. that needs some resurrection.
+	- TODO I wanted to shader skills for this, to do performant vertex animation.
 * Customization UI
-  * need to find and implement color picker, sprite loader/picker, simple model generator and basic texture mapper.
+	* plenty of color pickers out there
+	* gltf is a standard thing now too, which is great.
+	* I wonder when someone will make a simple model generating AI with texture mapping.
 * Builder VR demo
-  * this needs many more sub-bullet points
+	* this needs many more sub-bullet points
