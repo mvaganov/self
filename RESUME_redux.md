@@ -1,13 +1,13 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with interns). 4+ years teaching CS K-12, primarily High School. 6+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
+Senior software developer with game programming, teaching/mentoring background. 8+ years teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 10+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, novel scripting languages, and more.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
 * Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR 
-* **20 years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach
+* **20+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach
 ## Portfolio
 * Code Samples: https://github.com/mvaganov/
 * Personal Website: http://www.codegiraffe.com/portfolio/
@@ -17,13 +17,15 @@ Senior level software developer with game programming, teaching and technical me
 
 
 #### Software Engineer at Meta
-(*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
+(*Nov. 2021 to April 2025*) Working on the metaverse
 * Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
+* Learned and used Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
-* Created user interface tools in virtual reality for on-device debugging of networking systems
-* Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
-* Implemented public SDK samples for Meta's (XR) Movement SDK
-* Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
+* Created networked body tracking demo, with UI tools in virtual reality for on-device debugging of networking systems
+* Designed and implemented face/eye tracking tool GazeAccuracy, shaped all further eye tracking testing/reporting
+* Implemented public SDK samples for Meta's (XR) Movement SDK, including 3D platforming character controller
+* Created body tracking package for testing research skeletons, used in Codec Avatars product for user embodiment
+* Transitioned to Codec Avatar SDK team to develop testing infrastructure and SDKs in NDK-based Codec Avatars product
 
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to Nov. 2021*) Member of a mercenary guild of elite robotics/VR/AR developers
@@ -59,7 +61,7 @@ Senior level software developer with game programming, teaching and technical me
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
-* Wrote software used to notify complex class schedule using speech synthesis
+* Wrote software used to notify school population of complex class schedule using speech synthesis
 * Wrote Artificial Neural Network from scratch using Python, then again C#, as a learning exercise
 
 
@@ -139,7 +141,7 @@ Senior level software developer with game programming, teaching and technical me
 
 
 #### Hobbies
-* Hiking, Biking, Rock Climbing, Fencing
+* Hiking, Biking, Rock Climbing
 * [Software Side-projects](inventionslist.md), Game Jams and Hackathons
 
 

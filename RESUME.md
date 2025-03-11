@@ -1,7 +1,7 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior level software developer with game programming, teaching and technical mentoring background. 8+ years of teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 6+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, domain specific scripting languages, and a custom web-browser on pre-smart-phone mobile.
+Senior software developer with game programming, teaching/mentoring background. 8+ years teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 10+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, novel scripting languages, and more.
 
 ## Skills
 * **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
@@ -16,10 +16,10 @@ Senior level software developer with game programming, teaching and technical me
 * Web: HTML5 + CSS + JavaScript, Angular
 
 ### Teaching<!--- #endif -->
-* **20 years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
+* **20+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
 * 4 years teaching High School Computer Science and tech oriented project based learning
 * 8 years teaching Undergraduate Computer Science (Game and Simulation Programming)
-* 7+ years tutoring/mentoring, at The Coder School, at Applied Computing Foundation, and college.
+* 10+ years tutoring/mentoring, at The Coder School, at Applied Computing Foundation, and college tutoring.
 <!--- #endif -->
 ## Portfolio
 * Code Samples: https://github.com/mvaganov/
@@ -29,23 +29,23 @@ Senior level software developer with game programming, teaching and technical me
 <!--- #ifndef redux -->
 ### Pre-COVID Employment + Education Timeline
 ```
-_____________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019
-Student      `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `   
-Teaching @DeVry    ` ppppppppppppppv `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `   
-Atlas/Infospace    `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `   
-LimeLife     `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `   
-Sacred Heart Prep  `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF 
-Lightside Games    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  F
-(ask me about "my dragon")     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v  
+_____________2001  2002  2003  2004  2005  2006  2007  2008  2009  2010  2011  2012  2013  2014  2015  2016  2017  2018  2019  
+Student      `  FFFFFFFFFFFFFFFFFF   `     `   ppp     `   ppppppppppp   `     `     `     `     `     `     `     `     `     
+Teaching @DeVry    ` ppppppppppppppv `     `pppppppppppppFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFpppp ppp`     `     `     `     `     
+Atlas/Infospace    `     `     `  FFFFFFFFFFFFFF `     `     `     `     `     `     `     `     `     `     `     `     `     
+LimeLife     `     `     `     `     `     `    FFFFFFFFF    `     `     `     `     `     `     `     `     `     `     `     
+Sacred Heart Prep  `     `     `     `     `     `     `     `     `     `     `     `     `     `   FFFFFFFFFFFFFFFFFFFFFFF   
+Lightside Games    `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `     `  FFF
+(ask me about "my dragon")     `     `     `  v  `     `    v`    v`    v`    v`    vvvvvFpppppppppp  vv v  v`vv   `    v`v    
 ```
 
 ### Contemporary Employment Timeline
 ```
-_______________2020  2021  2022  2023  2024  
-Moback         ` FFFFFFFFF `     `     `     
-Meta Platforms `     `    FFFFFFFFFFFFFFF    
- ACF           vppppvpppvpvpvvvvvvvvvvvvv    
-("my dragon")  v    vv vvvv`vvvv `     `     
+_______________2020  2021  2022  2023  2024  2025
+Moback         `FFFFFFFFFF `     `     `     `     
+Meta Platforms `     `    FFFFFFFFFFFFFFFFFFFFF    
+ ACF           vppppvpppvpvpvvvvvvvvvvvvvvvvvvv    
+("my dragon")  v    vv vvvv`vvvv `     `     `     
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
@@ -54,13 +54,15 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 <!--- #endif -->
 
 #### Software Engineer at Meta
-(*Nov. 2021 to present*) Working on tech infrastructure for the metaverse
+(*Nov. 2021 to April 2025*) Working on the metaverse
 * Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
+* Learned and used Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
-* Created user interface tools in virtual reality for on-device debugging of networking systems
-* Designed and implemented prototypes testing XR APIs and device features (realtime multiplayer, face/eye tracking)
-* Implemented public SDK samples for Meta's (XR) Movement SDK
-* Familiar with Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
+* Created networked body tracking demo, with UI tools in virtual reality for on-device debugging of networking systems
+* Designed and implemented face/eye tracking tool GazeAccuracy, shaped all further eye tracking testing/reporting
+* Implemented public SDK samples for Meta's (XR) Movement SDK, including 3D platforming character controller
+* Created body tracking package for testing research skeletons, used in Codec Avatars product for user embodiment
+* Transitioned to Codec Avatar SDK team to develop testing infrastructure and SDKs in NDK-based Codec Avatars product
 
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to Nov. 2021*) Member of a mercenary guild of elite robotics/VR/AR developers
@@ -96,7 +98,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 (*Aug. 2015 to Jun. 2019*) Faculty member at an exclusive private school.
 * Taught computer science, with curriculum designed to motivate with creativity and computer hacking
 * Subjects: Computer Science fundamentals, HTML/CSS, Python, JavaScript, C, C++, C#, Unity, VR, computer graphics, photoshop, 3D modeling, 3D printing, electronics, cyber security, tech industry culture
-* Wrote software used to notify complex class schedule using speech synthesis
+* Wrote software used to notify school population of complex class schedule using speech synthesis
 * Wrote Artificial Neural Network from scratch using Python, then again C#, as a learning exercise
 
 <!--- #ifndef redux -->
@@ -138,7 +140,8 @@ Sacred Heart Courses Taught:
 * Managed 30+ Senior Project teams (16 week projects, 2 to 5 programmers /team with varying skill levels)
 <!--- #ifndef redux -->
 * Personal teaching style emphasizes:
-  - Understanding is the price that must be paid. Running Code Is Truth.
+  - Understanding is the price that must be paid.
+  - Running Code Is Truth.
   - Leading by example (good code, honest testing, and honest communication)
   - Programming examples written in real-time, during class
   - Writing and testing working code from scratch, to show problem solving
@@ -147,7 +150,7 @@ Sacred Heart Courses Taught:
   - Lab work as start-to-finish programming projects. They Must Write Code.
   - Comparing academic and professional programming processes
   - Agile and agile (small-a) development, favoring the small-a
-  - Joy-of-discovery and character-building-pain-of-debugging are important
+  - Joy-of-discovery and importance of character-building-frustration from debugging
 * Faculty guide and mentor for game development clubs
 * Promoted from Adjunct to "Associate" Professor (full-time faculty) Apr. 2008
 * Voluntarily adjusted to "Visiting Professor" (part-time faculty) Aug. 2013
@@ -367,7 +370,7 @@ Infospace Mobile / Atlas Mobile Titles List:
 <!--- #endif -->
 
 #### Hobbies
-* Hiking, Biking, Rock Climbing, Fencing
+* Hiking, Biking, Rock Climbing
 * [Software Side-projects](inventionslist.md), Game Jams and Hackathons
 
 <!--- #ifndef redux -->
@@ -375,17 +378,18 @@ Infospace Mobile / Atlas Mobile Titles List:
 * The best programmer writes the most Readable code. Speed is for the compiler.
 * The best code will survive long after a programmer leaves it.
 * Single Point of Truth: One complexity, One bug, One change.
-* Code explicit functionality rather than side effects, and /** document it */
 * Comments are good, code that describes itself is better.
+* Code explicit functionality rather than side effects, and /** document it */
 * Think about optimization now, but do the actual optimization later.
 * Just Prototype. And don't expect another shot at it, so make it good!
 * Refactor, Sooner rather than later; clean code grows into powerful code.
+* Target: small functions, clear names, 2 or less indentation levels
 * Disciplined, results oriented software development is always in style.
 * How most production code should be judged (in order):
   - Functionality: intended results are produced (with constraints in mind)
   - Survivability: useable again elsewhere (maintainable/readable/modular)
-  - Robustness: stability with a wide range of input (no bugs)
   - Resource Use: resources used conservatively (Big-O, memory, threads, ...)
+  - Robustness: stability with a wide range of input (no bugs)
   - Everything Else: elegance/robust-unit-tests/optimal-efficiency/...
 * The Unix way feels right (http://www.faqs.org/docs/artu/ch01s06.html)
 
@@ -394,11 +398,10 @@ Infospace Mobile / Atlas Mobile Titles List:
 * Rules are for people who don't know any better; Rules are important, but Understanding sets you free.
 * Luck is where preparation meets random opportunity, which is happening constantly.
 * To make the next best thing, the current best thing must be mundane.
-* A spoonful of test dissolves a pound of design.
-* Without clear goals we are wasting people's time, and we are made of time.
+* A spoonful of test dissolves a pound of design. So, Test early, test often.
+* Without clear goals we are wasting people's time --and we are made of time.
 * Do not fear complexity, simplify it.
 * more at: http://codegiraffe.com/quotes.txt
-<!--- #endif -->
-
 <!-- Find this resume PDF at https://tinyurl.com/resumeMvaganov -->
 <!-- See https://tinyurl.com/mvGitRes for more detailed resume -->
+<!--- #endif -->
