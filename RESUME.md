@@ -56,6 +56,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 #### Software Engineer at Meta
 (*Nov. 2021 to April 2025*) Working on the metaverse
 * Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
+<!-- Crystal Equation, 200 W Madison St Ste 970, Chicago, IL 60606. +1 (847) 480-7575 -->
 * Learned and used Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
 * Maintained prototyping infrastructure (Unity packages) for prototypers, including testing and feature development
 * Created networked body tracking demo, with UI tools in virtual reality for on-device debugging of networking systems
@@ -63,6 +64,7 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Implemented public SDK samples for Meta's (XR) Movement SDK, including 3D platforming character controller
 * Created body tracking package for testing research skeletons, used in Codec Avatars product for user embodiment
 * Transitioned to Codec Avatar SDK team to develop testing infrastructure and SDKs in NDK-based Codec Avatars product
+<!-- Meta, 1 Meta Way, Menlo Park, CA 94025. -->
 
 #### Senior Software Engineer at Moback
 (*Apr. 2020 to Nov. 2021*) Member of a mercenary guild of elite robotics/VR/AR developers
