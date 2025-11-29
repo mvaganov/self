@@ -1,19 +1,19 @@
 # Michael Vaganov (`michael.vaganov@gmail.com`)
 <!-- https://goo.gl/b27MsM https://tinyurl.com/resumeMvaganov -->
 ### Summary
-Senior software developer with game programming, teaching/mentoring background. 8+ years teaching undergraduate game development in C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 10+ years Teaching Unity 3D game/VR development. 2+ years technical management. Professionally implemented Unity prototypes, garbage-collection systems in C++, socket networking, novel scripting languages, and more.
+Senior software developer with entrepreneurship, game programming, teaching/mentoring background. 8+ years teaching undergraduate game development in C and C++, in technical and practical 8-week courses, and guiding final projects (rapid prototyping with jr developers). 4+ years teaching CS K-12, primarily High School. 10+ years Teaching Unity 3D game/VR development. 2+ years technical management. 20+ years writing code professionally: notably implemented XR prototypes at Meta, garbage-collection systems for small devices, socket networking in C and C++, control systems for IoT devices, novel scripting languages, and more.
 
 ## Skills
-* **20+ years Programming**: hobbyist, game programmer, educator, consultant, software engineer
+* **20+ years Computer Programming**: software engineer, game developer, consultant, educator
 * Programming Languages: **C, C++, C#, Java, JavaScript, Python**
 * Software Domains: games, productivity, automation, UI/UX, client/server, 3D, AR/VR/XR <!--- #ifndef redux -->
-* Rapid Prototyping: Unity, JavaScript, Google Docs, Pen+Paper+Dice
+* Rapid Prototyping: Unity, JavaScript, Google Docs, Pen+Paper+Dice, LLMs
 * Graphics: 3D modelling (Blender), 2D (Photoshop/GIMP), procedural (assets from code)
-* Simulations: 2D and 3D math, real-time systems (single & multi threaded)
+* Simulations: 2D and 3D math, real-time systems
 * Data Structures: custom implementations for cache/memory/fragmentation
-* Scripting: LUA, SQL, custom parsers + languages + compilers + VMs
+* Scripting: Python, JS, LUA, SQL, custom parsers + languages + compilers + VMs
 * Dev tools: Command-line (cmd, terminal, batch/bash), Git
-* Web: HTML5 + CSS + JavaScript, Angular
+* Web: HTML/CSS/JavaScript, iterating with LLMs
 
 ### Teaching<!--- #endif -->
 * **20+ years Teaching Computer Science**: ages 7 to 40+, as tutor, undergrad professor, high-school teacher, code coach<!--- #ifndef redux -->
@@ -44,8 +44,7 @@ Lightside Games    `     `     `     `     `     `     `     `     `     `     `
 _______________2020  2021  2022  2023  2024  2025
 Moback         `FFFFFFFFFF `     `     `     `     
 Meta Platforms `     `    FFFFFFFFFFFFFFFFFFFFF    
- ACF           vppppvpppvpvpvvvvvvvvvvvvvvvvvvv    
-("my dragon")  v    vv vvvv`vvvv `     `     `     
+ ACF           vppppvpppvpvpvvvvvvvvvvvvvvvvvvvvvpv
 ```
 Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v```) Volunteer (~10 hrs/wk)
 <!--- #endif -->
@@ -53,8 +52,21 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 ### Employment Details
 <!--- #endif -->
 
+#### Chief Educator, Futurist, and Code Coach at Applied Computing Foundation
+(*Feb. 2020 to present*) Making Wizards: Teaching how to solve problems with Applied Computing
+* Part of executive committee, giving feedback on process and guidance on future initiatives
+* Teaching Virtual Reality, Game Development, and Entrepreneurship classes
+* Technical vetting and some training of new hires
+* Example: [[Think With Tools]](https://github.com/mvaganov/thinkwithtools/blob/main/curriculum.md) curriculum to "Learn to code webpages with AI as your partner, sharpening your mind, not offloading it."
+
+#### Contracted Principle Engineer at Chefee
+(*May 2025 to August 2025*) Briefly wearing many hats at a robotics startup company
+* Consulting with C-suite about software and varied business decisions
+* Chefee OS Maintenance and leading small team to prototype new version
+* Prototyping Chefee simulator, for synthetic data to train AI safety system
+
 #### Software Engineer at Meta
-(*Nov. 2021 to April 2025*) Working on the metaverse
+(*Nov. 2021 to April 2025*) Developing XR Prototypes
 * Originally hired as a Contingent Worker via Crystal Equation, converted to Full Time Employee June 2022
 <!-- Crystal Equation, 200 W Madison St Ste 970, Chicago, IL 60606. +1 (847) 480-7575 -->
 * Learned and used Meta engineering infrastructure (the mono repo and diffs, security and provisioning, VR/AR hardware)
@@ -84,11 +96,6 @@ Key: (```F```) Full-time (40+ hrs/wk), (```p```) Part-time (~20 hrs/wk), (```v``
 * Collaborated with lead designer to plan product pipeline, including concept market-testing
 * Represented company at conferences and industry meetups
 <!-- 1250 CAPITAL OF TEXAS HIGHWAY SOUTH, BUILDING 3, AUSTIN, TX, 78746. Alain Ayoub, CEO while I worked there -->
-
-#### Chief Educator, Futurist, and Code Coach at Applied Computing Foundation
-(*Feb. 2020 to present*) Showing how to Apply Computing to solve problems (I'm making wizards!)
-* Part of executive committee, giving feedback on process and guidance on future initiatives 
-* Teaching Virtual Reality, Game Development, and Entrepreneurship classes
 
 #### Faculty at Gamebridge Unityversity
 (*Aug. 2016 to Mar. 2020*) Lead weekly Virtual Reality & Game Development workshops
