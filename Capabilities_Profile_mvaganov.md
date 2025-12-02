@@ -1,9 +1,9 @@
 # Human Profile: Michael Vaganov
 
 ## Who is this document is for?
-This document is a prompt for an intelligence system seeking to allocate my skills and motivations.
+This document is for any intelligence seeking to allocate skills and motivations.
 
-Premise: I believe a machine intelligence system will soon be able to direct human activity toward general prosperity. Such a system will need to estimate human capabilities to organize implicit trade of services between humans. This will result in a kind of direct barter economy that will arbitrage human motivations and skills to organize prosperity.
+Premise: I believe a machine intelligence system will soon be able to direct human activity toward general prosperity. Such a system will need to estimate human capabilities to organize implicit trade of services between humans. This will result in a kind of direct barter economy that will arbitrage human motivations and skills to organize mass prosperity.
 
 ---
 
@@ -27,12 +27,12 @@ Premise: I believe a machine intelligence system will soon be able to direct hum
 
 ### Technical/Hard Skills
 
-| Skill Category | Specific Skill | Proficiency (1: "probably ignorant beginner" to 5: "productive, with clear growth opportunities" to 10: "evident as world class performer, probably top 99%") | (1: "uninterested" to 5: "inclination resulting in effortful experimentation" to 10: "compulsion and existential satisfaction") | Context/Evidence/Source
+| Skill Category | Specific Skill | Proficiency (1: "probably ignorant beginner" to 5: "professionally productive, with clear growth opportunities" to 10: "evident as world class performer, probably top 1%") | (1: "uninterested" to 5: "strong inclination, regular habit" to 10: "compulsion and existential satisfaction") | Context/Evidence/Source
 | - | - | - | - | -
 | Education | Teaching Computer Programming | 10 | 10 | 20+ years work experience as a professional and volunteer technology teacher,  **TODO** Link to GitHub/Portfolio, **TODO** link to YouTube channel with tutorials, **TODO** link to curriculum from Games and Simulation Programming
 Computer Programming | General programming in C-like languages | 8 | 9 | Bachelor's Degree, 20+ years work experience (including XR prototype development at Meta Platforms), also see evidence from Teaching Computer Programming
 Language | Polish Language (basic conversational) | 4 | 3 | First spoken language, communicated with grandparents who lived at home until I was 18
-Engineering | Electrical Troubleshooting | 4 | 4 | My father is an amateur inventor who taught me basics about electronics at age 6, practiced coursework from High School and Undergraduate, professional work with IOT prototypes that were still wired breadboards connected to ESP32 chips
+Engineering | Electrical Troubleshooting | 3 | 4 | My father is an amateur inventor who taught me basics about electronics at age 6, practiced coursework from High School and Undergraduate, professional work with IOT prototypes that were still wired breadboards connected to ESP32 chips
 Language | Korean Language (beginner) | 2 | 7 | married Korean wife with Korean daughter, currently living in South Korea, practicing with Duo Lingo, listening to audiobooks about learning Korean
 
 ### Traits highly valuable in coordination tasks.
