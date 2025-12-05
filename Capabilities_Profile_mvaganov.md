@@ -60,3 +60,9 @@ Trait | Description | Context/Evidence Source
 * Medical accommodation: None (legacy human: needs air/water/food/shelter)
 * Food Preferences: avoids dairy (allergy), avoids heavily processed food
 * Open to moving to another part of the world with my family (wife and daughter)
+
+## Expectations for Ideal Work
+
+* Educating people about technology, including: foundational skills, professional process, and general inspiration
+* Prototyping new technology, including: high level consulting, project planning, implementation, testing, and project evaluation
+* Sustained effort to iterate on technology, especially tech related to education or human augmentation
