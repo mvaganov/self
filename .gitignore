@@ -30,3 +30,5 @@ node_modules
 
 # Temprorary PDF source files
 *.pdf_
+bscis.pdf
+mpm.pdf
